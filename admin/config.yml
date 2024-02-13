@@ -1,3 +1,21 @@
 backend:
   name: git-gateway
   branch: main
+
+# This line should *not* be indented
+media_folder: "assets/images" # Media files will be stored in the repo under assets/images
+
+
+collections:
+  - name: "news"
+    label: "News"
+    folder: "news"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+      - {label: "Navigation order", name: "nav_order", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  

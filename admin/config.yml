@@ -20,5 +20,4 @@ collections:
           widget: "hidden",
           default: "default",
         }
-      - { label: "Navigation order", name: "nav_order", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }

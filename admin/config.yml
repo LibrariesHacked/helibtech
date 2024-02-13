@@ -6,8 +6,34 @@ backend:
 media_folder: "assets/images" # Media files will be stored in the repo under assets/images
 
 collections:
+  - name: "news_index"
+    label: "News index"
+    folder: "news"
+    create: false
+    fields:
+      - { label: "News", name: "news", widget: "string" }
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "default",
+        }
+      - {
+          label: "Navigation order",
+          name: "nav_order",
+          widget: "hidden",
+          default: 1,
+        }
+      - {
+          label: "Has children",
+          name: "has_children",
+          widget: "hidden",
+          default: true,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+
   - name: "news"
-    label: "News"
+    label: "News posts"
     folder: "news"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md

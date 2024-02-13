@@ -9,9 +9,12 @@ collections:
   - name: "news_index"
     label: "News index"
     folder: "news"
-    create: false
+    delete: false
+    filter:
+      field: title
+      value: News
     fields:
-      - { label: "News", name: "news", widget: "string" }
+      - { label: "Title", name: "title", widget: "string" }
       - {
           label: "Layout",
           name: "layout",
@@ -47,3 +50,4 @@ collections:
           default: "default",
         }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Parent", name: "parent", widget: "hidden", default: "News" }

@@ -11,8 +11,8 @@ collections:
     folder: "news"
     delete: false
     filter:
-      field: title
-      value: News
+      field: has_children
+      value: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - {
@@ -35,11 +35,14 @@ collections:
         }
       - { label: "Body", name: "body", widget: "markdown" }
 
-  - name: "news"
+  - name: "news_posts"
     label: "News posts"
     folder: "news"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    filter:
+      field: parent
+      value: News
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
@@ -52,7 +55,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Parent", name: "parent", widget: "hidden", default: "News" }
 
-  - name: "news"
+  - name: "news_archive"
     label: "News archive"
     folder: "news/archive"
     create: false

@@ -1,8 +1,8 @@
 ---
 title: News
 layout: default
-nav_order: 1
+nav_order: 2
 has_children: true
 ---
 
-Some information about the news content
+News items

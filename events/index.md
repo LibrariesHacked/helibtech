@@ -1,8 +1,10 @@
 ---
-title: Current events
+title: Events
 layout: default
-nav_order: 2
+nav_order: 3
 has_children: true
 ---
 
-Events
+# Current events
+
+This is a list of current events. 

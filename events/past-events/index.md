@@ -6,5 +6,7 @@ has_children: true
 parent: Events
 ---
 
-Past events
+# Past events
+
+This is a list of past events. 
 

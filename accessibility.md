@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accessibility
-nav_order: 8
+nav_order: 17
 has_children: false
 permalink: /accessibility
 ---

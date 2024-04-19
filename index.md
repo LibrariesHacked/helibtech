@@ -1,11 +1,8 @@
 ---
+title: About HELibTech
 layout: default
-title: Home
 nav_order: 1
-description: HELibTech Home Page
-permalink: /
+has_children: false
 ---
 
 # Higher Education Library Technology
-
-{: .fs-9 }

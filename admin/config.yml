@@ -46,6 +46,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Source", name: "excerpt", widget: "string" }
       - {
           label: "Layout",
           name: "layout",
@@ -63,6 +64,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Source", name: "excerpt", widget: "string" }
       - {
           label: "Layout",
           name: "layout",

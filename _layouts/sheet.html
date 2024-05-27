@@ -27,7 +27,11 @@ layout: default
                 complete: function (results) {
                     // Create the DataTable
                     console.log(results.data);
+                },
+                error: function (error) {
+                    console.log(error);
                 }
+
             });
         }
 

@@ -11,7 +11,36 @@ layout: default
 
 
 <!-- Add script for DataTables JS -->
-<script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>=
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js"></script>
 
 <script>
+    // Wrap in a function to prevent global variables and to keep code clean
+    (function () {
+        // Load the data from the CSV file
+        function loadData() {
+            Papa.parse("https://docs.google.com/spreadsheets/d/19tzGFPCGVyyloGaAuBpexvpI2BkY7B_IYQizy40M97Q/gviz/tq?tqx=out:csv&tq=SELECT%20*", {
+                download: true,
+                header: true,
+                complete: function (results) {
+                    // Create the DataTable
+                    $('#sheet').DataTable({
+                        data: results.data,
+                        columns: [
+                            { data: 'Name' },
+                            { data: 'Position' },
+                            { data: 'Office' },
+                            { data: 'Age' },
+                            { data: 'Start date' },
+                            { data: 'Salary' }
+                        ]
+                    });
+                }
+            });
+        }
+
+        // Call the function to load the data
+        loadData();
+    })();
+
 </script>

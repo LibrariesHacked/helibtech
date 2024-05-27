@@ -1,6 +1,6 @@
 ---
 title: Product directory
-layout: default
+layout: sheet
 nav_order: 5
 has_children: false
 ---

@@ -23,6 +23,7 @@ layout: default
             Papa.parse("https://docs.google.com/spreadsheets/d/19tzGFPCGVyyloGaAuBpexvpI2BkY7B_IYQizy40M97Q/gviz/tq?tqx=out:csv&tq=SELECT%20*", {
                 download: true,
                 header: true,
+                worker: true,
                 complete: function (results) {
                     // Create the DataTable
                     console.log(results.data);

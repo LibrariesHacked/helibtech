@@ -16,25 +16,22 @@ layout: default
 <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js"></script>
 
 <script>
-    (function () {
-        // Load the data from the CSV file
-        function loadData() {
-            Papa.parse("https://docs.google.com/spreadsheets/d/19tzGFPCGVyyloGaAuBpexvpI2BkY7B_IYQizy40M97Q/gviz/tq?tqx=out:csv&tq=SELECT%20*", {
-                download: true,
-                header: true,
-                worker: true,
-                complete: function (results) {
-                    // Create the DataTable
-                    console.log(results.data);
-                },
-                error: function (error) {
-                    console.log(error);
-                }
+    function loadData() {
+        Papa.parse("https://docs.google.com/spreadsheets/d/19tzGFPCGVyyloGaAuBpexvpI2BkY7B_IYQizy40M97Q/gviz/tq?tqx=out:csv&tq=SELECT%20*", {
+            download: true,
+            header: true,
+            worker: true,
+            complete: function (results) {
+                // Create the DataTable
+                console.log(results.data);
+            },
+            error: function (error) {
+                console.log(error);
+            }
 
-            });
-        }
+        });
+    }
 
-        // Call the function to load the data
-        loadData();
-    })();
+    // Call the function to load the data
+    loadData();
 </script>

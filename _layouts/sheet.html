@@ -25,17 +25,7 @@ layout: default
                 header: true,
                 complete: function (results) {
                     // Create the DataTable
-                    $('#sheet').DataTable({
-                        data: results.data,
-                        columns: [
-                            { data: 'Name' },
-                            { data: 'Position' },
-                            { data: 'Office' },
-                            { data: 'Age' },
-                            { data: 'Start date' },
-                            { data: 'Salary' }
-                        ]
-                    });
+                    console.log(results.data);
                 }
             });
         }

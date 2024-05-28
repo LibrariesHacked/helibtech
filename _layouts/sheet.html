@@ -21,8 +21,12 @@ layout: default
             download: true,
             header: true,
             worker: true,
+            skipFirstNLines: 2,
             complete: function (results) {
-                console.log(results.data);
+                $('#sheet').dataTable({
+                    data: results.data,
+                    columns: results.meta.fields
+                })
             },
             error: function (error) {
                 console.log(error);

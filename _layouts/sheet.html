@@ -24,7 +24,7 @@ layout: default
             worker: true,
             skipEmptyLines: true,
             complete: function (results) {
-                new DataTable('#example', {
+                new DataTable('#sheet', {
                     data: results.data,
                     columns: results.meta.fields.map(function (field) {
                         return { title: field, data: field }

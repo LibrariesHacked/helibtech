@@ -22,6 +22,7 @@ layout: default
             header: true,
             worker: true,
             skipFirstNLines: 2,
+            skipEmptyLines: true,
             complete: function (results) {
                 $('#sheet').dataTable({
                     data: results.data,

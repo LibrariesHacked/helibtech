@@ -4,7 +4,7 @@ layout: default
 
 {{ content }}
 
-<table id="sheet"></table>
+<table id="sheet" class="display" style="width:100%"></table>
 
 <!-- Add CSS for DataTables -->
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/2.0.7/css/dataTables.dataTables.min.css">
@@ -25,7 +25,9 @@ layout: default
             complete: function (results) {
                 new DataTable('#example', {
                     data: results.data,
-                    columns: results.meta.fields
+                    columns: results.meta.fields.map(function (field) {
+                        return { title: field, data: field }
+                    })
                 })
             },
             error: function (error) {

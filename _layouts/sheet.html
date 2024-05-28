@@ -4,7 +4,7 @@ layout: default
 
 {{ content }}
 
-<div id="sheet"></div>
+<table id="sheet"></table>
 
 <!-- Add CSS for DataTables -->
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">
@@ -24,7 +24,7 @@ layout: default
             skipFirstNLines: 2,
             skipEmptyLines: true,
             complete: function (results) {
-                $('#sheet').dataTable({
+                new DataTable('#example', {
                     data: results.data,
                     columns: results.meta.fields
                 })

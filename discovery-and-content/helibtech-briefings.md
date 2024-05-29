@@ -2,7 +2,7 @@
 title: HELibTech briefings
 layout: default
 nav_order: 6
-parent: Core library systems
+parent: Discovery and content
 has_children: false
 ---
 

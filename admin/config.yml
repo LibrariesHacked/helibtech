@@ -5,57 +5,59 @@ backend:
 media_folder: "assets/images"
 
 collections:
-  - name: news_index
-    label: News home
-    file: news/index.md
-    create: false
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - {
-          label: "Layout",
-          name: "layout",
-          widget: "hidden",
-          default: "default",
-        }
-      - {
-          label: "Navigation order",
-          name: "nav_order",
-          widget: "hidden",
-          default: 1,
-        }
-      - {
-          label: "Has children",
-          name: "has_children",
-          widget: "hidden",
-          default: true,
-        }
+  - label: "Pages"
+    files:
+      - name: news_index
+        label: News home
+        file: news/index.md
+        create: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "default",
+            }
+          - {
+              label: "Navigation order",
+              name: "nav_order",
+              widget: "hidden",
+              default: 1,
+            }
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: true,
+            }
 
-  - name: analytics_and_user_engagement_index
-    label: Analytics and user engagement home
-    file: analytics-and-user-engagement/index.md
-    create: false
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - {
-          label: "Layout",
-          name: "layout",
-          widget: "hidden",
-          default: "default",
-        }
-      - {
-          label: "Navigation order",
-          name: "nav_order",
-          widget: "hidden",
-          default: 1,
-        }
-      - {
-          label: "Has children",
-          name: "has_children",
-          widget: "hidden",
-          default: true,
-        }
+      - name: analytics_and_user_engagement_index
+        label: Analytics and user engagement home
+        file: analytics-and-user-engagement/index.md
+        create: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "default",
+            }
+          - {
+              label: "Navigation order",
+              name: "nav_order",
+              widget: "hidden",
+              default: 1,
+            }
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: true,
+            }
 
   - name: "news_posts"
     label: "News posts"

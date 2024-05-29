@@ -8,9 +8,139 @@ collections:
   - label: "Pages"
     name: "pages"
     files:
-      - name: news_index
-        label: News
-        file: news/index.md
+      - name: analytics_and_user_engagement_index
+        label: Analytics and user engagement home
+        file: analytics-and-user-engagement/index.md
+        create: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "default",
+            }
+          - {
+              label: "Navigation order",
+              name: "nav_order",
+              widget: "hidden",
+              default: 10,
+            }
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: true,
+            }
+
+      - name: archives_and_special_collections_index
+        label: Archives and special collections home
+        file: archives-and-special-collections/index.md
+        create: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "default",
+            }
+          - {
+              label: "Navigation order",
+              name: "nav_order",
+              widget: "hidden",
+              default: 11,
+            }
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: true,
+            }
+
+      - name: core_library_systems_index
+        label: Core library systems home
+        file: core-library-systems/index.md
+        create: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "default",
+            }
+          - {
+              label: "Navigation order",
+              name: "nav_order",
+              widget: "hidden",
+              default: 6,
+            }
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: true,
+            }
+
+      - name: discovery_and_content_index
+        label: Discovery and content home
+        file: discovery-and-content/index.md
+        create: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "default",
+            }
+          - {
+              label: "Navigation order",
+              name: "nav_order",
+              widget: "hidden",
+              default: 7,
+            }
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: true,
+            }
+
+      - name: events_index
+        label: Events home
+        file: events/index.md
+        create: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "default",
+            }
+          - {
+              label: "Navigation order",
+              name: "nav_order",
+              widget: "hidden",
+              default: 3,
+            }
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: true,
+            }
+
+      - name: past_events_index
+        label: Past events home
+        file: events/past-events/index.md
         create: false
         fields:
           - { label: "Title", name: "title", widget: "string" }
@@ -34,9 +164,61 @@ collections:
               default: true,
             }
 
-      - name: analytics_and_user_engagement_index
-        label: Analytics and user engagement
-        file: analytics-and-user-engagement/index.md
+      - name: learning_and_teaching_tech_index
+        label: Learning and teaching tech home
+        file: learning-and-teaching-tech/index.md
+        create: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "default",
+            }
+          - {
+              label: "Navigation order",
+              name: "nav_order",
+              widget: "hidden",
+              default: 8,
+            }
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: true,
+            }
+
+      - name: news_index
+        label: News home
+        file: news/index.md
+        create: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "default",
+            }
+          - {
+              label: "Navigation order",
+              name: "nav_order",
+              widget: "hidden",
+              default: 2,
+            }
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: true,
+            }
+
+      - name: news_archive_index
+        label: News archive home
+        file: news/archive/index.md
         create: false
         fields:
           - { label: "Title", name: "title", widget: "string" }
@@ -52,6 +234,84 @@ collections:
               name: "nav_order",
               widget: "hidden",
               default: 1,
+            }
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: true,
+            }
+
+      - name: product_directory
+        label: Product directory
+        file: product-directory/index.md
+        create: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "sheet",
+            }
+          - {
+              label: "Navigation order",
+              name: "nav_order",
+              widget: "hidden",
+              default: 5,
+            }
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: false,
+            }
+
+      - name: research_management_index
+        label: Research management home
+        file: research-management/index.md
+        create: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "default",
+            }
+          - {
+              label: "Navigation order",
+              name: "nav_order",
+              widget: "hidden",
+              default: 9,
+            }
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: true,
+            }
+
+      - name: who_uses_what_index
+        label: Who uses what home
+        file: who-uses-what/index.md
+        create: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "default",
+            }
+          - {
+              label: "Navigation order",
+              name: "nav_order",
+              widget: "hidden",
+              default: 4,
             }
           - {
               label: "Has children",

@@ -2,19 +2,16 @@ backend:
   name: git-gateway
   branch: main
 
-# This line should *not* be indented
-media_folder: "assets/images" # Media files will be stored in the repo under assets/images
+media_folder: "assets/images"
 
 collections:
-  - name: "news_index"
-    label: "News index"
-    folder: "news"
-    delete: false
-    filter:
-      field: has_children
-      value: true
+  - name: news_index
+    label: News home
+    file: news/index.md
+    create: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
       - {
           label: "Layout",
           name: "layout",
@@ -33,28 +30,53 @@ collections:
           widget: "hidden",
           default: true,
         }
-      - { label: "Body", name: "body", widget: "markdown" }
 
-  - name: "news_posts"
-    label: "News posts"
-    folder: "news"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    filter:
-      field: parent
-      value: News
+  - name: analytics_and_user_engagement_index
+    label: Analytics and user engagement home
+    file: analytics-and-user-engagement/index.md
+    create: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Source", name: "excerpt", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
       - {
           label: "Layout",
           name: "layout",
           widget: "hidden",
           default: "default",
         }
+      - {
+          label: "Navigation order",
+          name: "nav_order",
+          widget: "hidden",
+          default: 1,
+        }
+      - {
+          label: "Has children",
+          name: "has_children",
+          widget: "hidden",
+          default: true,
+        }
+
+  - name: "news_posts"
+    label: "News posts"
+    folder: "News"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    filter:
+      field: parent
+      value: News
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date added", name: "date", widget: "datetime" }
+      - { label: "Synopsis", name: "synopsis", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Parent", name: "parent", widget: "hidden", default: "News" }
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "default",
+        }
 
   - name: "news_archive"
     label: "News archive"

@@ -6,9 +6,10 @@ media_folder: "assets/images"
 
 collections:
   - label: "Pages"
+    name: "pages"
     files:
       - name: news_index
-        label: News home
+        label: News
         file: news/index.md
         create: false
         fields:
@@ -34,7 +35,7 @@ collections:
             }
 
       - name: analytics_and_user_engagement_index
-        label: Analytics and user engagement home
+        label: Analytics and user engagement
         file: analytics-and-user-engagement/index.md
         create: false
         fields:

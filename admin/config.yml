@@ -4,6 +4,69 @@ backend:
 
 media_folder: "assets/images"
 
+aliases:
+  - &META_TAGS {
+      label: "Metadata tags",
+      name: "tags",
+      widget: "select",
+      multiple: true,
+      options:
+        [
+          "News",
+          "LSP",
+          "Acquisitions",
+          "Discovery",
+          "Research Information Management System",
+          "Apps",
+          "Digitisation",
+          "Special collections",
+          "Events",
+          "Library management systems",
+          "Software",
+          "Electronic resource management",
+          "Open Access",
+          "Collection management",
+          "Engagement",
+          "Research management",
+          "Products",
+          "Migration",
+          "Hardware",
+          "Institutional repository",
+          "Research Data Management",
+          "Collection development",
+          "Learning & teaching",
+          "Technology market",
+          "Procurement",
+          "Interlending",
+          "RFID",
+          "IR",
+          "RDM",
+          "Reading lists",
+          "Etextbooks",
+          "Library systems",
+          "Resource sharing",
+          "Authentication",
+          "CRIS",
+          "Chatbots",
+          "Resource lists",
+          "Ebooks",
+          "LMS",
+          "Controlled Digital Lending",
+          "Artificial Intelligence",
+          "Current research information system",
+          "Enquiry management",
+          "VLE",
+          "Research metrics",
+          "Library services platform",
+          "CDL",
+          "AI",
+          "RIMS",
+          "Data & analytics",
+          "Virtual Learning Environment",
+          "Archives",
+        ],
+    }
+
 collections:
   - label: "Pages"
     name: "pages"
@@ -33,6 +96,7 @@ collections:
               widget: "hidden",
               default: true,
             }
+          - <<: *META_TAGS
 
       - name: archives_and_special_collections_index
         label: Archives and special collections home
@@ -340,6 +404,7 @@ collections:
           widget: "hidden",
           default: "default",
         }
+      - { label: "Metadata tags", name: "tags", widget: "markdown" }
 
   - name: "news_archive"
     label: "News archive"

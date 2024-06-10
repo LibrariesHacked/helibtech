@@ -5,6 +5,13 @@ backend:
 media_folder: "assets/images"
 
 aliases:
+  - &TITLE { label: "Title", name: "title", widget: "string" }
+  - &BODY { label: "Body", name: "body", widget: "markdown" }
+  - &DATE { label: "Date", name: "date", widget: "datetime" }
+  - &DATE_ADDED { label: "Date added", name: "date_added", widget: "datetime" }
+  - &SYNOPSIS { label: "Synopsis", name: "synopsis", widget: "markdown" }
+  - &ABSTRACT { label: "Synopsis", name: "synopsis", widget: "markdown" }
+  - &URL { label: "External URL", name: "url", widget: "string" }
   - &META_TAGS {
       label: "Metadata tags",
       name: "tags",
@@ -393,18 +400,12 @@ collections:
       field: parent
       value: News
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date added", name: "date", widget: "datetime" }
-      - { label: "Synopsis", name: "synopsis", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - *TITLE
+      - *DATE_ADDED
+      - *SYNOPSIS
+      - *META_TAGS
+      - *BODY
       - { label: "Parent", name: "parent", widget: "hidden", default: "News" }
-      - {
-          label: "Layout",
-          name: "layout",
-          widget: "hidden",
-          default: "default",
-        }
-      - { label: "Metadata tags", name: "tags", widget: "markdown" }
 
   - name: "news_archive"
     label: "News archive"
@@ -412,14 +413,45 @@ collections:
     create: false
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Source", name: "excerpt", widget: "string" }
+      - *TITLE
+      - *DATE_ADDED
+      - *SYNOPSIS
+      - *META_TAGS
+      - *BODY
       - {
-          label: "Layout",
-          name: "layout",
+          label: "Parent",
+          name: "parent",
           widget: "hidden",
-          default: "default",
+          default: "News archive",
         }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Parent", name: "parent", widget: "hidden", default: "News" }
+
+  - name: "events"
+    label: "Events"
+    folder: "events"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - *TITLE
+      - *DATE
+      - *ABSTRACT
+      - *META_TAGS
+      - *BODY
+      - { label: "Parent", name: "parent", widget: "hidden", default: "Events" }
+
+  - name: "past_events"
+    label: "Past events"
+    folder: "events/past-events"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - *TITLE
+      - *DATE
+      - *ABSTRACT
+      - *META_TAGS
+      - *BODY
+      - {
+          label: "Parent",
+          name: "parent",
+          widget: "hidden",
+          default: "Past events",
+        }

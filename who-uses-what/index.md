@@ -1,5 +1,5 @@
 ---
-title: Who uses what?
+title: Who uses what
 layout: default
 nav_order: 4
 has_children: true

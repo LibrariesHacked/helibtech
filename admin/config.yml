@@ -105,7 +105,6 @@ collections:
               widget: "hidden",
               default: true,
             }
-          - <<: *META_TAGS
 
       - name: archives_and_special_collections_index
         label: Archives and special collections

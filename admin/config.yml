@@ -12,6 +12,12 @@ aliases:
   - &SYNOPSIS { label: "Synopsis", name: "synopsis", widget: "markdown" }
   - &ABSTRACT { label: "Synopsis", name: "synopsis", widget: "markdown" }
   - &URL { label: "External URL", name: "url", widget: "string" }
+  - &DEFAULT_LAYOUT {
+      label: "Layout",
+      name: "layout",
+      widget: "hidden",
+      default: "default",
+    }
   - &META_TAGS {
       label: "Metadata tags",
       name: "tags",
@@ -83,14 +89,10 @@ collections:
         file: analytics-and-user-engagement/index.md
         create: false
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
-          - {
-              label: "Layout",
-              name: "layout",
-              widget: "hidden",
-              default: "default",
-            }
+          - *TITLE
+          - *BODY
+          - *META_TAGS
+          - *DEFAULT_LAYOUT
           - {
               label: "Navigation order",
               name: "nav_order",
@@ -110,14 +112,9 @@ collections:
         file: archives-and-special-collections/index.md
         create: false
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
-          - {
-              label: "Layout",
-              name: "layout",
-              widget: "hidden",
-              default: "default",
-            }
+          - *TITLE
+          - *BODY
+          - *META_TAGS
           - {
               label: "Navigation order",
               name: "nav_order",
@@ -136,14 +133,9 @@ collections:
         file: core-library-systems/index.md
         create: false
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
-          - {
-              label: "Layout",
-              name: "layout",
-              widget: "hidden",
-              default: "default",
-            }
+          - *TITLE
+          - *BODY
+          - *META_TAGS
           - {
               label: "Navigation order",
               name: "nav_order",
@@ -162,14 +154,9 @@ collections:
         file: discovery-and-content/index.md
         create: false
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
-          - {
-              label: "Layout",
-              name: "layout",
-              widget: "hidden",
-              default: "default",
-            }
+          - *TITLE
+          - *BODY
+          - *META_TAGS
           - {
               label: "Navigation order",
               name: "nav_order",
@@ -188,14 +175,10 @@ collections:
         file: events/index.md
         create: false
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
-          - {
-              label: "Layout",
-              name: "layout",
-              widget: "hidden",
-              default: "default",
-            }
+          - *TITLE
+          - *BODY
+          - *META_TAGS
+          - *DEFAULT_LAYOUT
           - {
               label: "Navigation order",
               name: "nav_order",
@@ -214,14 +197,10 @@ collections:
         file: events/past-events/index.md
         create: false
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
-          - {
-              label: "Layout",
-              name: "layout",
-              widget: "hidden",
-              default: "default",
-            }
+          - *TITLE
+          - *BODY
+          - *META_TAGS
+          - *DEFAULT_LAYOUT
           - {
               label: "Navigation order",
               name: "nav_order",
@@ -240,14 +219,10 @@ collections:
         file: learning-and-teaching-tech/index.md
         create: false
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
-          - {
-              label: "Layout",
-              name: "layout",
-              widget: "hidden",
-              default: "default",
-            }
+          - *TITLE
+          - *BODY
+          - *META_TAGS
+          - *DEFAULT_LAYOUT
           - {
               label: "Navigation order",
               name: "nav_order",
@@ -266,14 +241,10 @@ collections:
         file: news/index.md
         create: false
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
-          - {
-              label: "Layout",
-              name: "layout",
-              widget: "hidden",
-              default: "default",
-            }
+          - *TITLE
+          - *BODY
+          - *META_TAGS
+          - *DEFAULT_LAYOUT
           - {
               label: "Navigation order",
               name: "nav_order",
@@ -292,14 +263,10 @@ collections:
         file: news/archive/index.md
         create: false
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
-          - {
-              label: "Layout",
-              name: "layout",
-              widget: "hidden",
-              default: "default",
-            }
+          - *TITLE
+          - *BODY
+          - *META_TAGS
+          - *DEFAULT_LAYOUT
           - {
               label: "Navigation order",
               name: "nav_order",
@@ -318,14 +285,10 @@ collections:
         file: product-directory/index.md
         create: false
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
-          - {
-              label: "Layout",
-              name: "layout",
-              widget: "hidden",
-              default: "sheet",
-            }
+          - *TITLE
+          - *BODY
+          - *META_TAGS
+          - *DEFAULT_LAYOUT
           - {
               label: "Navigation order",
               name: "nav_order",
@@ -344,14 +307,10 @@ collections:
         file: research-management/index.md
         create: false
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
-          - {
-              label: "Layout",
-              name: "layout",
-              widget: "hidden",
-              default: "default",
-            }
+          - *TITLE
+          - *BODY
+          - *META_TAGS
+          - *DEFAULT_LAYOUT
           - {
               label: "Navigation order",
               name: "nav_order",
@@ -370,14 +329,10 @@ collections:
         file: who-uses-what/index.md
         create: false
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
-          - {
-              label: "Layout",
-              name: "layout",
-              widget: "hidden",
-              default: "default",
-            }
+          - *TITLE
+          - *BODY
+          - *META_TAGS
+          - *DEFAULT_LAYOUT
           - {
               label: "Navigation order",
               name: "nav_order",
@@ -405,6 +360,7 @@ collections:
       - *SYNOPSIS
       - *META_TAGS
       - *BODY
+      - *DEFAULT_LAYOUT
       - { label: "Parent", name: "parent", widget: "hidden", default: "News" }
 
   - name: "news_archive"
@@ -421,6 +377,7 @@ collections:
       - *SYNOPSIS
       - *META_TAGS
       - *BODY
+      - *DEFAULT_LAYOUT
       - {
           label: "Parent",
           name: "parent",
@@ -442,6 +399,7 @@ collections:
       - *ABSTRACT
       - *META_TAGS
       - *BODY
+      - *DEFAULT_LAYOUT
       - { label: "Parent", name: "parent", widget: "hidden", default: "Events" }
 
   - name: "past_events"
@@ -458,9 +416,143 @@ collections:
       - *ABSTRACT
       - *META_TAGS
       - *BODY
+      - *DEFAULT_LAYOUT
       - {
           label: "Parent",
           name: "parent",
           widget: "hidden",
           default: "Past events",
+        }
+
+  - name: "analytics_and_user_engagement"
+    label: "Analytics and user engagement"
+    folder: "analytics-and-user-engagement"
+    create: true
+    filter:
+      field: parent
+      value: Analytics and user engagement
+    fields:
+      - *TITLE
+      - *META_TAGS
+      - *BODY
+      - *DEFAULT_LAYOUT
+      - {
+          label: "Parent",
+          name: "parent",
+          widget: "hidden",
+          default: "Analytics and user engagement",
+        }
+
+  - name: "archives_and_special_collections"
+    label: "Archives and special collections"
+    folder: "archives-and-special-collections"
+    create: true
+    filter:
+      field: parent
+      value: Archives and special collections
+    fields:
+      - *TITLE
+      - *META_TAGS
+      - *BODY
+      - *DEFAULT_LAYOUT
+      - {
+          label: "Parent",
+          name: "parent",
+          widget: "hidden",
+          default: "Archives and special collections",
+        }
+
+  - name: "core_library_systems"
+    label: "Core library systems"
+    folder: "core-library-systems"
+    create: true
+    filter:
+      field: parent
+      value: Core library systems
+    fields:
+      - *TITLE
+      - *META_TAGS
+      - *BODY
+      - *DEFAULT_LAYOUT
+      - {
+          label: "Parent",
+          name: "parent",
+          widget: "hidden",
+          default: "Core library systems",
+        }
+
+  - name: "discovery_and_content"
+    label: "Discovery and content"
+    folder: "discovery-and-content"
+    create: true
+    filter:
+      field: parent
+      value: Discovery and content
+    fields:
+      - *TITLE
+      - *META_TAGS
+      - *BODY
+      - *DEFAULT_LAYOUT
+      - {
+          label: "Parent",
+          name: "parent",
+          widget: "hidden",
+          default: "Discovery and content",
+        }
+
+  - name: "learning_and_teaching_tech"
+    label: "Learning and teaching tech"
+    folder: "learning-and-teaching-tech"
+    create: true
+    filter:
+      field: parent
+      value: Learning and teaching tech
+    fields:
+      - *TITLE
+      - *META_TAGS
+      - *BODY
+      - *DEFAULT_LAYOUT
+      - {
+          label: "Parent",
+          name: "parent",
+          widget: "hidden",
+          default: "Learning and teaching tech",
+        }
+
+  - name: "research_management"
+    label: "Research management"
+    folder: "research-management"
+    create: true
+    filter:
+      field: parent
+      value: Research management
+    fields:
+      - *TITLE
+      - *META_TAGS
+      - *BODY
+      - *DEFAULT_LAYOUT
+      - {
+          label: "Parent",
+          name: "parent",
+          widget: "hidden",
+          default: "Research management",
+        }
+
+  - name: "who_uses_what"
+    label: "Who uses what"
+    folder: "who-uses-what"
+    create: true
+    filter:
+      field: parent
+      value: Who uses what
+    fields:
+      - *TITLE
+      - *META_TAGS
+      - *BODY
+      - *DEFAULT_LAYOUT
+      - {
+          label: "Parent",
+          name: "parent",
+          widget: "hidden",
+          default: "Who uses what",
         }

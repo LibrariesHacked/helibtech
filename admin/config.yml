@@ -75,11 +75,11 @@ aliases:
     }
 
 collections:
-  - label: "Pages"
+  - label: "Title pages"
     name: "pages"
     files:
       - name: analytics_and_user_engagement_index
-        label: Analytics and user engagement home
+        label: Analytics and user engagement
         file: analytics-and-user-engagement/index.md
         create: false
         fields:
@@ -106,7 +106,7 @@ collections:
           - <<: *META_TAGS
 
       - name: archives_and_special_collections_index
-        label: Archives and special collections home
+        label: Archives and special collections
         file: archives-and-special-collections/index.md
         create: false
         fields:
@@ -132,7 +132,7 @@ collections:
             }
 
       - name: core_library_systems_index
-        label: Core library systems home
+        label: Core library systems
         file: core-library-systems/index.md
         create: false
         fields:
@@ -158,7 +158,7 @@ collections:
             }
 
       - name: discovery_and_content_index
-        label: Discovery and content home
+        label: Discovery and content
         file: discovery-and-content/index.md
         create: false
         fields:
@@ -184,7 +184,7 @@ collections:
             }
 
       - name: events_index
-        label: Events home
+        label: Events
         file: events/index.md
         create: false
         fields:
@@ -210,7 +210,7 @@ collections:
             }
 
       - name: past_events_index
-        label: Past events home
+        label: Past events
         file: events/past-events/index.md
         create: false
         fields:
@@ -236,7 +236,7 @@ collections:
             }
 
       - name: learning_and_teaching_tech_index
-        label: Learning and teaching tech home
+        label: Learning and teaching tech
         file: learning-and-teaching-tech/index.md
         create: false
         fields:
@@ -262,7 +262,7 @@ collections:
             }
 
       - name: news_index
-        label: News home
+        label: News
         file: news/index.md
         create: false
         fields:
@@ -288,7 +288,7 @@ collections:
             }
 
       - name: news_archive_index
-        label: News archive home
+        label: News archive
         file: news/archive/index.md
         create: false
         fields:
@@ -340,7 +340,7 @@ collections:
             }
 
       - name: research_management_index
-        label: Research management home
+        label: Research management
         file: research-management/index.md
         create: false
         fields:
@@ -366,7 +366,7 @@ collections:
             }
 
       - name: who_uses_what_index
-        label: Who uses what home
+        label: Who uses what
         file: who-uses-what/index.md
         create: false
         fields:
@@ -411,7 +411,10 @@ collections:
     label: "News archive"
     folder: "news/archive"
     create: false
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    filter:
+      field: parent
+      value: News archive
     fields:
       - *TITLE
       - *DATE_ADDED
@@ -430,6 +433,9 @@ collections:
     folder: "events"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    filter:
+      field: parent
+      value: Events
     fields:
       - *TITLE
       - *DATE
@@ -443,6 +449,9 @@ collections:
     folder: "events/past-events"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    filter:
+      field: parent
+      value: Past events
     fields:
       - *TITLE
       - *DATE

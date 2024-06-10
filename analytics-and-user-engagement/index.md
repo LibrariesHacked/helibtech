@@ -11,3 +11,5 @@ has_children: true
 Here is an introduction to analytics and user engagement.
 
 ## Secondary heading
+
+And a link to [HE Lib Tech original](https://www.helibtech.org)

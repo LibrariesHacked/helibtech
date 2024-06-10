@@ -34,7 +34,7 @@ A new Resource Sharing landscape is emerging with several providers offering new
 
 ### Resource Sharing solutions
 
-#### RapidILL
+### RapidILL
 
 RapidILL was developed by inter-library loan staff at Colorado State University and subsequently acquired by Ex Libris. It facilitates quick, reciprocal resource requesting for ‘pods’ of libraries and interfaces with software solutions from a variety of vendors. It is optimised for ‘non-returnables’ (i.e. electronic copies such as journal articles, rather than print resources such as books) and offers the following features:
 
@@ -48,7 +48,7 @@ Once requests are fulfilled, details are transferred to and held within the loca
 
 The IGeLU RapidILL Working Group serves as a vital link between the international user community and Ex Libris, ensuring that user needs and perspectives are effectively communicated and addressed in the product’s ongoing development and improvement. Similarly, the ELUNA RapidILL Working Group serves the extensive user community in the Americas.
 
-#### Tipasa
+### Tipasa
 
 Tipasa is supplied by OCLC and described as ‘an ILL management system for individual libraries to share and obtain materials through different resources and systems as well as to provide an exceptional experience for the library user’. It is designed to manage both ‘returnables’ and ‘non-returnables’.
 
@@ -62,13 +62,13 @@ Rotas and load balancing are managed by ‘smart lender strings’. The library 
 
 User data is ingested into Tipasa from the LMSs that are integrated with Tipasa by an initial upload as part of the implementation process then managed by batch loads or an online API. Articles (PDFs) can be emailed to users or OCLC’s ‘Article Exchange’ may be used as the delivery mechanism.
 
-#### ReShare
+### ReShare
 
 Project ReShare is an open-source community driven project ‘creating a new and open approach to library resource sharing systems that sets the standard for how we connect library patrons to the resources and information they require…..designing an open source, highly-scalable platform that supports discovery, fulfilment, and delivery workflows, with a focus on user-centered design’.
 
 Although not formally part of the Folio open source LMS initiative, Project ReShare uses the same core developers IndexData and the Folio technical infrastructure and has much of the same community ethos. Although community-owned and driven, it encourages libraries and commercial organisations to participate meaningfully in advancing its goals. Currently the community of libraries actively engaged with project ReShare is exclusively US-based. ReShare supports consortial, peer-to-peer borrowing between defined resource sharing groups, which can restrict resource sharing amongst themselves. It has a strong focus on interoperability, using standards such as NCIP, Z39.50, ISO10160 and ISO18626. Its current focus is returnables. Non-returnables are on the road map (July 2021) but with no clear date.
 
-#### The Open Resource Sharing Coalition (OpenRS)
+### The Open Resource Sharing Coalition (OpenRS)
 
 Introducing The Open Resource Sharing Coalition (OpenRS)
 
@@ -82,13 +82,13 @@ Project governance will be centralized in a governing board elected by contribut
 
 OpenRS will be an Open Library Foundation (OLF) project which operates with an open, transparent approach, emphasizing the best practices for open source governance and DevSecOps. The OpenRS software is built and maintained by Knowledge Integration, with support from EBSCO Information Services (EBSCO). Additional OpenRS Community members include representatives from the MOBIUS consortium, GALILEO/University System of Georgia (USG), Marmot Library Network, Boston Library Consortium, Colorado Alliance of Research Libraries, and others.
 
-#### INN-Reach
+### INN-Reach
 
 INN-Reach is a resource sharing solution developed by Innovative, part of Clarivate. It unifies multiple libraries into a shared online catalog, offers patron-initiated requests, and provides cost-effective fulfillment of requests.
 
 ### Resource sharing schemes
 
-#### WHELF+
+### WHELF+
 
 WHELF+ Interlending Scheme: “In January 2018, WHELF members came together to launch a scheme of free, reciprocal, inter-library borrowing. This was made possible by our shared use of the Ex-Libris Alma Library Management System, which allows us to use core system functionality to lend print and digital resources to each other, free of charge. The scheme has been an amazing success, in 2022 the member libraries saved over £44K in total. As well as the undoubted financial benefit, it has also led to much greater co-operation and knowledge sharing between participating institutions.The scheme proved so successful, that in 2021, with the backing of Ex-Libris and the British Library, we began rolling out membership to non-WHELF institutions (hence the ‘+’ in ‘WHELF+’!). There are now nearly twenty institutions, covering a good geographical spread and a wide range of teaching and research specialities, reaping the benefits of WHELF+ membership; and, with more institutions expressing an interest in joining, and the potential of using new Alma functionality to automate processes further, the scheme has a bright future.”
 
@@ -116,7 +116,7 @@ Current WHELF+ members:
 
 
 
-#### ISO ILL compliant LMSs
+### ISO ILL compliant LMS
 
 For many years, ILDS functionality was either not included in library management systems (LMSs) or, in the UK, focussed on placing requests with the British Library's document supply service (BLDSS) rather than managing peer-to-peer ILDS. This has changed in the last few years with LMS suppliers, such as SirsiDynix, OCLC and PTFS-Europe (Koha) adopting the ISO ILL 10160/10161 standard. However, the adoption of the ISO protocol for practical peer-to-peer resource sharing in the UK is limited.
 

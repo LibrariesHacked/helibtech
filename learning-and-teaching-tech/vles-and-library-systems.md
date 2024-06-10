@@ -1,9 +1,9 @@
 ---
-title: Digitisation
+title: VLEs and library systems
 layout: default
-nav_order: 3
+nav_order: 12
 parent: Learning and teaching tech
 has_children: false
 ---
 
-# Digitisation
+# VLEs and library systems

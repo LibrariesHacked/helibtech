@@ -65,6 +65,18 @@ By Marshall Breeding American Libraries 1st May 2020
 
 See also [Marshall Breeding's Library Technology Guides dashboard ](https://librarytechnology.org/products/)which brings together data, trends, news, and other resources.
 
+### Library systems -UK vendors
+
+See our product directory for a full list of systems suppliers and their full range of systems offered. Listed below are the predominant suppliers to UK HE:
+
+* [Education Software Solutions (ESS)](https://www.ess-librarymanagementcloud.co.uk/) - formerly Capita
+* [Ex Libris](https://exlibrisgroup.com/)
+* [Innovative Interfaces](https://www.iii.com/)
+* [ISOxford (Cirqa)](https://cirqa.co.uk/)
+* [OCLC](https://www.oclc.org/en/home.html)
+* [PTFS Europe](https://ptfs-europe.com/)
+* [SirsiDynix](https://www.sirsidynix.com/)
+
 ### Library systems vendors - market share
 
 See the Who Uses What pages for a list of every UK HE Institution with their library related systems

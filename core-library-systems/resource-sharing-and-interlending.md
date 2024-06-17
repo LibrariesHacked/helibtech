@@ -9,6 +9,8 @@ tags:
   - Library systems
   - Resource sharing
   - Interlending
+  - Controlled Digital Lending
+  - CDL
 ---
 # Resource sharing and interlending
 
@@ -114,8 +116,6 @@ Current WHELF+ members:
 * University of Winchester
 * Wrexham University
 
-
-
 ### ISO ILL compliant LMS
 
 For many years, ILDS functionality was either not included in library management systems (LMSs) or, in the UK, focussed on placing requests with the British Library's document supply service (BLDSS) rather than managing peer-to-peer ILDS. This has changed in the last few years with LMS suppliers, such as SirsiDynix, OCLC and PTFS-Europe (Koha) adopting the ISO ILL 10160/10161 standard. However, the adoption of the ISO protocol for practical peer-to-peer resource sharing in the UK is limited.
@@ -134,3 +134,11 @@ Examples of such services include:
 However, such services come at a significant cost overhead as the business model for such services is usually a combination of a subscription cost (dependent on user numbers) and / or payment of publication specific copyright fees. For many publishers, working with such aggregators provides another means of driving access to their content in addition to direct article sales via their own platforms.
 
 Due to high subscription costs and the payment of copyright fees on requests, such services may be cost prohibitive to higher education institutions.
+
+
+
+## Controlled Digital Lending
+
+#### What is CDL?
+
+“Through CDL, libraries use technical controls to ensure a consistent “owned-to-loaned” ratio, meaning the library circulates the exact number of copies of a specific title it owns, regardless of format, putting controls in place to prevent users from redistributing or copying the digitized version. When CDL is appropriately tailored to reflect print book market conditions and controls are properly implemented, CDL may be permissible under existing copyright law. CDL is not intended to act as a substitute for existing electronic licensing services offered by publishers. Indeed, one significant advantage of CDL is addressing the “Twentieth Century Problem” of older books still under copyright but unlikely ever to be offered digitally by commercial services. From: [Controlled Digital Lending website](https://controlleddigitallending.org/)

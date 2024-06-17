@@ -15,6 +15,24 @@ tags:
 
 Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of core library systems:
 
+#### [Library Lending Fit for the 21st Century? Controlled Digital Lending in the UK ](https://www.rluk.ac.uk/library-lending-fit-for-the-21st-century-controlled-digital-lending-in-the-uk/)
+
+David Prosser. RLUK blog. 27 September 2021
+
+From the blog: “Over the past few decades, a growing proportion of materials purchased by libraries has been in electronic rather than physical format. This format shift has brought many changes in the way in which we make materials available, and archive and preserve them. We have also moved in many areas from owning materials to leasing or renting them. However, nothing in these shifts affect the fundamental principle that libraries should be able to lend the materials that they have acquired to the communities they serve.”
+
+#### [I Set Out to Build the Next Library of Alexandria. Now I Wonder: Will There Be Libraries in 25 Years? ](https://time.com/6108581/internet-archive-future-books/)
+
+Brewster Kahle, Founder and Digital Librarian of the Internet Archive. Time. 22 October 2021
+
+“Global media corporations—emboldened by the expansive copyright laws they helped craft and the emerging technology that reaches right into our reading devices—are exerting absolute control over digital information. These two conflicting forces—towards unfettered availability and completely walled access to information—have defined the last 25 years of the Internet. How we handle this ongoing clash will define our civic discourse in the next 25 years. If we fail to forge the right path, publishers’ business models could eliminate one of the great tools for democratizing society: our independent libraries.”
+
+#### [Implementing Controlled Digital Lending (CDL) Responsibly and Effectively: A Primer for Librarians. ](https://page.exlibrisgroup.com/hubfs/HQ_General/Ex%20Libris%20Controlled%20Digital%20Lending%20White%20Paper.pdf?hsLang=en)
+
+Ex Libris \[White Paper] 2021
+
+“Making copies of print materials available to patrons in digital format brings many advantages. For instance, this practice can make collections more widely accessible to researchers and the general public, as seen during the pandemic. There are also economic and ecological benefits to digital lending. Yet, libraries must ensure they are not violating copyright restrictions when circulating digital copies of their physical materials. To help librarians navigate this challenge, a concept known as Controlled Digital Lending (CDL) has emerged. This paper explains what CDL is, how it supports the library's mission, and how librarians can implement CDL successfully at their institutions.”
+
 #### [Recenter Library Systems on the User](https://scholarlykitchen.sspnet.org/2020/02/24/recenter-library-systems-interview-ohiolinks-gwen-evans/)
 
 An Interview with OhioLINK’s Gwen Evans. Scholarly Kitchen \[blog] Roger C. Schonfeld, 24 Feb 2020.

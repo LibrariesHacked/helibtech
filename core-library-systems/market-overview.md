@@ -23,13 +23,13 @@ The US based site [librarytechnology.org](https://librarytechnology.org/) provid
 
 Use the filters to change country to UK and library type to academic to view UK HE specific data. Note, the currency of the data is not verified and data for specific institutions should be cross-checked against HELibTech data for accuracy.
 
-#### UK library technology trends and issues
+### UK library technology trends and issues
 
 [Trends in the library technology market – A UK perspective](https://www.kenchadconsulting.com/wp-content/uploads/2021/02/Trends_in_library_tech_KenChad_Feb2021.pdf). Ken Chad. CILIP Buyers Guide. February 2021. 
 
 Ken Chad analyses the underlying issues and trends that are shaping library technology with a focus on public libraries and libraries in higher education (HE). It concludes that libraries need new approaches to technology to support changed needs. It addresses themes such as community engagement for public libraries and new solutions for research and teaching and learning in HE. Many current library systems vendors are mired in supporting legacy library management systems that hamper them in delivering the transformative approach needed. Only those that can deliver new higher value solutions will thrive in the longer term.
 
-#### Global library technology trends and issues
+### Global library technology trends and issues
 
 [2023 Library Systems Report. The advance of open systems](https://americanlibrariesmagazine.org/2023/05/01/2023-library-systems-report/). By Marshall Breeding. American Libraries. 1 May 2023
 

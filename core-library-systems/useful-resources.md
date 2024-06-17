@@ -27,8 +27,6 @@ From the blog post:
 
 “It’s notable that OhioLINK is working to transform the market for a given product category, rather than responding to the initiatives of vendors and publishers”.
 
-
-
 #### [It’s Not What Libraries Hold; It’s Who Libraries Serve Seeking a User-Centered Future for Academic Libraries](https://sr.ithaka.org/publications/its-not-what-libraries-hold-its-who-libraries-serve/)
 
 Gwen Evans, Roger C. Schonfeld Ithaka \[White Paper] January 2020
@@ -39,10 +37,28 @@ From the foreword
 
 “The mission of academic and research libraries is expanding, and our work is transforming. Collections alone are no longer sufficient to articulate our new value proposition and establish ROI to our institutions. Our academic and research libraries are doing more than just managing collection-centric resources, we are contributing to faculty productivities and student success. As we aim to support the goals of our colleges and universities and maintain mission relevance, including technological advancement, we must also understand and support the evolving needs and requirements of our users”
 
-
-
 #### [From tradition to change](https://www.researchinformation.info/feature/tradition-change)
 
 Rebecca Pool. Research Information 29 September 2017
 
 “Complex workflows and new services are driving developments in cloud-based library management systems.” A summary of the market focussing on the cloud based library services platforms Alma (ExLibris), Worldshare (OCLC) and Folio (open source).
+
+#### [Brighter outlook for tools in the cloud ](https://www.researchinformation.info/feature/brighter-outlook-tools-cloud)
+
+Sharon Davies. Research Information 2 October 2015
+
+From the article:
+
+“the benefits of library tools in the cloud continue to be realised by research libraries, as the adoption of cloud-based systems continues to grow”.
+
+“Academic research libraries also understand the cloud-based systems better support management of the growing volume of electronic resources and can support researchers’ needs better”.
+
+“Cloud-based systems are lower cost for libraries, they are more easily and rapidly updated, and have a stronger support system across the world with multiple locations. Cloud-based systems also better meet the needs of modern researchers operating in an “anytime, anywhere and on any device” model.’”
+
+“Talking about the perception of cloud-based technologies, Pace added: ‘An early adopter of OCLC’s WorldShare Management Services said “one of the main challenges is to overcome the illusion of control around managing library management system locally \[as opposed to in the cloud]”
+
+#### [Change will be relentless](https://www.helibtech.com/_media/lms_change_will_be_relentless_cilipupdate_sept2012.pdf)
+
+Ken Chad. CILIP Update September 2012
+
+If you are in the market for library systems, what should you be looking for? Needs vary across sectors: corporate, legal, public, school, college, and university – and circumstances differ between individual organisations. Nevertheless, there are enduring similarities between libraries and these are reflected in the market for library systems. The library management system – LMS (or, in US parlance, the integrated library system – ILS) remains the core system for many libraries. However, the weakness of the conventional LMS in terms of managing electronic resources means it is diminishing in importance. The article looks at the key technology themes influencing library system development.

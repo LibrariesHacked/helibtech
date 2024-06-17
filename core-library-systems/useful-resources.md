@@ -4,6 +4,45 @@ layout: default
 nav_order: 10
 parent: Core library systems
 has_children: false
+tags:
+  - LSP
+  - Library management systems
+  - Library systems
+  - LMS
+  - Library services platform
 ---
-
 # Useful resources
+
+Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of core library systems:
+
+#### [Recenter Library Systems on the User](https://scholarlykitchen.sspnet.org/2020/02/24/recenter-library-systems-interview-ohiolinks-gwen-evans/)
+
+An Interview with OhioLINK’s Gwen Evans. Scholarly Kitchen \[blog] Roger C. Schonfeld, 24 Feb 2020.
+
+From the blog post:
+
+“OhioLINK and its members have grown frustrated with current offerings as it becomes harder and more labor intensive to gather and analyze collection and usage data at the consortial level, ensure seamless access, deliver faster, more transparent delivery of print, and connect our resources to other systems on campuses”.
+
+“Ultimately, the single most essential aspect of the OhioLINK vision is to recenter library systems on the user — rather than on the library or its collection. Many library systems are essentially acquisitions and inventory management platforms at their heart. OhioLINK is looking for systems that are fundamentally centered around the user’s search for information, desire to access it, and efforts to utilize it effectively”
+
+“It’s notable that OhioLINK is working to transform the market for a given product category, rather than responding to the initiatives of vendors and publishers”.
+
+
+
+#### [It’s Not What Libraries Hold; It’s Who Libraries Serve Seeking a User-Centered Future for Academic Libraries](https://sr.ithaka.org/publications/its-not-what-libraries-hold-its-who-libraries-serve/)
+
+Gwen Evans, Roger C. Schonfeld Ithaka \[White Paper] January 2020
+
+DOI: https://doi.org/10.18665/sr.312608
+
+From the foreword
+
+“The mission of academic and research libraries is expanding, and our work is transforming. Collections alone are no longer sufficient to articulate our new value proposition and establish ROI to our institutions. Our academic and research libraries are doing more than just managing collection-centric resources, we are contributing to faculty productivities and student success. As we aim to support the goals of our colleges and universities and maintain mission relevance, including technological advancement, we must also understand and support the evolving needs and requirements of our users”
+
+
+
+#### [From tradition to change](https://www.researchinformation.info/feature/tradition-change)
+
+Rebecca Pool. Research Information 29 September 2017
+
+“Complex workflows and new services are driving developments in cloud-based library management systems.” A summary of the market focussing on the cloud based library services platforms Alma (ExLibris), Worldshare (OCLC) and Folio (open source).

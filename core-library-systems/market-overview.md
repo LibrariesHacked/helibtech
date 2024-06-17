@@ -13,6 +13,10 @@ tags:
   - Technology market
   - LMS
 ---
+![]()
+
+![]()
+
 # Market overview
 
 The US based site [librarytechnology.org](https://librarytechnology.org/) provides data on current market share for library systems providers across a range of territories. Data on market share is available [here](https://librarytechnology.org/products/marketshare.pl)
@@ -61,10 +65,10 @@ By Marshall Breeding American Libraries 1st May 2020
 
 See also [Marshall Breeding's Library Technology Guides dashboard ](https://librarytechnology.org/products/)which brings together data, trends, news, and other resources.
 
-
-
 ### Library systems vendors - market share
 
 See the Who Uses What pages for a list of every UK HE Institution with their library related systems
+
+![Vendors](/assets/images/vendors.jpg "Vendors")
 
 ![UK Marketshare](/assets/images/marketshare.jpg "UK Marketshare")

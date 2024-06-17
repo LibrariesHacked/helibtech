@@ -19,15 +19,11 @@ The US based site [librarytechnology.org](https://librarytechnology.org/) provid
 
 Use the filters to change country to UK and library type to academic to view UK HE specific data. Note, the currency of the data is not verified and data for specific institutions should be cross-checked against HELibTech data for accuracy.
 
-
-
 #### UK library technology trends and issues
 
 [Trends in the library technology market – A UK perspective](https://www.kenchadconsulting.com/wp-content/uploads/2021/02/Trends_in_library_tech_KenChad_Feb2021.pdf). Ken Chad. CILIP Buyers Guide. February 2021. 
 
 Ken Chad analyses the underlying issues and trends that are shaping library technology with a focus on public libraries and libraries in higher education (HE). It concludes that libraries need new approaches to technology to support changed needs. It addresses themes such as community engagement for public libraries and new solutions for research and teaching and learning in HE. Many current library systems vendors are mired in supporting legacy library management systems that hamper them in delivering the transformative approach needed. Only those that can deliver new higher value solutions will thrive in the longer term.
-
-
 
 #### Global library technology trends and issues
 
@@ -64,3 +60,11 @@ By Marshall Breeding American Libraries 1st May 2020
 “The library technology industry took some significant turns in 2019. Ex Libris, a ProQuest company, acquired Innovative Interfaces and shifted the balance of power, strengthening Ex Libris’ position in technology for academic libraries and propelling it as a major player in public libraries. This move narrows the slate of competitors in an industry already offering few viable options for many libraries”.
 
 See also [Marshall Breeding's Library Technology Guides dashboard ](https://librarytechnology.org/products/)which brings together data, trends, news, and other resources.
+
+
+
+### Library systems vendors - market share
+
+See the Who Uses What pages for a list of every UK HE Institution with their library related systems
+
+![UK Marketshare](/assets/images/marketshare.jpg "UK Marketshare")

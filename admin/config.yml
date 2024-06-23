@@ -260,7 +260,7 @@ collections:
       - name: news_archive_index
         label: News archive
         file: news/archive/index.md
-        create: false
+        create: true
         fields:
           - *TITLE
           - *BODY

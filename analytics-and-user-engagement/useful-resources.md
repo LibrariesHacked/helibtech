@@ -1,16 +1,15 @@
 ---
 title: Useful resources
 layout: default
-nav_order: 10
+nav_order: 3
 parent: Analytics and user engagement
 has_children: false
 tags:
   - Artificial Intelligence
   - Data & analytics
 ---
+
 # Useful resources
-
-
 
 ### [A Generative AI Primer](https://nationalcentreforai.jiscinvolve.org/wp/2024/03/04/generative-ai-primer/)
 
@@ -62,9 +61,9 @@ Phil Bradley
 
 Originally posted to the lis-link@JISCMAIL.AC.UK listserv on 27th November 2023. This is a useful update for librarians covering
 
-* ChatGPT and other chatbots
-* AI Search
-* Content creation
+- ChatGPT and other chatbots
+- AI Search
+- Content creation
 
 #### [Artificial Intelligence in academic library strategy in the United Kingdom and the Mainland of China. ](https://www.sciencedirect.com/science/article/pii/S0099133323001118)
 
@@ -74,7 +73,7 @@ There is growing recognition of the value of applying Artificial Intelligence (A
 
 #### [The impact of Generative AI on libraries? ](https://clarivate.com/lp/the-impact-of-generative-ai-on-libraries/)
 
-Ex Libris \[White paper] October 2023 
+Ex Libris \[White paper] October 2023
 
 Valid concerns and challenges surround Generative AI, leading to a growing debate on regulation. However, academic libraries cannot overlook its significant potential benefits. With an objective to deliver optimal service to users, libraries are looking at how their trusted vendors and suppliers may use Generative AI to help them achieve this goal.
 
@@ -86,9 +85,9 @@ The Artificial Intelligence and Libraries Bibliography includes over 125 selecte
 
 #### [Library strategy and Artificial Intelligence ](https://nationalcentreforai.jiscinvolve.org/wp/2023/06/05/library-strategy-and-artificial-intelligence/)
 
-Dr Andrew M Cox. \[Blog] Understanding AI in Education \[Jisc] National Centre for AI 5 June 2023 
+Dr Andrew M Cox. \[Blog] Understanding AI in Education \[Jisc] National Centre for AI 5 June 2023
 
-On April 20th 2023 the Information School, University of Sheffield invited five guest speakers from across the library sectors to debate “Artificial Intelligence: Where does it fit into your library strategy?” 
+On April 20th 2023 the Information School, University of Sheffield invited five guest speakers from across the library sectors to debate “Artificial Intelligence: Where does it fit into your library strategy?”
 
 #### [23 resources to get up to speed on AI in 2023](https://www.ifla.org/23-resources-to-get-up-to-speed-on-ai-in-2023/)
 
@@ -96,6 +95,6 @@ Selected by the IFLA Artificial Intelligence SIG \[Special Interest Group] Versi
 
 #### [How artificial intelligence might change academic library work: Applying the competencies literature and the theory of the professions](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.24635)
 
-Andrew Cox, Journal of the Association for information Science and Technology \[JASIST] 07 March 2022 
+Andrew Cox, Journal of the Association for information Science and Technology \[JASIST] 07 March 2022
 
 “The probable impact of artificial intelligence (AI) on work, including professional work, is contested, but it is unlikely to leave them untouched. The purpose of this conceptual paper is to consider the likelihood of the adoption of different approaches to AI in academic libraries.”

@@ -12,7 +12,7 @@ has_children: true
 ---
 # Core library systems
 
-This section covers the key different aspects of library resource **management** systems. It does not cover discovery solutions. These are covered in more detail under the dedicated section on [discovery & content.](https://helibtech.netlify.app/discovery-and-content/) 
+This section covers the key different aspects of library resource **management** systems. It does not cover discovery solutions which are covered in more detail under the dedicated section on [discovery & content.](https://helibtech.netlify.app/discovery-and-content/)  
 
 ### What are library management systems?
 

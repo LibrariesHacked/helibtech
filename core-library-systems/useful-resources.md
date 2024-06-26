@@ -11,7 +11,7 @@ tags:
   - LMS
   - Library services platform
 ---
-# Useful resources
+# Core library systems: useful resources
 
 Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of core library systems:[](https://www.rluk.ac.uk/library-lending-fit-for-the-21st-century-controlled-digital-lending-in-the-uk/)
 

@@ -7,8 +7,9 @@ synopsis: Clarivate has launched a new AI powered module within InCites
   breakthroughs are likely to occur. Clarivate state that with the new module
   Academics, funding agencies, government research organizations and research
   strategists will be able to identify new research trends and determine the
-  most impactful areas for future investments and strategies.
-  [](https://clarivate.com/news/clarivate-launches-research-horizon-navigator-to-pinpoint-future-breakthrough-areas/)
+  most impactful areas for future investments and strategies. [See here for the
+  full news
+  release](https://clarivate.com/news/clarivate-launches-research-horizon-navigator-to-pinpoint-future-breakthrough-areas/)[](https://clarivate.com/news/clarivate-launches-research-horizon-navigator-to-pinpoint-future-breakthrough-areas/)
 tags:
   - Research management
   - AI

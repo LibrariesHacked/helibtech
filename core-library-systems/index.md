@@ -14,6 +14,8 @@ has_children: true
 
 This section covers the key different aspects of library resource **management** systems. It does not cover discovery solutions. These are covered in more detail under the dedicated section on [discovery & content.](https://helibtech.netlify.app/discovery-and-content/) 
 
+### What are library management systems?
+
 Resource management solutions are known in the UK as library management systems (LMS) a term which equates to integrated library system (ILS) which is the term more commonly used in the US. Library management systems can be simply described as software that are enterprise systems used to manage library collections and their associated workflows/processes such as cataloguing, orders made and users who have borrowed items.
 
 Typically library management systems consist of a number of core modules including:
@@ -34,7 +36,7 @@ Library management systems will typically also include some form of OPAC (online
 
 Library management systems were traditionally hosted on premise on an organization's internal server. Hosting provided (sometimes referred to a cloud hosting) by the vendor is now a popular option.
 
-### Library service platforms 
+### Library service platforms
 
 From around 2010 a new generation of web and cloud based systems emerged. These are termed Library Services Platforms (LSPs). The most widely deployed LSPs are Clarivate/Ex Libris Alma, and OCLC WMS. They were largely developed from the ground up rather than being evolved from past 'legacy' solutions. In functional terms the key differentiation from a LMS/ILS was a fully web based staff interface and **integrated** management of print and electronic resources. This meant libraries did not need a separate electronic resource management (ERM) system or spreadsheets to manage their (predominantly) journal subscriptions and associated licenses.
 

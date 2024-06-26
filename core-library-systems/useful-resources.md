@@ -13,11 +13,9 @@ tags:
 ---
 # Useful resources
 
-Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of core library systems:
+Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of core library systems:[](https://www.rluk.ac.uk/library-lending-fit-for-the-21st-century-controlled-digital-lending-in-the-uk/)
 
-#### [Library Lending Fit for the 21st Century? Controlled Digital Lending in the UK ](https://www.rluk.ac.uk/library-lending-fit-for-the-21st-century-controlled-digital-lending-in-the-uk/)
-
-David Prosser. RLUK blog. 27 September 2021
+[Library Lending Fit for the 21st Century? Controlled Digital Lending in the UK ](https://www.rluk.ac.uk/library-lending-fit-for-the-21st-century-controlled-digital-lending-in-the-uk/)David Prosser. RLUK blog. 27 September 2021
 
 From the blog: “Over the past few decades, a growing proportion of materials purchased by libraries has been in electronic rather than physical format. This format shift has brought many changes in the way in which we make materials available, and archive and preserve them. We have also moved in many areas from owning materials to leasing or renting them. However, nothing in these shifts affect the fundamental principle that libraries should be able to lend the materials that they have acquired to the communities they serve.”[](https://time.com/6108581/internet-archive-future-books/)
 

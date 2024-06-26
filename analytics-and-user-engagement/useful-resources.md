@@ -8,8 +8,7 @@ tags:
   - Artificial Intelligence
   - Data & analytics
 ---
-
-# Useful resources
+# Analytics & user engagement: useful resources
 
 ### [A Generative AI Primer](https://nationalcentreforai.jiscinvolve.org/wp/2024/03/04/generative-ai-primer/)
 
@@ -18,7 +17,6 @@ By Michael Webb. Jisc. 2 January 2024.
 “Publishing an intro to generative AI is a challenge as things are moving so quickly. However, we think things have now settled down enough for us to bring together information in a single place, to create a short primer.” Table of contents
 
 1. Introduction
-
 2. An Introduction to the Generative AI Technology
 
 2.1 ChatGPT
@@ -52,7 +50,6 @@ By Michael Webb. Jisc. 2 January 2024.
 3.3 Adapting curriculum to reflect the use of AI in work and society.
 
 4. Regulation
-
 5. Summary
 
 #### [AI update from the Information Training Team ](https://helibtech.com/_media/ai_update_from_the_information_training_team_by_phil_bradley_nov_2023.pdf)
@@ -61,9 +58,9 @@ Phil Bradley
 
 Originally posted to the lis-link@JISCMAIL.AC.UK listserv on 27th November 2023. This is a useful update for librarians covering
 
-- ChatGPT and other chatbots
-- AI Search
-- Content creation
+* ChatGPT and other chatbots
+* AI Search
+* Content creation
 
 #### [Artificial Intelligence in academic library strategy in the United Kingdom and the Mainland of China. ](https://www.sciencedirect.com/science/article/pii/S0099133323001118)
 

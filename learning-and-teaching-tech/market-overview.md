@@ -10,8 +10,9 @@ tags:
   - Products
   - Reading lists
   - Resource lists
+  - Digitisation
 ---
-# Market overview
+# Learning & teaching tech - market overview
 
 ## Reading / resource list market share
 
@@ -22,3 +23,11 @@ Below is a visual summary of the development of the reading / resource list solu
 ![Reading list market share 2017 - 2024](/assets/images/reading-list-marketshare-table.jpg "Reading list market share table")
 
 ![Reading list market share 2024](/assets/images/reading-list-market-share-pie-chart.jpg "Reading list market share 2024")
+
+## Digitisation solution market share 2024
+
+The below market overview refers specifically to solutions for managing the workflows around digitising published content for distribution to students as part of learning and teaching. Such software is based around ensuring compliance with the Copyright Licensing Agency Higher Education licence which is used by UK HEIs to allow copying and distribution of published works for use in learning and teaching.
+
+Many of the institutions not using such software will be using manual workflows for managing licence compliance and will be adding digitised content direct to virtual learning environments.
+
+![Digitisation market share 2024](/assets/images/digitisation-market-share-pie-chart.jpg "Digitisation market share 2024")

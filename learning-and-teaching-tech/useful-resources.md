@@ -61,3 +61,9 @@ The library at Northumbria University and Talis have worked in partnership to de
 It highlights the central role for Library centric reading list solutions (Northumbria use Talis Aspire:
 
 “Through our long-term partnership with faculty, our reading list service had achieved a critical mass of content and had become a key online destination for students, attracting a wide range of student learning activity in one place”.
+
+[Creating effective and interesting reading lists](https://campuspress.uwl.ac.uk/cbtips/2018/04/12/creating-effective-and-interesting-reading-lists/)
+
+Edyta Krol University of West London Coffee Break Tips \[blog] 2017
+
+“Some recommendations, which can help make RL more interesting and effective in terms of developing students’ learning”

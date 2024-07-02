@@ -52,4 +52,64 @@ In response to the development of Elevate, Leganto has introduced "social readin
 * Communicate ideas with classmates
 * Add private notes
 
+
+
+## Defunct reading list systems
+
+There are a number of now defunct reading list systems that were used in UK HE. Some of these were commercial products, some were open source systems and others were in-house software created by individual institutions.
+
+Examples of such systems are listed below:
+
+**Curriculum Builder (EBSCO)** 
+
+EBSCO ceased to offer their reading list solution Curriculum Builder as a new product in 2023 and the system will be deactivated by end of 2024.
+
+**EARL (Easy Access to Resource Lists)**
+
+An in-house system developed by York University in 2013.York subsequently awarded a contact to ExLibris for the Leganto Reading List system in 2017.
+
+**List8D** 
+
+This Open source reading list system was developed by the University of Kent as an Information Environment Programme funded by the Joint Information Systems Committee (JISC). Following the end of the project, List8D was replaced at Kent by Talis Aspire.
+
+**LORLS (Loughborough University)LORLS (Loughborough Online Reading List System)** 
+
+An in-house reading list management system developed by the Systems Team at Loughborough University Library and made available as open source. Whilst the system is still available to download as open source it is no longer being actively developed by Loughborough and the University subsequently moved to Talis Aspire.
+
+**MyReading**
+
+'MyReading was an in-house systems project from the Computing & Library Services department of University of Huddersfield to develop and implement an online reading list system. 
+
+**Rebus:list**
+
+A reading list solution provided by PTFS Europe. This was purchased by the Copyright Licensing Agency and Kortext in 2017 and subsequently relaunched as Keylinks.
+
+**Telstar (Technology Enhanced Learning supporting Students to achieve Academic Rigour)** 
+
+An open source solution developed by the Open University. No longer used by OU or actively developed.
+
+**unilibri**
+
+This was a cloud hosted reading list solution. No longer available or in business.
+
+
+
+
+
+
+
+
+
+
+
+Learnbuild (defunct)
+
+(appears to be dormant of defunct)
+
+
+
+
+
+unilibri (defunct) unilibri was a new reading list management system launching in Semester 2 of the 2012/13 academic year.
+
 [](https://talis.com/talis-elevate/)

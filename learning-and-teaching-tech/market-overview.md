@@ -20,3 +20,5 @@ More information about the reading / resource list solutions currently available
 Below is a visual summary of the development of the reading / resource list solution market between 2017 and 2024. The market in UK HE is dominated by 3 products: Talis Aspire, Leganto (Ex Libris) and Keylinks (Kortext)
 
 ![Reading list market share 2017 - 2024](/assets/images/reading-list-marketshare-table.jpg "Reading list market share table")
+
+![Reading list market share 2024](/assets/images/reading-list-market-share-pie-chart.jpg "Reading list market share 2024")

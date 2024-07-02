@@ -29,3 +29,13 @@ A small but growing number of institutions are also now using Figshare (initiall
 Based on a survey of 170 UK HE repository users the current market as of summer 2024 is as follows:
 
 ![Institutional repositories - market share 2024](/assets/images/ir-market-share.png "Institutional repositories - market share 2024")
+
+
+
+## CRIS / RIMS market 
+
+Of the institutions surveyed using institutional repositories, just over half are also now users of some form of CRIS / RIMS system for integrated research management functions. 
+
+The market for CRIS / RIMS systems is dominated in the UK by Elsevier's Pure and Symplectic Elements, with the proportion of the market taken by Elsevier growing.
+
+![CRIS market share](/assets/images/cris-market-share.jpg "CRIS market share")

@@ -16,6 +16,8 @@ tags:
 ---
 # Learning & teaching: useful resources
 
+[](https://academicebookinvestigation.org/)
+
 [Campaign to investigate the academic ebook market](https://academicebookinvestigation.org/)
 
 Also known as EbookSOS, this group was organised by a group of university librarians to raise awareness of the perceived unfair pricing and restrictive access models of ebooks and etextbooks.
@@ -23,6 +25,14 @@ Also known as EbookSOS, this group was organised by a group of university librar
 [Background reading on the etextbook market and issues](https://cdn.hd4.uk/sites/academicebookinvestigation.org/2022/03/ebooksos-background-reading-1.pdf)
 
 From the EbookSOS campaign website above.
+
+[Farewell discovery – hello curation and engagement](https://www.kenchadconsulting.com/wp-content/uploads/2021/04/BS08-Ken-Chad-UKSG2021-Farewell-discovery-hello-curation-.pdf)
+
+UKSG Conference 12-14 April 2021 (Group A Breakout session No. 8 ). 
+
+Over the last 20 years or so, universities have made considerable investments in library centric discovery services. Nevertheless, for some students, especially undergraduates, discovery has become largely irrelevant. They simply log on to their learning management system to find ready prepared links to the print and electronic resources they need that week for their course or module. This is typically because the learning system is linked to a library managed reading/resource list solution. Reading/resource list solutions are essentially ‘curation’ tools. By curation I mean selecting, refining and arranging to add value. The content of a reading list is curated primarily by academics who select the best resources and list them.
+
+The next step is helping students engage with the content. This has become increasingly important in a ‘flipped classroom’ environment where COVID has accelerated the trend to an online learning environment. We are now seeing the rise of specific solutions to better enable engagement with content. They typically encourage group ‘community’ interaction with students who are asked to analyse the content and engage with the reading itself. This UKSG presentation describes and analyses this important trend towards the better curation of, and engagement with content. It encourage librarians to work more closely with university teaching and learning staff and technologists to adopt approaches and solutions that help students better engage with content which, in turn will lead to better learning outcomes.
 
 [There’s big problems with the market for academic ebooks. For Rachel Bickley, market pressure alone cannot solve the problems in the market for academic ebooks. ](https://wonkhe.com/blogs/theres-a-big-problem-with-the-market-for-academic-e-books/)
 

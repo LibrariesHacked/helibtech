@@ -34,3 +34,22 @@ In the UK and other countries such as Australia and New Zealand older 'course re
 In addition Blackwell offer a service that enables lecturers and others to submit reading list details and as a result enable ordering of books on the list from Blackwell - [Readinglists.co.uk](https://blackwells.co.uk/rsl/index.dfp)
 
 However, this is not a reading list solution as per the others listed above, rather a reading list specific acquisitions workflow.
+
+### Resource engagement software
+
+Resource list providers increasingly now add either separate platforms or additional functionality to allow students to engage with resources and collaborate with peers and teaching staff. Examples of these include:
+
+**[Talis Elevate](https://talis.com/talis-elevate/)**
+
+Talis Elevate is a separate priced add-on module to the Aspire reading / resource list platform designed to facilitate peer to peer engagement with resources.
+
+**Leganto Social Reading**
+
+In response to the development of Elevate, Leganto has introduced "social reading" functionality to their reading list platform allowing students to:
+
+* Share comments, questions, and feedback by marking up course materials
+* Annotate PDF files assigned by the instructor
+* Communicate ideas with classmates
+* Add private notes
+
+[](https://talis.com/talis-elevate/)

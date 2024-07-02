@@ -47,3 +47,17 @@ However, these issues are not new. The pandemic has brought the lack of availabi
 Anderson, J., Ayris, P., White, B. (2021) LSE Impact. 17.03.21
 
 UCL Office for Open Science & Scholarship (2021) On Monday 15th March 2021, the UCL Office for Open Science & Scholarship hosted a webinar in conjunction with Copyright4Knowledge that aimed to examine the acute difficulties for higher education and public libraries caused by publishers’ pricing and licensing practices and discuss some possible solutions.
+
+[Meeting the Reading List Challenge: reading list](https://blog.lboro.ac.uk/mtrlc/reading-list)
+
+A reading list of useful articles on reading lists and reading list software from the Meeting the Reading List Challenge website (Loughborough University)
+
+[Digital-first and student success with Talis Aspire at Northumbria University  ](https://talis.com/2019/10/14/digital-first-and-student-success-with-talis-aspire-at-northumbria-university/)Natalie Naik. 14 October 2019
+
+The library at Northumbria University and Talis have worked in partnership to develop library analytics for student success. The university has been working with the Civitas Learning student success analytics solution. Blog post The blog links to a more in depth white paper:-
+
+“At Northumbria University, an institutional Educational Analytics project in partnership with Civitas Learning required sources of data from across the university to supply a custom predictive model designed to generate actionable insight and facilitate intervention. Given academic libraries are multidisciplinary resources used by all students and that sector research has previously demonstrated the relationship between library use and student success we felt we had a clear value proposition to offer to our University’s Educational Analytics project and in so doing, a chance to make a new contribution to student success.”
+
+It highlights the central role for Library centric reading list solutions (Northumbria use Talis Aspire:
+
+“Through our long-term partnership with faculty, our reading list service had achieved a critical mass of content and had become a key online destination for students, attracting a wide range of student learning activity in one place”.

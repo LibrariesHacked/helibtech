@@ -84,6 +84,27 @@ collections:
   - label: "Title pages"
     name: "pages"
     files:
+      - name: home_index
+        label: Home
+        file: index.md
+        create: false
+        fields:
+          - *TITLE
+          - *BODY
+          - *META_TAGS
+          - *DEFAULT_LAYOUT
+          - {
+              label: "Navigation order",
+              name: "nav_order",
+              widget: "hidden",
+              default: 1,
+            }
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: false,
+            }
       - name: analytics_and_user_engagement_index
         label: Analytics and user engagement
         file: analytics-and-user-engagement/index.md

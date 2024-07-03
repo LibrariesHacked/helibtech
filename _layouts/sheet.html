@@ -32,7 +32,17 @@ layout: default
                     data: results.data,
                     columns: results.meta.fields.map(function (field) {
                         return { title: field, data: field }
-                    })
+                    }),
+                    colReorder: true,
+                    fixedColumns: true,
+                    layout: {
+                        topStart: {
+                            buttons: [
+                                'copy', 'excel', 'pdf'
+                            ]
+                        }
+                    },
+                    responsive: true
                 })
             },
             error: function (error) {

@@ -260,7 +260,7 @@ collections:
       - name: news_archive_index
         label: News archive
         file: news/archive/index.md
-        create: true
+        create: false
         fields:
           - *TITLE
           - *BODY
@@ -365,7 +365,7 @@ collections:
   - name: "news_archive"
     label: "News archive"
     folder: "news/archive"
-    create: false
+    create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     filter:
       field: parent

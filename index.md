@@ -6,20 +6,24 @@ layout: default
 nav_order: 1
 has_children: false
 ---
-# Higher Education Library Technology
-
 ![Higher Education Library Technology Logo](/assets/images/helibtech-logo.png)
 
-The aim of HELibTech is to provide a starting point for anyone interested in library technology in Higher Education. The focus is UK but most of the issues will be relevant elsewhere. Content on this wiki (though not external content) is open access, public domain ([CC0 licensed](https://creativecommons.org/publicdomain/zero/1.0/)) so feel free to use and re-purpose it.
+The aim of HELibTech is to provide a starting point for anyone interested in library technology in Higher Education. The primary focus is the technology used in UK Higher Education libraries but most of the issues will be relevant elsewhere. Content on this site (though not external content) is open access, public domain ([CC0 licensed](https://creativecommons.org/publicdomain/zero/1.0/)) so feel free to use and re-purpose it.
 
-HELibTech originated in a major sector project: The [JISC & SCONUL Library Management Systems Study](http://www.webarchive.org.uk/wayback/archive/20140615073047/http://www.jisc.ac.uk/media/documents/programmes/resourcediscovery/lmsstudy.pdf): An evaluation and horizon scan of the current library management systems and related systems landscape for UK Higher Education. March 2008. HELibTech has enabled the work of that project to be kept up to date and expanded. The site uses the DokuWiki software.
+HELibTech originated in a major sector project: The [JISC & SCONUL Library Management Systems Study](http://www.webarchive.org.uk/wayback/archive/20140615073047/http://www.jisc.ac.uk/media/documents/programmes/resourcediscovery/lmsstudy.pdf): An evaluation and horizon scan of the current library management systems and related systems landscape for UK Higher Education. March 2008. HELibTech has enabled the work of that project to be kept up to date and expanded. 
 
-[Ken Chad Consulting](http://www.kenchadconsulting.com/) set up the site and has taken on the role of 'WikiMaster' to encourage contributions, help contributors and protect the site from any malicious activity. However Ken Chad Consulting is not responsible for the content. Anyone can view and download the content (though bear in mind that content that we link to may have restrictions). Feel free to correct, add or edit content. Please keep content neutral and factual and avoid hype. Links can be make to external content. If you need help email Ken Chad ([ken@kenchadconsulting.com](mailto:ken@kenchadconsulting.com))
+Established by [Ken Chad Consulting](http://www.kenchadconsulting.com/) HELibTech is managed by community editors on behalf of the UK HE community and actively encourages contributions from across the sector.
+
+If you would like to contribute to HELibTech please contact [Paul Verlander ](paulverlander@gmail.com)HELibTech Community Editor. 
+
+Please note that although content on the site can be viewed and downloaded, any third party content might be subject to its own restrictions on use / re-use. Note also that HELibTech is not responsible for the accuracy of third party content.
 
 ## UKSG 2023 Innovation award winner
 
-The award will be used to provide an innovative “re-boot” to HELibTech and provide a much-enhanced open resource of accurate data about systems and technologies deployed by libraries in UK HE institutions.
+HELibTech is a winner of a UKSG Innovation award which will be used to develop further site improvements including a much enhanced open resource of accurate data about systems and technologies deployed by libraries in UK HE institutions.
 
-## Community editor for HELibTech
+## Our partners
+
+HELibTech is supported by Ken Chad Consulting and PTFS Europe who have provided a bursary for the appointment of a site community editor.
 
 Ken Chad Consulting and PTFS-Europe have collaborated to offer a bursary for a [community editor for Higher Education Library Technology](https://www.helibtech.com/_media/helibtech_community_editor_pr_september_2023.pdf). Paul Verlander has been appointed. Paul is an experienced information professional with over 15 years’ experience in Higher Education. HELibTech has been a valuable, free community resource for 15 years and Paul’s contribution will help to reinvigorate it and make it even more useful to the community.

@@ -16,8 +16,6 @@ HELibTech originated in a major sector project: The [JISC & SCONUL Library Manag
 
 Established by [Ken Chad Consulting](http://www.kenchadconsulting.com/) HELibTech is managed by community editors on behalf of the UK HE community and actively encourages contributions from across the sector.
 
-If you would like to contribute to HELibTech please contact [Paul Verlander ](paulverlander@gmail.com)HELibTech Community Editor. 
-
 Please note that although content on the site can be viewed and downloaded, any third party content might be subject to its own restrictions on use / re-use. Note also that HELibTech is not responsible for the accuracy of third party content.
 
 ## UKSG 2023 Innovation award winner
@@ -33,3 +31,19 @@ HELibTech is supported by Ken Chad Consulting and PTFS Europe who have provided 
 Paul Verlander  is an information professional with over 15 years’ experience in Higher Education managing systems, collections and research support. Paul currently works in public libraries during a carers career break.
 
 Dave Rowe is an experienced software developer and creator of the award winning Libraries Hacked site.
+
+## Contribute to HELibTech
+
+HELibTech is a **community resource.** The strength of our site is in drawing together resources and expertise from across the library community. We actively encourage contributions for new content from all those with an interest in library technology.
+
+We welcome the following contributions:
+
+* Proposals for new topics not currently covered
+* Corrections / edits / enhancements to existing pages - if you spot something wrong or feel you can improve please tell us!
+* Feature articles on initiatives from your institution or your experience of working with particular technologies
+* Product reviews and tips articles on using particular solutions
+* News items including promoting relevant events.
+
+Whatever your role either working in libraries or if you work for a technology supplier we would be keen to here from you.
+
+If you would like to contribute to HELibTech please contact [Paul Verlander ](paulverlander@gmail.com)HELibTech Community Editor.

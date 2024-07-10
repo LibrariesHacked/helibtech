@@ -44,6 +44,6 @@ HELibTech is supported by Ken Chad Consulting and PTFS Europe who have provided 
 
 ## Our community editors
 
-Paul Verlander  is an information professional with over 15 years’ experience in Higher Education managing systems, collections and research support. Paul currently works in public libraries during a carers career break.
+Paul Verlander  is an information professional with over 15 years’ experience in Higher Education managing systems, collections and research support. Paul currently works in public libraries during a carer's career break.
 
 Dave Rowe is an experienced software developer and creator of the award winning Libraries Hacked site.

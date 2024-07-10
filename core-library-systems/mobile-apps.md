@@ -1,7 +1,7 @@
 ---
 title: Mobile apps
 layout: default
-nav_order: 7
+nav_order: 4
 parent: Core library systems
 has_children: false
 tags:
@@ -11,6 +11,7 @@ tags:
   - Library systems
   - LSP
 ---
+
 # Mobile apps
 
 In order to offer library system functionality on a mobile device (tablet or phone) vendors may offer a 'responsive design' approach. In essence this resizes the existing web based functionality to fit on a smaller (mobile or tablet) screen. Vendors may also offer Apps. In general Apps have to be downloaded (from an 'app store' - e.g. Apple's app store, or Google Play) onto the mobile device and generally provide a different user experience. For example, workflows and functions may be tailored to better exploit working on a mobile device. Apps are available for end users and also library staff. Overall the ‘app’ approach is gaining ground.

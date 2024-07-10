@@ -1,7 +1,7 @@
 ---
 title: Procurement
 layout: default
-nav_order: 2
+nav_order: 5
 parent: Core library systems
 has_children: false
 tags:
@@ -15,6 +15,7 @@ tags:
   - Library services platform
   - LMS
 ---
+
 # Procurement
 
 Libraries take one of a variety of procurement routes for library systems. They may prepare and then publish their invitation to tender (ITT) on their own and/or other procurement portal. Increasing use is being make of framework agreements which shorten and simplify the procurement process, For example:

@@ -1,7 +1,7 @@
 ---
 title: HELibTech briefings
 layout: default
-nav_order: 9
+nav_order: 6
 parent: Learning and teaching tech
 has_children: false
 tags:
@@ -11,9 +11,8 @@ tags:
   - Resource lists
   - Etextbooks
 ---
+
 # HELibTech briefings
-
-
 
 #### [The rise of library centric reading list systems](https://www.kenchadconsulting.com/wp-content/uploads/2018/07/Rise_of_library_centric-_readlinglists_July2018.pdf)
 

@@ -1,7 +1,7 @@
 ---
 title: Reading and resource lists
 layout: default
-nav_order: 2
+nav_order: 4
 parent: Learning and teaching tech
 has_children: false
 tags:
@@ -9,11 +9,12 @@ tags:
   - Resource lists
   - RFID
 ---
+
 # Reading and resource lists
 
 ## What are reading List/resource List solutions?
 
-These are essentially 'curation' tools. Academics (with the help of librarians) create online resource lists - commonly by module or course. There is usually flexibility to create lists in a number of different formats e.g. by topic or by week of study. Resources may be further categorized by priority such as 'essential' or background' reading. 
+These are essentially 'curation' tools. Academics (with the help of librarians) create online resource lists - commonly by module or course. There is usually flexibility to create lists in a number of different formats e.g. by topic or by week of study. Resources may be further categorized by priority such as 'essential' or background' reading.
 
 Resource list solutions offer direct integration with library mangement systems and discovery solutions.
 
@@ -25,11 +26,11 @@ In the UK and other countries such as Australia and New Zealand older 'course re
 
 ### Reading list / resource list systems in the UK
 
-* **[Talis Aspire (Talis-Part of Technology from Sage)](https://talis.com/talis-aspire/)**
-* **[BLUECloud Course Lists (SirsiDynix)](https://www.sirsidynix.com/bluecloud-course-lists/)**
-* **[eReserve Plus (eReserve Pty Ltd)](https://www.ereserve.com.au/)**
-* **[KeyLinks (Kortext)](https://www.kortext.com/keylinks/)**
-* **[Leganto (ExLibris,Part of Clarivate)](https://exlibrisgroup.com/products/leganto-reading-list-management-system/)**
+- **[Talis Aspire (Talis-Part of Technology from Sage)](https://talis.com/talis-aspire/)**
+- **[BLUECloud Course Lists (SirsiDynix)](https://www.sirsidynix.com/bluecloud-course-lists/)**
+- **[eReserve Plus (eReserve Pty Ltd)](https://www.ereserve.com.au/)**
+- **[KeyLinks (Kortext)](https://www.kortext.com/keylinks/)**
+- **[Leganto (ExLibris,Part of Clarivate)](https://exlibrisgroup.com/products/leganto-reading-list-management-system/)**
 
 In addition Blackwell offer a service that enables lecturers and others to submit reading list details and as a result enable ordering of books on the list from Blackwell - [Readinglists.co.uk](https://blackwells.co.uk/rsl/index.dfp)
 
@@ -47,12 +48,10 @@ Talis Elevate is a separate priced add-on module to the Aspire reading / resourc
 
 In response to the development of Elevate, Leganto has introduced "social reading" functionality to their reading list platform allowing students to:
 
-* Share comments, questions, and feedback by marking up course materials
-* Annotate PDF files assigned by the instructor
-* Communicate ideas with classmates
-* Add private notes
-
-
+- Share comments, questions, and feedback by marking up course materials
+- Annotate PDF files assigned by the instructor
+- Communicate ideas with classmates
+- Add private notes
 
 ## Defunct reading list systems
 
@@ -60,7 +59,7 @@ There are a number of now defunct reading list systems that were used in UK HE. 
 
 Examples of such systems are listed below:
 
-**Curriculum Builder (EBSCO)** 
+**Curriculum Builder (EBSCO)**
 
 EBSCO ceased to offer their reading list solution Curriculum Builder as a new product in 2023 and the system will be deactivated by end of 2024.
 
@@ -68,23 +67,23 @@ EBSCO ceased to offer their reading list solution Curriculum Builder as a new pr
 
 An in-house system developed by York University in 2013.York subsequently awarded a contact to ExLibris for the Leganto Reading List system in 2017.
 
-**List8D** 
+**List8D**
 
 This Open source reading list system was developed by the University of Kent as an Information Environment Programme funded by the Joint Information Systems Committee (JISC). Following the end of the project, List8D was replaced at Kent by Talis Aspire.
 
-**LORLS (Loughborough University)LORLS (Loughborough Online Reading List System)** 
+**LORLS (Loughborough University)LORLS (Loughborough Online Reading List System)**
 
 An in-house reading list management system developed by the Systems Team at Loughborough University Library and made available as open source. Whilst the system is still available to download as open source it is no longer being actively developed by Loughborough and the University subsequently moved to Talis Aspire.
 
 **MyReading**
 
-'MyReading was an in-house systems project from the Computing & Library Services department of University of Huddersfield to develop and implement an online reading list system. 
+'MyReading was an in-house systems project from the Computing & Library Services department of University of Huddersfield to develop and implement an online reading list system.
 
 **Rebus:list**
 
 A reading list solution provided by PTFS Europe. This was purchased by the Copyright Licensing Agency and Kortext in 2017 and subsequently relaunched as Keylinks.
 
-**Telstar (Technology Enhanced Learning supporting Students to achieve Academic Rigour)** 
+**Telstar (Technology Enhanced Learning supporting Students to achieve Academic Rigour)**
 
 An open source solution developed by the Open University. No longer used by OU or actively developed.
 
@@ -92,23 +91,9 @@ An open source solution developed by the Open University. No longer used by OU o
 
 This was a cloud hosted reading list solution. No longer available or in business.
 
-
-
-
-
-
-
-
-
-
-
 Learnbuild (defunct)
 
 (appears to be dormant of defunct)
-
-
-
-
 
 unilibri (defunct) unilibri was a new reading list management system launching in Semester 2 of the 2012/13 academic year.
 

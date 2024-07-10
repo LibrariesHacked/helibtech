@@ -1,7 +1,7 @@
 ---
 title: Useful resources
 layout: default
-nav_order: 10
+nav_order: 7
 parent: Learning and teaching tech
 has_children: false
 tags:
@@ -14,6 +14,7 @@ tags:
   - VLE
   - Virtual Learning Environment
 ---
+
 # Learning & teaching: useful resources
 
 [](https://academicebookinvestigation.org/)
@@ -28,7 +29,7 @@ From the EbookSOS campaign website above.
 
 [Farewell discovery – hello curation and engagement](https://www.kenchadconsulting.com/wp-content/uploads/2021/04/BS08-Ken-Chad-UKSG2021-Farewell-discovery-hello-curation-.pdf)
 
-UKSG Conference 12-14 April 2021 (Group A Breakout session No. 8 ). 
+UKSG Conference 12-14 April 2021 (Group A Breakout session No. 8 ).
 
 Over the last 20 years or so, universities have made considerable investments in library centric discovery services. Nevertheless, for some students, especially undergraduates, discovery has become largely irrelevant. They simply log on to their learning management system to find ready prepared links to the print and electronic resources they need that week for their course or module. This is typically because the learning system is linked to a library managed reading/resource list solution. Reading/resource list solutions are essentially ‘curation’ tools. By curation I mean selecting, refining and arranging to add value. The content of a reading list is curated primarily by academics who select the best resources and list them.
 
@@ -52,7 +53,7 @@ UCL Office for Open Science & Scholarship (2021) On Monday 15th March 2021, the 
 
 A reading list of useful articles on reading lists and reading list software from the Meeting the Reading List Challenge website (Loughborough University)
 
-[Digital-first and student success with Talis Aspire at Northumbria University  ](https://talis.com/2019/10/14/digital-first-and-student-success-with-talis-aspire-at-northumbria-university/)Natalie Naik. 14 October 2019
+[Digital-first and student success with Talis Aspire at Northumbria University ](https://talis.com/2019/10/14/digital-first-and-student-success-with-talis-aspire-at-northumbria-university/)Natalie Naik. 14 October 2019
 
 The library at Northumbria University and Talis have worked in partnership to develop library analytics for student success. The university has been working with the Civitas Learning student success analytics solution. Blog post The blog links to a more in depth white paper:-
 

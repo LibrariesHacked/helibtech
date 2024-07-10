@@ -1,7 +1,7 @@
 ---
 title: HELibTech briefings
 layout: default
-nav_order: 9
+nav_order: 2
 parent: Research management
 has_children: false
 tags:
@@ -9,9 +9,8 @@ tags:
   - Research management
   - Institutional repository
 ---
+
 # HELibTech briefings
-
-
 
 #### [Aggregate and amplify -enhancing the value and use of theses and dissertations](https://www.kenchadconsulting.com/wp-content/uploads/2020/07/Aggregate_and_amplify_enhancing_the-value_and_use_of_TDs_July2020.pdf)
 

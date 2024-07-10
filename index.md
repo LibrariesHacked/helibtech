@@ -32,7 +32,7 @@ We welcome the following contributions:
 
 Whatever your role either working in libraries or if you work for a technology supplier we would be keen to here from you.
 
-If you would like to contribute to HELibTech please contact [Paul Verlander ](paulverlander@gmail.com)HELibTech Community Editor.
+If you would like to contribute to HELibTech please send us your content via our [content submission form](https://forms.gle/UmtXM59GMVpq1uMr5). Alternatively feel free to contact [Paul Verlander (](paulverlander@gmail.com)HELibTech Community Editor) to discuss further.
 
 ## UKSG 2023 Innovation award winner
 

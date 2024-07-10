@@ -8,6 +8,8 @@ has_children: false
 ---
 ![Higher Education Library Technology Logo](/assets/images/helibtech-logo.png)
 
+## Our purpose
+
 The aim of HELibTech is to provide a starting point for anyone interested in library technology in Higher Education. The primary focus is the technology used in UK Higher Education libraries but most of the issues will be relevant elsewhere. Content on this site (though not external content) is open access, public domain ([CC0 licensed](https://creativecommons.org/publicdomain/zero/1.0/)) so feel free to use and re-purpose it.
 
 HELibTech originated in a major sector project: The [JISC & SCONUL Library Management Systems Study](http://www.webarchive.org.uk/wayback/archive/20140615073047/http://www.jisc.ac.uk/media/documents/programmes/resourcediscovery/lmsstudy.pdf): An evaluation and horizon scan of the current library management systems and related systems landscape for UK Higher Education. March 2008. HELibTech has enabled the work of that project to be kept up to date and expanded. 

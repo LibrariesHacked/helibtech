@@ -24,6 +24,10 @@ HELibTech is a winner of a UKSG Innovation award which will be used to develop f
 
 ## Our partners
 
-HELibTech is supported by Ken Chad Consulting and PTFS Europe who have provided a bursary for the appointment of a site community editor.
+HELibTech is supported by Ken Chad Consulting and PTFS Europe who have provided a bursary for the appointment of one of our community editors.
 
-Ken Chad Consulting and PTFS-Europe have collaborated to offer a bursary for a [community editor for Higher Education Library Technology](https://www.helibtech.com/_media/helibtech_community_editor_pr_september_2023.pdf). Paul Verlander has been appointed. Paul is an experienced information professional with over 15 years’ experience in Higher Education. HELibTech has been a valuable, free community resource for 15 years and Paul’s contribution will help to reinvigorate it and make it even more useful to the community.
+## Our community editors
+
+Paul Verlander  is an information professional with over 15 years’ experience in Higher Education managing systems, collections and research support. Paul currently works in public libraries during a carers career break.
+
+Dave Rowe is an experienced software developer and creator of the award winning Libraries Hacked site.

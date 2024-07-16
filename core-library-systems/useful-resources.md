@@ -13,7 +13,26 @@ tags:
 ---
 # Core library systems: useful resources
 
-Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of core library systems:[](https://www.rluk.ac.uk/library-lending-fit-for-the-21st-century-controlled-digital-lending-in-the-uk/)
+Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of core library systems:
+
+[The academic library app. ](https://wp.sol.us/the-academic-library-app/#libraryevents)
+
+Liz McGettigan.  Solus \[website] 14 March 2023.
+
+From the article: 
+
+“At SOLUS we are well known for our mobile app in public libraries and our newly introduced events and room booking platform. We are now entering the US academic market with our debut at the Association of College and Research Libraries (ACRL) conference in Pittsburgh in 15th – 17th March. SOLUS currently has approximately 20 academic customers with our mobile app in Australia, UK and USA and are now more than ready for expansion.The academic library app features include:
+
+* Integration with 15 ILS/LSP platforms
+* Authentication options include Shibboleth, CAS, SAML and Azure Active Directory
+* Format roll-up, FRBR-ized display of available resources
+* Push, emergency and event notifications to students, faculty and admin
+* RFID and barcode self-check out/in
+* Consortia support
+* 30 languages with new support for right to left languages (Arabic, Hebrew & Urdu)
+* Reading and wish list functionality
+* Virtual and on-campus events
+* Events integration directly into the app (register/cancel reminder notifications, history, etc.)”[](https://www.rluk.ac.uk/library-lending-fit-for-the-21st-century-controlled-digital-lending-in-the-uk/)
 
 [Library Lending Fit for the 21st Century? Controlled Digital Lending in the UK ](https://www.rluk.ac.uk/library-lending-fit-for-the-21st-century-controlled-digital-lending-in-the-uk/)David Prosser. RLUK blog. 27 September 2021
 

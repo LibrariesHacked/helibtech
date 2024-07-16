@@ -35,10 +35,20 @@ The basic CERIF entities are people, organisations, projects and outputs.
 
 A fundamental underpinning of CRIS / RIMS systems is interoperability and bilateral data exchange with third party internal systems including but not limited to human resources systems, finance systems and institutional repositories. Similarly metadata needs to be seamlessly exchanged with third party external systems such as those of funders and the REF.
 
-### CRIS / RIMS in the UK
+### CRIS / RIMS and institutional repositories
+
+CRIS / RIMS systems were traditionally based on integration with institutional repositories as outlined above. However, increasingly solutions are now offering integrative institutional repository functionality 
+
+## CRIS / RIMS in the UK
 
 A full list of CRIS / RIMS products available in the UK is included in our [product directory](https://helibtech.netlify.app/product-directory/)[ ](https://helibtech.netlify.app/product-directory/)and an overview of the current  CRIS / RIMS market is included in the market overview section under this topic.
 
 The UK market however is dominated by Elsevier's Pure and Symplectic Elements, with smaller market shares for Converis and Worktribe.
 
 It is worth noting that less than 50% of UK HEIs are users of CRIS / RIMS systems currently. However, use is almost universal amongst research intensive institutions such as those of the Russell Group.
+
+## Procurement & implementation
+
+CRIS / RIMS systems are high-value and complex solutions. As such, purchase of a new system will be subject to procurement rules and must follow either a competitive tendering process or be purchased through an approved procurement route such as a purchasing framework.
+
+CRIS / RIMS systems are included in the UK Government procurement framework [G Cloud 13 ](https://www.crowncommercial.gov.uk/agreements/RM1557.13)Details of CRIS / RIMS suppliers and their products can be found in the [G Cloud digital marketplace](https://www.applytosupply.digitalmarketplace.service.gov.uk/).

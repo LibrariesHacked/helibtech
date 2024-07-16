@@ -86,7 +86,11 @@ McGarvey, V. Insights, 2018, 31: 21, 1–7; DOI:https://doi.org/10.1629/uksg.411
 
 Scott N. Romaniuk 14 April 2018. eLearning Industry
 
-Article primarily focused on the range of study skills apps available to students.[](https://www.researchinformation.info/feature/tradition-change)
+Article primarily focused on the range of study skills apps available to students.
+
+[Open Source Software. Navigating the ecosystem ](https://americanlibrariesmagazine.org/2017/11/01/open-source-software/)
+
+Marshall Breeding. American Libraries. 1 November 2017[](https://www.researchinformation.info/feature/tradition-change)
 
 [From tradition to change](https://www.researchinformation.info/feature/tradition-change)
 

@@ -70,7 +70,13 @@ DOI: https://doi.org/10.18665/sr.312608
 
 From the foreword
 
-“The mission of academic and research libraries is expanding, and our work is transforming. Collections alone are no longer sufficient to articulate our new value proposition and establish ROI to our institutions. Our academic and research libraries are doing more than just managing collection-centric resources, we are contributing to faculty productivities and student success. As we aim to support the goals of our colleges and universities and maintain mission relevance, including technological advancement, we must also understand and support the evolving needs and requirements of our users”[](https://www.researchinformation.info/feature/tradition-change)
+“The mission of academic and research libraries is expanding, and our work is transforming. Collections alone are no longer sufficient to articulate our new value proposition and establish ROI to our institutions. Our academic and research libraries are doing more than just managing collection-centric resources, we are contributing to faculty productivities and student success. As we aim to support the goals of our colleges and universities and maintain mission relevance, including technological advancement, we must also understand and support the evolving needs and requirements of our users”
+
+[25 Important Apps And Digital Learning Tools For University Students](https://elearningindustry.com/25-digital-learning-tools-apps-university-students)
+
+Scott N. Romaniuk 14 April 2018. eLearning Industry
+
+Article primarily focused on the range of study skills apps available to students.[](https://www.researchinformation.info/feature/tradition-change)
 
 [From tradition to change](https://www.researchinformation.info/feature/tradition-change)
 

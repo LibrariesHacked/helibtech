@@ -42,4 +42,4 @@ The alpha version of the [FOLIO (‘Future of Libraries Is Open’)](https://fol
 
 FOLIO followed the demise of the earlier Kuali OLE (Open Library Environment) project that was active from 2007 to 2016. The Kuali OLE software was only implemented in three institutions: University of Chicago, Lehigh University, and SOAS Library of the University of London. The Open Library Environment organisation, which managed the Kuali OLE project, has shifted its efforts from building its own software to supporting the FOLIO project.
 
-[PTFS Europe](https://ptfs-europe.com/) is the main supplier of hosted implementations of Koha and Folio in the UK.
+[PTFS Europe](https://ptfs-europe.com/) supplies hosted implementations of Koha and Folio in the UK. [EBSCO ](https://www.ebsco.com/academic-libraries/products/ebsco-folio)also offer a hosted FOLIO solution to libraries.

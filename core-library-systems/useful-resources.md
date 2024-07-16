@@ -48,7 +48,13 @@ From the blog: “Over the past few decades, a growing proportion of materials p
 
 [](https://page.exlibrisgroup.com/hubfs/HQ_General/Ex%20Libris%20Controlled%20Digital%20Lending%20White%20Paper.pdf?hsLang=en)Ex Libris \[White Paper] 2021
 
-“Making copies of print materials available to patrons in digital format brings many advantages. For instance, this practice can make collections more widely accessible to researchers and the general public, as seen during the pandemic. There are also economic and ecological benefits to digital lending. Yet, libraries must ensure they are not violating copyright restrictions when circulating digital copies of their physical materials. To help librarians navigate this challenge, a concept known as Controlled Digital Lending (CDL) has emerged. This paper explains what CDL is, how it supports the library's mission, and how librarians can implement CDL successfully at their institutions.”[](https://scholarlykitchen.sspnet.org/2020/02/24/recenter-library-systems-interview-ohiolinks-gwen-evans/)
+“Making copies of print materials available to patrons in digital format brings many advantages. For instance, this practice can make collections more widely accessible to researchers and the general public, as seen during the pandemic. There are also economic and ecological benefits to digital lending. Yet, libraries must ensure they are not violating copyright restrictions when circulating digital copies of their physical materials. To help librarians navigate this challenge, a concept known as Controlled Digital Lending (CDL) has emerged. This paper explains what CDL is, how it supports the library's mission, and how librarians can implement CDL successfully at their institutions.”
+
+[The FOLIO Open Source Library Services Platform.](https://www.researchinformation.info/sites/default/files/content/white-paper/pdfs/The%20FOLIO%20Open%20Source%20Library%20Services%20Platform%20(2).pdf)
+
+Tamir Borensztajn. EBSCO 2021.
+
+Article about the open source library system including details of EBSCO's hosting service of FOLIO[](https://scholarlykitchen.sspnet.org/2020/02/24/recenter-library-systems-interview-ohiolinks-gwen-evans/)
 
 [Recenter Library Systems on the User](https://scholarlykitchen.sspnet.org/2020/02/24/recenter-library-systems-interview-ohiolinks-gwen-evans/)
 
@@ -71,6 +77,10 @@ DOI: https://doi.org/10.18665/sr.312608
 From the foreword
 
 “The mission of academic and research libraries is expanding, and our work is transforming. Collections alone are no longer sufficient to articulate our new value proposition and establish ROI to our institutions. Our academic and research libraries are doing more than just managing collection-centric resources, we are contributing to faculty productivities and student success. As we aim to support the goals of our colleges and universities and maintain mission relevance, including technological advancement, we must also understand and support the evolving needs and requirements of our users”
+
+[Staffordshire University’s Koha journey: taking an integrated approach to supporting an open source library management system](https://insights.uksg.org/articles/10.1629/uksg.411)
+
+McGarvey, V. Insights, 2018, 31: 21, 1–7; DOI:https://doi.org/10.1629/uksg.411
 
 [25 Important Apps And Digital Learning Tools For University Students](https://elearningindustry.com/25-digital-learning-tools-apps-university-students)
 

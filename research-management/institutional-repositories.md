@@ -19,6 +19,8 @@ Depending on the institution specific editorial policy, repositories may also co
 
 ## Products
 
+A full list of institutional repositories available in the UK can be found in our [product directory](https://helibtech.netlify.app/product-directory/). 
+
 The UK repository landscape has historically been dominated by open source software, principally [DSpace ](https://dspace.lyrasis.org/)and [EPrints](https://www.eprints.org/uk/).
 
 ### DSpace

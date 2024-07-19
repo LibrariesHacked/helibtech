@@ -1,3 +1,9 @@
-<h2 class="h4">Synopsis</h2>
+<blockquote class="important-title">
+  <p>{{ page.title }}</p>
+  <p class="label">
+    {{ page.date | date: "%B %d, %Y" }}
+  </p>
 
-{{ page.synopsis || markdownify }}
+  {{ page.synopsis || markdownify }}
+
+</blockquote>

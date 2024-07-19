@@ -1,7 +1,7 @@
-<blockquote class="important-title">
+<blockquote class="important">
   <p>{{ page.title }}</p>
   <p class="label">
-    {{ page.date | date: "%B %d, %Y" }}
+    {{ page.date_added | date: "%B %d, %Y" }}
   </p>
 
   {{ page.synopsis || markdownify }}

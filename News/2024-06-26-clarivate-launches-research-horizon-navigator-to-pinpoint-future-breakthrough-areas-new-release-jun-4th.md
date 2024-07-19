@@ -14,7 +14,8 @@ tags:
   - Research management
   - AI
   - Artificial Intelligence
-layout: default
+layout: news
 parent: News
 ---
+
 [See here for the full news release](https://clarivate.com/news/clarivate-launches-research-horizon-navigator-to-pinpoint-future-breakthrough-areas/)

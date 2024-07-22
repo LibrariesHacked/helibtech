@@ -2,7 +2,7 @@
 title: AI and libraries
 layout: default
 nav_order: 2
-parent: Analytics and user engagement
+parent: User engagement
 has_children: false
 tags:
   - Artificial Intelligence
@@ -69,4 +69,4 @@ Also known as an artificial neural network, this is a type of machine learning l
 
 A more recent variation of neural networks, which uses many layers of artificial neurons to solve more difficult problems. Its popularity as a technique increased significantly from the mid-2000s onwards, as it is behind much of the wider interest in AI today. It is often used to classify information from images, text or sound
 
-See the [useful resources section of Analytics and User Engagement](/analytics-and-user-engagement/useful-resources) for further information on AI from a range of authoritative sources.
+See the [useful resources section of User engagement](/user-engagement/useful-resources) for further information on AI from a range of authoritative sources.

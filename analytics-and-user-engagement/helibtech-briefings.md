@@ -2,7 +2,7 @@
 title: HELibTech briefings
 layout: default
 nav_order: 3
-parent: Analytics and user engagement
+parent: User engagement
 has_children: false
 ---
 

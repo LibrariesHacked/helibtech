@@ -105,9 +105,9 @@ collections:
               widget: "hidden",
               default: false,
             }
-      - name: analytics_and_user_engagement_index
-        label: Analytics and user engagement
-        file: analytics-and-user-engagement/index.md
+      - name: user_engagement_index
+        label: User engagement
+        file: user-engagement/index.md
         create: false
         fields:
           - *TITLE
@@ -557,13 +557,13 @@ collections:
           default: "Past webinars",
         }
 
-  - name: "analytics_and_user_engagement"
-    label: "Analytics and user engagement"
-    folder: "analytics-and-user-engagement"
+  - name: "user_engagement"
+    label: "User engagement"
+    folder: "user-engagement"
     create: true
     filter:
       field: parent
-      value: Analytics and user engagement
+      value: User engagement
     fields:
       - *TITLE
       - *META_TAGS
@@ -573,7 +573,7 @@ collections:
           label: "Parent",
           name: "parent",
           widget: "hidden",
-          default: "Analytics and user engagement",
+          default: "User engagement",
         }
 
   - name: "archives_and_special_collections"

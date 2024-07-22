@@ -2,7 +2,7 @@
 title: Useful resources
 layout: default
 nav_order: 4
-parent: Analytics and user engagement
+parent: User engagement
 has_children: false
 tags:
   - Artificial Intelligence
@@ -11,7 +11,7 @@ tags:
 
 # Analytics & user engagement: useful resources
 
-Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of analytics and user engagement:[](https://nationalcentreforai.jiscinvolve.org/wp/2024/03/04/generative-ai-primer/)
+Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of User engagement:[](https://nationalcentreforai.jiscinvolve.org/wp/2024/03/04/generative-ai-primer/)
 
 [A Generative AI Primer](https://nationalcentreforai.jiscinvolve.org/wp/2024/03/04/generative-ai-primer/)
 

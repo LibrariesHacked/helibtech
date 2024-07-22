@@ -127,6 +127,27 @@ collections:
               default: true,
             }
 
+      - name: artificial_intelligence_index
+        label: Artificial intelligence
+        file: artificial_intelligence/index.md
+        create: false
+        fields:
+          - *TITLE
+          - *BODY
+          - *META_TAGS
+          - {
+              label: "Navigation order",
+              name: "nav_order",
+              widget: "hidden",
+              default: 12,
+            }
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: true,
+            }
+
       - name: archives_and_special_collections_index
         label: Archives and special collections
         file: archives-and-special-collections/index.md
@@ -140,6 +161,27 @@ collections:
               name: "nav_order",
               widget: "hidden",
               default: 11,
+            }
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: true,
+            }
+
+      - name: collection_development_tools_index
+        label: Collection development tools
+        file: collection_development_tools/index.md
+        create: false
+        fields:
+          - *TITLE
+          - *BODY
+          - *META_TAGS
+          - {
+              label: "Navigation order",
+              name: "nav_order",
+              widget: "hidden",
+              default: 13,
             }
           - {
               label: "Has children",
@@ -226,6 +268,28 @@ collections:
               name: "nav_order",
               widget: "hidden",
               default: 1,
+            }
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: true,
+            }
+
+      - name: helibtech_briefing_papers_index
+        label: HELibTech briefing papers
+        file: helibtech-briefing-papers/index.md
+        create: false
+        fields:
+          - *TITLE
+          - *BODY
+          - *META_TAGS
+          - *DEFAULT_LAYOUT
+          - {
+              label: "Navigation order",
+              name: "nav_order",
+              widget: "hidden",
+              default: 11,
             }
           - {
               label: "Has children",
@@ -336,6 +400,50 @@ collections:
               name: "nav_order",
               widget: "hidden",
               default: 9,
+            }
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: true,
+            }
+
+      - name: resource_sharing_and_interlending_index
+        label: Resource sharing and interlending
+        file: resource_sharing_and_interlending/index.md
+        create: false
+        fields:
+          - *TITLE
+          - *BODY
+          - *META_TAGS
+          - *DEFAULT_LAYOUT
+          - {
+              label: "Navigation order",
+              name: "nav_order",
+              widget: "hidden",
+              default: 14,
+            }
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: true,
+            }
+
+      - name: self_service_index
+        label: Self service
+        file: self_service/index.md
+        create: false
+        fields:
+          - *TITLE
+          - *BODY
+          - *META_TAGS
+          - *DEFAULT_LAYOUT
+          - {
+              label: "Navigation order",
+              name: "nav_order",
+              widget: "hidden",
+              default: 15,
             }
           - {
               label: "Has children",
@@ -482,6 +590,44 @@ collections:
           default: "Archives and special collections",
         }
 
+  - name: "artificial_intelligence"
+    label: "Artificial intelligence"
+    folder: "artificial-intelligence"
+    create: true
+    filter:
+      field: parent
+      value: Artificial intelligence
+    fields:
+      - *TITLE
+      - *META_TAGS
+      - *BODY
+      - *DEFAULT_LAYOUT
+      - {
+          label: "Parent",
+          name: "parent",
+          widget: "hidden",
+          default: "Artificial intelligence",
+        }
+
+  - name: "collection_development_tools"
+    label: "Collection development tools"
+    folder: "collection-development-tools"
+    create: true
+    filter:
+      field: parent
+      value: Collection development tools
+    fields:
+      - *TITLE
+      - *META_TAGS
+      - *BODY
+      - *DEFAULT_LAYOUT
+      - {
+          label: "Parent",
+          name: "parent",
+          widget: "hidden",
+          default: "Collection development tools",
+        }
+
   - name: "core_library_systems"
     label: "Core library systems"
     folder: "core-library-systems"
@@ -520,6 +666,25 @@ collections:
           default: "Discovery and content",
         }
 
+  - name: "helibtech_briefing_papers"
+    label: "HELibTech briefing papers"
+    folder: "helibtech-briefing-papers"
+    create: true
+    filter:
+      field: parent
+      value: HELibTech briefing papers
+    fields:
+      - *TITLE
+      - *META_TAGS
+      - *BODY
+      - *DEFAULT_LAYOUT
+      - {
+          label: "Parent",
+          name: "parent",
+          widget: "hidden",
+          default: "HELibTech briefing papers",
+        }
+
   - name: "learning_and_teaching_tech"
     label: "Learning and teaching tech"
     folder: "learning-and-teaching-tech"
@@ -556,6 +721,44 @@ collections:
           name: "parent",
           widget: "hidden",
           default: "Research management",
+        }
+
+  - name: "resource_sharing_and_interlending"
+    label: "Resource sharing and interlending"
+    folder: "resource-sharing-and-interlending"
+    create: true
+    filter:
+      field: parent
+      value: Resource sharing and interlending
+    fields:
+      - *TITLE
+      - *META_TAGS
+      - *BODY
+      - *DEFAULT_LAYOUT
+      - {
+          label: "Parent",
+          name: "parent",
+          widget: "hidden",
+          default: "Resource sharing and interlending",
+        }
+
+  - name: "self_service"
+    label: "Self service"
+    folder: "self-service"
+    create: true
+    filter:
+      field: parent
+      value: Self service
+    fields:
+      - *TITLE
+      - *META_TAGS
+      - *BODY
+      - *DEFAULT_LAYOUT
+      - {
+          label: "Parent",
+          name: "parent",
+          widget: "hidden",
+          default: "Self service",
         }
 
   - name: "who_uses_what"

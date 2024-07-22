@@ -232,9 +232,9 @@ collections:
               default: true,
             }
 
-      - name: events_index
-        label: Events
-        file: events/index.md
+      - name: helibtech_webinars_index
+        label: HELibTech webinars
+        file: helibtech-webinars/index.md
         create: false
         fields:
           - *TITLE
@@ -254,9 +254,9 @@ collections:
               default: true,
             }
 
-      - name: past_events_index
-        label: Past events
-        file: events/past-events/index.md
+      - name: past_webinars_index
+        label: Past webinars
+        file: helibtech-webinars/past-webinars/index.md
         create: false
         fields:
           - *TITLE
@@ -513,31 +513,14 @@ collections:
           default: "News archive",
         }
 
-  - name: "events"
-    label: "Events"
-    folder: "events"
+  - name: "helibtech_webinars"
+    label: "HELibTech webinars"
+    folder: "helibtech-webinars"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     filter:
       field: parent
-      value: Events
-    fields:
-      - *TITLE
-      - *DATE
-      - *ABSTRACT
-      - *META_TAGS
-      - *BODY
-      - *DEFAULT_LAYOUT
-      - { label: "Parent", name: "parent", widget: "hidden", default: "Events" }
-
-  - name: "past_events"
-    label: "Past events"
-    folder: "events/past-events"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    filter:
-      field: parent
-      value: Past events
+      value: HELibTech webinars
     fields:
       - *TITLE
       - *DATE
@@ -549,7 +532,29 @@ collections:
           label: "Parent",
           name: "parent",
           widget: "hidden",
-          default: "Past events",
+          default: "HELibTech webinars",
+        }
+
+  - name: "past_webinars"
+    label: "Past webinars"
+    folder: "helibtech-webinars/past-webinars"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    filter:
+      field: parent
+      value: Past webinars
+    fields:
+      - *TITLE
+      - *DATE
+      - *ABSTRACT
+      - *META_TAGS
+      - *BODY
+      - *DEFAULT_LAYOUT
+      - {
+          label: "Parent",
+          name: "parent",
+          widget: "hidden",
+          default: "Past webinars",
         }
 
   - name: "analytics_and_user_engagement"

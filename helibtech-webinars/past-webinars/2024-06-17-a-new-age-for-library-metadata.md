@@ -21,6 +21,7 @@ tags:
   - Collection development
   - Library systems
 layout: default
-parent: Past events
+parent: Past webinars
 ---
+
 [Link to the webinar recording](https://www.youtube.com/watch?v=Sv43_mG84C4)

@@ -6,6 +6,7 @@ tags:
   - Archives
   - CDL
 layout: default
-parent: Past events
+parent: Past webinars
 ---
+
 This is the body of the news article

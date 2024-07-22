@@ -16,6 +16,7 @@ synopsis: Supporting information literacy offers an opportunity for academic
 tags:
   - Learning & teaching
 layout: default
-parent: Past events
+parent: Past webinars
 ---
+
 [Link to webinar recording](https://www.youtube.com/watch?app=desktop&v=3O9ZRhB_dSs)

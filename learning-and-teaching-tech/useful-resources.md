@@ -2,7 +2,7 @@
 title: Useful resources
 layout: default
 nav_order: 7
-parent: Learning and teaching tech
+parent: Learning and teaching
 has_children: false
 tags:
   - Digitisation

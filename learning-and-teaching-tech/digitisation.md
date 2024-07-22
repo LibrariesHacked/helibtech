@@ -2,7 +2,7 @@
 title: Digitisation
 layout: default
 nav_order: 2
-parent: Learning and teaching tech
+parent: Learning and teaching
 has_children: false
 tags:
   - Digitisation

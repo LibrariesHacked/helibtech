@@ -2,7 +2,7 @@
 title: Reading and resource lists
 layout: default
 nav_order: 4
-parent: Learning and teaching tech
+parent: Learning and teaching
 has_children: false
 tags:
   - Reading lists

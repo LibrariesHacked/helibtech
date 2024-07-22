@@ -298,9 +298,9 @@ collections:
               default: true,
             }
 
-      - name: learning_and_teaching_tech_index
-        label: Learning and teaching tech
-        file: learning-and-teaching-tech/index.md
+      - name: learning_and_teaching_index
+        label: Learning and teaching
+        file: learning-and-teaching/index.md
         create: false
         fields:
           - *TITLE
@@ -690,13 +690,13 @@ collections:
           default: "HELibTech briefing papers",
         }
 
-  - name: "learning_and_teaching_tech"
-    label: "Learning and teaching tech"
-    folder: "learning-and-teaching-tech"
+  - name: "learning_and_teaching"
+    label: "Learning and teaching"
+    folder: "learning-and-teaching"
     create: true
     filter:
       field: parent
-      value: Learning and teaching tech
+      value: Learning and teaching
     fields:
       - *TITLE
       - *META_TAGS
@@ -706,7 +706,7 @@ collections:
           label: "Parent",
           name: "parent",
           widget: "hidden",
-          default: "Learning and teaching tech",
+          default: "Learning and teaching",
         }
 
   - name: "research_management"

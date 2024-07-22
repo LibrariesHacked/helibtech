@@ -9,7 +9,7 @@ tags:
   - Data & analytics
 ---
 
-# Analytics & user engagement: useful resources
+# User engagement: useful resources
 
 Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of User engagement:[](https://nationalcentreforai.jiscinvolve.org/wp/2024/03/04/generative-ai-primer/)
 

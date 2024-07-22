@@ -2,7 +2,7 @@
 title: Market overview
 layout: default
 nav_order: 1
-parent: Learning and teaching tech
+parent: Learning and teaching
 has_children: false
 tags:
   - Learning & teaching
@@ -17,7 +17,7 @@ tags:
 
 ## Reading / resource list market share
 
-More information about the reading / resource list solutions currently available and their functionality are included in the [reading / resource list section](/learning-and-teaching-tech/) of the Learning and teaching tech pages.
+More information about the reading / resource list solutions currently available and their functionality are included in the [reading / resource list section](/learning-and-teaching/) of the Learning and teaching pages.
 
 Below is a visual summary of the development of the reading / resource list solution market between 2017 and 2024. The market in UK HE is dominated by 3 products: Talis Aspire, Leganto (Ex Libris) and Keylinks (Kortext)
 

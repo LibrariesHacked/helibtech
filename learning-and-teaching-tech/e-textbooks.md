@@ -2,7 +2,7 @@
 title: E-textbooks
 layout: default
 nav_order: 3
-parent: Learning and teaching tech
+parent: Learning and teaching
 has_children: false
 tags:
   - Ebooks

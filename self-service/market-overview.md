@@ -19,4 +19,8 @@ The main RFID solution providers serving the library market in the UK are:
 * [Nedap](https://nedap.com/)
 * [Meescan](https://meescan.com/products/rfid-stations/)
 
+[](https://meescan.com/products/rfid-stations/)Whilst there is currently incomplete data on UK marketshare for library RFID products, based on a sample survey of some 40 UK HEIs, the market as of 2024 is dominated by Lynsgoe Systems, closely followed by Bibliotecha.
+
+Of institutions sampled, over a third were using a mixed economy of hardware supplied by more than one supplier. [](https://meescan.com/products/rfid-stations/)
+
 See the HELibTech [product directory](https://helibtech.netlify.app/product-directory/) for details of the specific products offered by each supplier.

@@ -410,7 +410,7 @@ collections:
 
       - name: resource_sharing_and_interlending_index
         label: Resource sharing and interlending
-        file: resource_sharing_and_interlending/index.md
+        file: resource-sharing-and-interlending/index.md
         create: false
         fields:
           - *TITLE

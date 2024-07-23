@@ -432,7 +432,7 @@ collections:
 
       - name: self_service_index
         label: Self service
-        file: self_service/index.md
+        file: self-service/index.md
         create: false
         fields:
           - *TITLE

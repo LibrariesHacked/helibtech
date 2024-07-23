@@ -129,7 +129,7 @@ collections:
 
       - name: artificial_intelligence_index
         label: Artificial intelligence
-        file: artificial_intelligence/index.md
+        file: artificial-intelligence/index.md
         create: false
         fields:
           - *TITLE
@@ -171,7 +171,7 @@ collections:
 
       - name: collection_development_tools_index
         label: Collection development tools
-        file: collection_development_tools/index.md
+        file: collection-development-tools/index.md
         create: false
         fields:
           - *TITLE

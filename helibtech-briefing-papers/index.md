@@ -25,7 +25,7 @@ This briefing paper contrasts the library resource management landscape now with
 
 [Rethinking the Library Services Platform](https://www.kenchadconsulting.com/wp-content/uploads/2018/09/Rethinking_the_LSP_Jan2016a.pdf)
 
-[](https://www.kenchadconsulting.com/wp-content/uploads/2018/09/Rethinking_the_LSP_Jan2016a.pdf)Ken Chad HELIbTech briefing paper No. 2, January 2016.
+[](https://www.kenchadconsulting.com/wp-content/uploads/2018/09/Rethinking_the_LSP_Jan2016a.pdf)Ken Chad HELibTech Briefing Paper No. 2, January 2016.
 
 The second in the series of HELibTech briefing papers challenges the current definition of a library services platform (LSP) and suggests ways in which library systems might develop. While a new generation of library systems has emerged there remains a very significant lack of interoperability between the various components that make up the wider library technology ‘ecosystem’. So, although we talk of library services platforms, libraries and library system vendors have not yet fully realised a platform-based, interoperable library ecosystem. Cloud computing could help break this paradigm as it is doing with enterprise resource planning (ERP) solutions. Gartner, an information technology market research and advisory firm, suggests that the ERP suite is being deconstructed into what they characterise as a ‘postmodern ERP.’ Gartner suggests that the result will be a more loosely coupled environment with much of the functionality sourced as Cloud services or via business process outsourcers. Will we see the same trend in library technology?
 
@@ -33,7 +33,7 @@ A more open library technology ecosystem, possibly making better use of open sou
 
 [The new role of the library in teaching and learning outcomes ](https://www.kenchadconsulting.com/wp-content/uploads/2018/09/Library_and_teaching_learning_outcomes_June2017_2a-1.pdf)
 
-Ken Chad & Helen Anderson. HELibTech briefing paper No. 3, June 2017.
+Ken Chad & Helen Anderson. HELibTech Briefing Paper No. 3, June 2017.
 
 Students in many countries, especially the US and UK are concerned that the growing cost of higher education is not delivering good value. Excellence in teaching and a focus on measurement and assessment of learning outcomes have become entrenched in higher education policy and the strategies of academic institutions. In the UK this trend has crystallised in a new Teaching Excellence Framework (TEF) introduced by government in 2017.
 
@@ -43,7 +43,7 @@ All this suggests a trend for library technology and educational technology to m
 
 [The student consumer and the rise of e-textbook platforms](https://www.kenchadconsulting.com/wp-content/uploads/2018/03/Student_consumer_and_e-textbook_platforms_March2018.pdf)
 
-Ken Chad. HELibTech briefing paper No. 4, March 2018.
+Ken Chad. HELibTech Briefing Paper No. 4, March 2018.
 
 A recent report for the Society of College, National & University Libraries (SCONUL) listed ‘students as customers’ as one of the five top 'transformational’ trends that will impact libraries over the next ten years. These student consumers are not all happy and one reason is the rising cost of textbooks and the lack of availability from libraries. The briefing paper looks at the textbook market and moves to digital and more interactive learning. It analyses new approaches to textbook publication and the new ways libraries are delivering e-textbooks to students including the rise of e-textbook platforms, Open Textbooks and institutional initiatives to combat rising textbook costs. It concludes with an analysis of the potential disruptive impact of new user focused e-textbook platforms
 
@@ -74,7 +74,5 @@ In the last decade or so open source software became a defining factor in how li
 InterLibrary loan (ILL) is an essential library service. Even the largest, most well-funded library cannot meet, from its own collections, all the resource needs of all its users. However, InterLibrary loan (ILL) and document delivery (DD) workflows and software solutions can be complex with staff intensive workflows. A new generation of library resource sharing solutions is helping libraries transform legacy ILL practices and systems and challenge past assumptions. In the past, key factors limiting efficient ILL/DD were the complex nature and poor interoperability of ILL systems and the resultant staff intensive workflows and costs. As we move into the second quarter of the 21st century, technology has transformed ILL/resource sharing.
 
 While Open Access is widely acknowledged as having challenged conventional subscription publication models, a full solution to enabling the free flow of research is still to be found. OA combined with persistent work by librarians collaborating regionally, nationally and internationally to break down barriers to sharing resources, creates potential for a dramatically new approach. New approaches to resource sharing will encourage a reassessment of library collections and drive forward a more open research agenda.
-
-
 
 [](https://www.kenchadconsulting.com/wp-content/uploads/2018/09/Resource_management_briefing_HELibTech_KenChad_Aug2015.pdf)

@@ -44,4 +44,10 @@ Tagging plate for programming RFID tags by syncing with item barcodes. Also to f
 In addition suppliers now offer a range of additional RFID products to enhance the library offering. These include:
 
 * RFID reservation self-service - to allow end users to self-issue reservations
-* RFID book vending - self-service access to book "vending" machines for limited collections.[](https://helibtech.netlify.app/product-directory/)
+* RFID book vending - self-service access to book "vending" machines for limited collections.
+
+## Implementation, lifecycle and costs
+
+RFID hardware constitutes a significant capital expenditure for libraries, which depending on products purchased may amount to an initial outlay of five figure sums or more.
+
+When purchasing RFID products, it is important to consider whole life costs as well as initial capital outlay. RFID products will usually be subject to annual maintenance agreements, the costs of which can vary significantly between suppliers. Some suppliers may also cease to support products at end of lifecycle which can lead to vulnerabilities in terms of equipment failure or the need for further capital expenditure.

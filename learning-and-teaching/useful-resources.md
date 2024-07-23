@@ -14,7 +14,6 @@ tags:
   - VLE
   - Virtual Learning Environment
 ---
-
 # Learning & teaching: useful resources
 
 [](https://academicebookinvestigation.org/)
@@ -62,6 +61,12 @@ The library at Northumbria University and Talis have worked in partnership to de
 It highlights the central role for Library centric reading list solutions (Northumbria use Talis Aspire:
 
 “Through our long-term partnership with faculty, our reading list service had achieved a critical mass of content and had become a key online destination for students, attracting a wide range of student learning activity in one place”.
+
+[Teaching and learning outcomes, the TEF (Teaching Excellence Framework) a new world for libraries, publishers and intermediaries](https://www.kenchadconsulting.com/wp-content/uploads/2018/04/Ken-Chad_Teaching_learning_outcomes_UKSG_April2018.pdf)
+
+[](https://www.kenchadconsulting.com/wp-content/uploads/2018/04/Ken-Chad_Teaching_learning_outcomes_UKSG_April2018.pdf)Presentation at UKSG Conference . April 2018
+
+A focus on measurement and assessment of teaching and learning outcomes has become entrenched in policy and the strategies of academic institutions. In the UK this trend has crystallised in the Teaching Excellence Framework (TEF). Librarians are increasingly managing course specific resources that up to now had been the province of the Virtual Learning Environment (VLE) or digital textbook platforms. This session looks at the impacts on content and licensing, e-textbooks and the potential merging of library and educational technology.
 
 [Creating effective and interesting reading lists](https://campuspress.uwl.ac.uk/cbtips/2018/04/12/creating-effective-and-interesting-reading-lists/)
 

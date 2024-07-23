@@ -51,3 +51,44 @@ In addition suppliers now offer a range of additional RFID products to enhance t
 RFID hardware constitutes a significant capital expenditure for libraries, which depending on products purchased may amount to an initial outlay of five figure sums or more.
 
 When purchasing RFID products, it is important to consider whole life costs as well as initial capital outlay. RFID products will usually be subject to annual maintenance agreements, the costs of which can vary significantly between suppliers. Some suppliers may also cease to support products at end of lifecycle which can lead to vulnerabilities in terms of equipment failure or the need for further capital expenditure.
+
+## Self-service usage rates - case studies 2018
+
+In 2018, Ken Chad Consulting gathered case studies of self-service usage rates from a number of libraries:
+
+#### Library 1 (Academic)
+
+Averages fairly consistent usage rates of 80%. Still offer staffed desks and a proportion of customers will always:
+
+* prefer to transact with a human being
+* have a problem with their account
+* struggle with the technology 
+* be picking up some sort of enclosure item where usage is supervised or an inter-library loan
+
+"I don’t feel that people should HAVE to use it if they prefer not to. Obviously at times (for example overnight opening when there are only security-type staff available) they have to if they want to borrow/return. I’d rather offer them a choice.”
+
+#### Library 2 (Academic) 
+
+Average in the region of 84% of issues and about 70% of returns via self-service.
+
+#### Library 3 (Academic) 
+
+Loans and discharges since April 2017, when new system went live: 75.6% of total loans, which include the exceptions below.
+
+* Item-based exceptions due to items that cannot be processed through the self-issue terminals
+* Items belonging to other branches that do not have RFID capability 
+* Interlibrary loans from other libraries 
+* Multimedia items not RFID tagged
+* Postal loans
+
+#### Library 4 (Academic) 
+
+92% for 16/17, and 95% thus far for 17/18.
+
+#### Library 5 (Public Library) 
+
+Target of 90% of all issues for self service kiosks. 87% satisfaction during year of response.  Some types of transactions that are excluded from the stats for operational reasons but they are generally low volume.
+
+#### Library 6 (Academic) 
+
+The library is 24/7/365 access and institution is a single faculty, independent university. Apart from the occasional item that needs to be issued manually in order to override the prescribed loan periods, near 100% RFID issues and returns as RFID self-service is the only method on offer due to lack of staffed desk. This is a small institution of circa 250 students.

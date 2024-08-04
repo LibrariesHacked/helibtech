@@ -19,8 +19,8 @@ layout: enhanced
 
 <script>
     function loadData() {
-        // 19tzGFPCGVyyloGaAuBpexvpI2BkY7B_IYQizy40M97Q
-        Papa.parse("https://docs.google.com/spreadsheets/d/{{ page.sheet_id }}/gviz/tq?tqx=out:csv", {
+        var sheet_id = "{{ page.sheet_id }}";
+        Papa.parse(`https://docs.google.com/spreadsheets/d/${sheet_id}/gviz/tq?tqx=out:csv`, {
             download: true,
             header: true,
             worker: true,

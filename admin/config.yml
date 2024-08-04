@@ -513,6 +513,12 @@ collections:
           default: "News archive",
         }
       - {
+          label: "Grand parent",
+          name: "grand_parent",
+          widget: "hidden",
+          default: "News",
+        }
+      - {
           label: "Exclude from nav",
           name: "nav_exclude",
           widget: "hidden",
@@ -567,6 +573,18 @@ collections:
           name: "parent",
           widget: "hidden",
           default: "Past webinars",
+        }
+      - {
+          label: "Grand parent",
+          name: "grand_parent",
+          widget: "hidden",
+          default: "HELibTech webinars",
+        }
+      - {
+          label: "Exclude from nav",
+          name: "nav_exclude",
+          widget: "hidden",
+          default: true,
         }
 
   - name: "user_engagement"

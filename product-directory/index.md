@@ -31,7 +31,9 @@ tags:
 layout: sheet
 nav_order: 5
 has_children: false
+sheet_id: '19tzGFPCGVyyloGaAuBpexvpI2BkY7B_IYQizy40M97Q'
 ---
+
 # Product directory
 
 This section of HELibTech provides details of available library software, systems and hardware to enable the community to easily find out what products are available from which suppliers.

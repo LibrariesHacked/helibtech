@@ -19,7 +19,8 @@ layout: enhanced
 
 <script>
     function loadData() {
-        Papa.parse("https://docs.google.com/spreadsheets/d/19tzGFPCGVyyloGaAuBpexvpI2BkY7B_IYQizy40M97Q/gviz/tq?tqx=out:csv", {
+        // 19tzGFPCGVyyloGaAuBpexvpI2BkY7B_IYQizy40M97Q
+        Papa.parse("https://docs.google.com/spreadsheets/d/{{ page.sheet_id }}/gviz/tq?tqx=out:csv", {
             download: true,
             header: true,
             worker: true,

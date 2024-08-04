@@ -16,6 +16,7 @@ tags:
   - Artificial Intelligence
 layout: news
 parent: News
+nav_exclude: true
 ---
 
 [See here for the full news release](https://clarivate.com/news/clarivate-launches-research-horizon-navigator-to-pinpoint-future-breakthrough-areas/)

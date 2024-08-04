@@ -17,6 +17,7 @@ tags:
   - Learning & teaching
 layout: default
 parent: Past webinars
+nav_exclude: true
 ---
 
 [Link to webinar recording](https://www.youtube.com/watch?app=desktop&v=3O9ZRhB_dSs)

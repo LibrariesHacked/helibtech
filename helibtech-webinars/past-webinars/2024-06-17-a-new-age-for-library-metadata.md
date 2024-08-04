@@ -22,6 +22,7 @@ tags:
   - Library systems
 layout: default
 parent: Past webinars
+nav_exclude: true
 ---
 
 [Link to the webinar recording](https://www.youtube.com/watch?v=Sv43_mG84C4)

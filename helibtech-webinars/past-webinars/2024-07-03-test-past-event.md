@@ -7,6 +7,7 @@ tags:
   - CDL
 layout: default
 parent: Past webinars
+nav_exclude: true
 ---
 
 This is the body of the news article

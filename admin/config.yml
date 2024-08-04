@@ -512,6 +512,12 @@ collections:
           widget: "hidden",
           default: "News archive",
         }
+      - {
+          label: "Exclude from nav",
+          name: "nav_exclude",
+          widget: "hidden",
+          default: true,
+        }
 
   - name: "helibtech_webinars"
     label: "HELibTech webinars"
@@ -533,6 +539,12 @@ collections:
           name: "parent",
           widget: "hidden",
           default: "HELibTech webinars",
+        }
+      - {
+          label: "Exclude from nav",
+          name: "nav_exclude",
+          widget: "hidden",
+          default: true,
         }
 
   - name: "past_webinars"

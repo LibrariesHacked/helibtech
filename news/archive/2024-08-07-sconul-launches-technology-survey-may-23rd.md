@@ -10,9 +10,10 @@ synopsis: SCONUL has launched a technology survey across member institutions
 tags:
   - Technology market
   - Products
-layout: default
+layout: news
 parent: News archive
 grand_parent: News
 nav_exclude: true
 ---
+
 Read the full story [here](https://www.sconul.ac.uk/News/View?g=3b0f351f-cfdf-4602-9efe-63a3fb2dc8f9&t=)

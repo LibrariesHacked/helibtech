@@ -24,6 +24,12 @@ aliases:
       widget: "hidden",
       default: "default",
     }
+  - &NEWS_LAYOUT {
+      label: "Layout",
+      name: "layout",
+      widget: "hidden",
+      default: "news",
+    }
   - &META_TAGS {
       label: "Metadata tags",
       name: "tags",
@@ -513,7 +519,7 @@ collections:
       - *META_TAGS
       - *BODY
       - *PUBLISHED
-      - *DEFAULT_LAYOUT
+      - *NEWS_LAYOUT
       - { label: "Parent", name: "parent", widget: "hidden", default: "News" }
 
   - name: "news_archive"
@@ -531,7 +537,7 @@ collections:
       - *META_TAGS
       - *BODY
       - *PUBLISHED
-      - *DEFAULT_LAYOUT
+      - *NEWS_LAYOUT
       - {
           label: "Parent",
           name: "parent",

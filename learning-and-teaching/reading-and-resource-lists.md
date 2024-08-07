@@ -66,6 +66,10 @@ EBSCO ceased to offer their reading list solution Curriculum Builder as a new pr
 
 An in-house system developed by York University in 2013.York subsequently awarded a contact to ExLibris for the Leganto Reading List system in 2017.
 
+**Learnbuild** 
+
+Ceased to operate circa 2012
+
 **List8D**
 
 This Open source reading list system was developed by the University of Kent as an Information Environment Programme funded by the Joint Information Systems Committee (JISC). Following the end of the project, List8D was replaced at Kent by Talis Aspire.
@@ -90,10 +94,8 @@ An open source solution developed by the Open University. No longer used by OU o
 
 This was a cloud hosted reading list solution. No longer available or in business.
 
-Learnbuild (defunct)
 
-(appears to be dormant of defunct)
 
-unilibri (defunct) unilibri was a new reading list management system launching in Semester 2 of the 2012/13 academic year.
+
 
 [](https://talis.com/talis-elevate/)

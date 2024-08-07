@@ -1,6 +1,7 @@
 ---
 title: Who uses what library technology?
-layout: default
+layout: sheet
+sheet_id: '1rT5fbeJ72IWAbe58ywzK2D7zsMqLjSTIzFN_HWH7sDc'
 parent: Who uses what
 has_children: false
 tags:
@@ -19,18 +20,19 @@ tags:
   - Library services platform
   - Resource lists
 ---
+
 # Who uses what library technology?
 
 Here you can access data on which UK institution uses which library technology products . The table lists details by institution of:
 
-* Library system vendor
-* Current LMS (and adoption date where this information has been shared)
-* Previous LMS vendor
-* Discovery solution
-* Reading / resource management list solution
-* Digitisation solution
-* Archive / special collections system
-* RFID equipment
+- Library system vendor
+- Current LMS (and adoption date where this information has been shared)
+- Previous LMS vendor
+- Discovery solution
+- Reading / resource management list solution
+- Digitisation solution
+- Archive / special collections system
+- RFID equipment
 
 If your institution's information is incorrect or missing please complete our [updates form](https://docs.google.com/forms/d/e/1FAIpQLSfIjk1ECrL4IMTzSUGQ8C6QSCE79j9RQmQsuIiEE04yN-MHgQ/viewform) and we will amend the data in the table.
 

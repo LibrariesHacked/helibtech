@@ -12,6 +12,12 @@ aliases:
   - &SYNOPSIS { label: "Synopsis", name: "synopsis", widget: "markdown" }
   - &ABSTRACT { label: "Synopsis", name: "synopsis", widget: "markdown" }
   - &URL { label: "External URL", name: "url", widget: "string" }
+  - &PUBLISHED {
+      label: "Published",
+      name: "published",
+      widget: "boolean",
+      default: true,
+    }
   - &DEFAULT_LAYOUT {
       label: "Layout",
       name: "layout",
@@ -92,6 +98,7 @@ collections:
           - *TITLE
           - *BODY
           - *META_TAGS
+          - *PUBLISHED
           - *DEFAULT_LAYOUT
           - {
               label: "Navigation order",
@@ -113,6 +120,7 @@ collections:
           - *TITLE
           - *BODY
           - *META_TAGS
+          - *PUBLISHED
           - *DEFAULT_LAYOUT
           - {
               label: "Navigation order",
@@ -135,6 +143,7 @@ collections:
           - *TITLE
           - *BODY
           - *META_TAGS
+          - *PUBLISHED
           - {
               label: "Navigation order",
               name: "nav_order",
@@ -156,6 +165,7 @@ collections:
           - *TITLE
           - *BODY
           - *META_TAGS
+          - *PUBLISHED
           - {
               label: "Navigation order",
               name: "nav_order",
@@ -177,6 +187,7 @@ collections:
           - *TITLE
           - *BODY
           - *META_TAGS
+          - *PUBLISHED
           - {
               label: "Navigation order",
               name: "nav_order",
@@ -198,6 +209,7 @@ collections:
           - *TITLE
           - *BODY
           - *META_TAGS
+          - *PUBLISHED
           - {
               label: "Navigation order",
               name: "nav_order",
@@ -218,6 +230,7 @@ collections:
         fields:
           - *TITLE
           - *BODY
+          - *PUBLISHED
           - *META_TAGS
           - {
               label: "Navigation order",
@@ -240,6 +253,7 @@ collections:
           - *TITLE
           - *BODY
           - *META_TAGS
+          - *PUBLISHED
           - *DEFAULT_LAYOUT
           - {
               label: "Navigation order",
@@ -262,6 +276,7 @@ collections:
           - *TITLE
           - *BODY
           - *META_TAGS
+          - *PUBLISHED
           - *DEFAULT_LAYOUT
           - {
               label: "Navigation order",
@@ -284,6 +299,7 @@ collections:
           - *TITLE
           - *BODY
           - *META_TAGS
+          - *PUBLISHED
           - *DEFAULT_LAYOUT
           - {
               label: "Navigation order",
@@ -306,6 +322,7 @@ collections:
           - *TITLE
           - *BODY
           - *META_TAGS
+          - *PUBLISHED
           - *DEFAULT_LAYOUT
           - {
               label: "Navigation order",
@@ -328,6 +345,7 @@ collections:
           - *TITLE
           - *BODY
           - *META_TAGS
+          - *PUBLISHED
           - *DEFAULT_LAYOUT
           - {
               label: "Navigation order",
@@ -350,6 +368,7 @@ collections:
           - *TITLE
           - *BODY
           - *META_TAGS
+          - *PUBLISHED
           - *DEFAULT_LAYOUT
           - {
               label: "Navigation order",
@@ -372,6 +391,7 @@ collections:
           - *TITLE
           - *BODY
           - *META_TAGS
+          - *PUBLISHED
           - *DEFAULT_LAYOUT
           - {
               label: "Navigation order",
@@ -394,6 +414,7 @@ collections:
           - *TITLE
           - *BODY
           - *META_TAGS
+          - *PUBLISHED
           - *DEFAULT_LAYOUT
           - {
               label: "Navigation order",
@@ -416,6 +437,7 @@ collections:
           - *TITLE
           - *BODY
           - *META_TAGS
+          - *PUBLISHED
           - *DEFAULT_LAYOUT
           - {
               label: "Navigation order",
@@ -438,6 +460,7 @@ collections:
           - *TITLE
           - *BODY
           - *META_TAGS
+          - *PUBLISHED
           - *DEFAULT_LAYOUT
           - {
               label: "Navigation order",
@@ -460,6 +483,7 @@ collections:
           - *TITLE
           - *BODY
           - *META_TAGS
+          - *PUBLISHED
           - *DEFAULT_LAYOUT
           - {
               label: "Navigation order",
@@ -488,6 +512,7 @@ collections:
       - *SYNOPSIS
       - *META_TAGS
       - *BODY
+      - *PUBLISHED
       - *DEFAULT_LAYOUT
       - { label: "Parent", name: "parent", widget: "hidden", default: "News" }
 
@@ -505,6 +530,7 @@ collections:
       - *SYNOPSIS
       - *META_TAGS
       - *BODY
+      - *PUBLISHED
       - *DEFAULT_LAYOUT
       - {
           label: "Parent",
@@ -539,6 +565,7 @@ collections:
       - *ABSTRACT
       - *META_TAGS
       - *BODY
+      - *PUBLISHED
       - *DEFAULT_LAYOUT
       - {
           label: "Parent",
@@ -567,6 +594,7 @@ collections:
       - *ABSTRACT
       - *META_TAGS
       - *BODY
+      - *PUBLISHED
       - *DEFAULT_LAYOUT
       - {
           label: "Parent",
@@ -598,6 +626,7 @@ collections:
       - *TITLE
       - *META_TAGS
       - *BODY
+      - *PUBLISHED
       - *DEFAULT_LAYOUT
       - {
           label: "Parent",
@@ -617,6 +646,7 @@ collections:
       - *TITLE
       - *META_TAGS
       - *BODY
+      - *PUBLISHED
       - *DEFAULT_LAYOUT
       - {
           label: "Parent",
@@ -636,6 +666,7 @@ collections:
       - *TITLE
       - *META_TAGS
       - *BODY
+      - *PUBLISHED
       - *DEFAULT_LAYOUT
       - {
           label: "Parent",
@@ -655,6 +686,7 @@ collections:
       - *TITLE
       - *META_TAGS
       - *BODY
+      - *PUBLISHED
       - *DEFAULT_LAYOUT
       - {
           label: "Parent",
@@ -674,6 +706,7 @@ collections:
       - *TITLE
       - *META_TAGS
       - *BODY
+      - *PUBLISHED
       - *DEFAULT_LAYOUT
       - {
           label: "Parent",
@@ -693,6 +726,7 @@ collections:
       - *TITLE
       - *META_TAGS
       - *BODY
+      - *PUBLISHED
       - *DEFAULT_LAYOUT
       - {
           label: "Parent",
@@ -712,6 +746,7 @@ collections:
       - *TITLE
       - *META_TAGS
       - *BODY
+      - *PUBLISHED
       - *DEFAULT_LAYOUT
       - {
           label: "Parent",
@@ -731,6 +766,7 @@ collections:
       - *TITLE
       - *META_TAGS
       - *BODY
+      - *PUBLISHED
       - *DEFAULT_LAYOUT
       - {
           label: "Parent",
@@ -750,6 +786,7 @@ collections:
       - *TITLE
       - *META_TAGS
       - *BODY
+      - *PUBLISHED
       - *DEFAULT_LAYOUT
       - {
           label: "Parent",
@@ -769,6 +806,7 @@ collections:
       - *TITLE
       - *META_TAGS
       - *BODY
+      - *PUBLISHED
       - *DEFAULT_LAYOUT
       - {
           label: "Parent",
@@ -788,6 +826,7 @@ collections:
       - *TITLE
       - *META_TAGS
       - *BODY
+      - *PUBLISHED
       - *DEFAULT_LAYOUT
       - {
           label: "Parent",
@@ -807,6 +846,7 @@ collections:
       - *TITLE
       - *META_TAGS
       - *BODY
+      - *PUBLISHED
       - *DEFAULT_LAYOUT
       - {
           label: "Parent",

@@ -23,7 +23,7 @@ Typically such user engagement activities may include:
 
 ## Library specific solutions
 
-Many HE libraries are now using library specific software packages to manage some or all of the above functions. More information on enquiry management software solutions can be found in our [product directory](https://helibtech.netlify.app/admin/#/collections/pages/entries/product_directory). The market however for library specific user engagement software packages is small and dominated in the UK by Springshare.
+Many HE libraries are now using library specific software packages to manage some or all of the above functions. More information on enquiry management software solutions can be found in our [product directory](/admin/#/collections/pages/entries/product_directory). The market however for library specific user engagement software packages is small and dominated in the UK by Springshare.
 
 ### Springshare
 

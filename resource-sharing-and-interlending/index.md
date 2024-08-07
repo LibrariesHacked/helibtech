@@ -14,4 +14,4 @@ This section covers resource sharing and interlending between libraries. There i
 
 Traditionally UK interlibrary loans were primarily facilitated by lending and document supply via the British Library. However, more recently market dominance of the British Library Document Supply Centre has been challenged by consortia lending (facilitated via resource sharing solutions integrated with library service platforms) and commercial document supply solutions.
 
-Details of differing interlending solutions can be found on our [product directory](https://helibtech.netlify.app/product-directory/)
+Details of differing interlending solutions can be found on our [product directory](/product-directory/)

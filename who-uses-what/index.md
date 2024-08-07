@@ -31,8 +31,12 @@ has_children: true
 ---
 # Who uses what?
 
-In this section you can find details of which technology products are used by which UK higher education institutions. 
+In this section you can find details of which library technology products are used by which UK higher education institutions. 
 
 There are separate data tables for library hardware / software and research systems.
+
+We rely on submissions from the community to provide this data for the benefit of all institutions. Please tell us if we are missing information for your institution by completing one of the relevant update forms which are included in each section.
+
+
 
 [](https://docs.google.com/forms/d/e/1FAIpQLSfw8F_kyteM3i1ohJlKqyxhbLv60sOaIpMeBWnQpLBK8rFx3A/viewform)

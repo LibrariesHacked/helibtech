@@ -40,7 +40,29 @@ layout: enhanced
                             ]
                         }
                     },
-                    responsive: true
+                    responsive: true,
+                    initComplete: function () {
+                        this.api()
+                            .columns()
+                            .every(function () {
+                                let column = this;
+                                let select = document.createElement('select');
+                                select.add(new Option(''));
+                                column.footer().replaceChildren(select);
+                                select.addEventListener('change', function () {
+                                    column
+                                        .search(select.value, { exact: true })
+                                        .draw();
+                                });
+                                column
+                                    .data()
+                                    .unique()
+                                    .sort()
+                                    .each(function (d, j) {
+                                        select.add(new Option(d));
+                                    });
+                            });
+                    }
                 })
             },
             error: function (error) { }

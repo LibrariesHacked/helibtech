@@ -16,7 +16,7 @@ tags:
   - RDM
   - RIMS
   - Who uses what
-published: false
+published: true
 ---
 
 # Who uses which research system?

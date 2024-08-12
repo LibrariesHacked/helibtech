@@ -59,6 +59,7 @@ layout: enhanced
                             .every(function () {
                                 let column = this;
                                 let select = document.createElement('select');
+                                select.style.maxWidth = '100px';
                                 select.add(new Option(''));
                                 column.footer().replaceChildren(select);
                                 select.addEventListener('change', function () {

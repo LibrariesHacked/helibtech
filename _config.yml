@@ -17,5 +17,4 @@ gh_edit_link: false # show or hide edit this page link
 
 callouts:
   synopsis:
-    title: Synopsis
-    color: blue
+    color: yellow

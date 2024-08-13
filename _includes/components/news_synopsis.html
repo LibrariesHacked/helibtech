@@ -1,8 +1,6 @@
 <h2>{{ page.title }}</h2>
-<p>
-  Date: {{ page.date_added | date: "%B %d, %Y" }}
-</p>
+<h3>{{ page.date_added | date: "%B %d, %Y" }}</h3>
 
-<blockquote class="synopsis">
+<p class="synopsis">
   {{ page.synopsis || markdownify }}
-</blockquote>
+</p>

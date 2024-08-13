@@ -1,0 +1,18 @@
+{%- if page.has_children == true and page.has_toc != false -%}
+{%- assign child_pages = site[page.collection]
+| default: site.html_pages
+| where: "parent", page.title
+| where: "grand_parent", page.parent -%}
+
+{%- endif -%}
+
+<hr>
+Contents
+<ul>
+  {% for child in child_pages %}
+  <li>
+    <a href="{{ child.url | relative_url }}">{{ child.title }}</a>{% if child.summary %} - {{ child.summary }}{% endif
+    %}
+  </li>
+  {% endfor %}
+</ul>

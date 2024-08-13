@@ -1,5 +1,8 @@
-{% for child in page.tags %}
-<p class="label">
-  {{ child }}
-</p>
-{% endfor %}
+<div class="metatags">
+  <h3>Tags</h3>
+  {% for child in page.tags %}
+  <p class="label">
+    {{ child }}
+  </p>
+  {% endfor %}
+</div>

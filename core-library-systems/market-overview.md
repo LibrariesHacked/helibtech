@@ -13,9 +13,6 @@ tags:
   - Technology market
   - LMS
 ---
-![]()
-
-![]()
 
 # Market overview
 
@@ -25,7 +22,7 @@ Use the filters to change country to UK and library type to academic to view UK 
 
 ### UK library technology trends and issues
 
-[Trends in the library technology market – A UK perspective](https://www.kenchadconsulting.com/wp-content/uploads/2021/02/Trends_in_library_tech_KenChad_Feb2021.pdf). Ken Chad. CILIP Buyers Guide. February 2021. 
+[Trends in the library technology market – A UK perspective](https://www.kenchadconsulting.com/wp-content/uploads/2021/02/Trends_in_library_tech_KenChad_Feb2021.pdf). Ken Chad. CILIP Buyers Guide. February 2021.
 
 Ken Chad analyses the underlying issues and trends that are shaping library technology with a focus on public libraries and libraries in higher education (HE). It concludes that libraries need new approaches to technology to support changed needs. It addresses themes such as community engagement for public libraries and new solutions for research and teaching and learning in HE. Many current library systems vendors are mired in supporting legacy library management systems that hamper them in delivering the transformative approach needed. Only those that can deliver new higher value solutions will thrive in the longer term.
 
@@ -69,18 +66,18 @@ See also [Marshall Breeding's Library Technology Guides dashboard ](https://libr
 
 See our product directory for a full list of systems suppliers and their full range of systems offered. Listed below are the predominant suppliers to UK HE:
 
-* [Education Software Solutions (ESS)](https://www.ess-librarymanagementcloud.co.uk/) - formerly Capita
-* [Ex Libris](https://exlibrisgroup.com/)
-* [Innovative Interfaces](https://www.iii.com/)
-* [ISOxford (Cirqa)](https://cirqa.co.uk/)
-* [OCLC](https://www.oclc.org/en/home.html)
-* [PTFS Europe](https://ptfs-europe.com/)
-* [SirsiDynix](https://www.sirsidynix.com/)
+- [Education Software Solutions (ESS)](https://www.ess-librarymanagementcloud.co.uk/) - formerly Capita
+- [Ex Libris](https://exlibrisgroup.com/)
+- [Innovative Interfaces](https://www.iii.com/)
+- [ISOxford (Cirqa)](https://cirqa.co.uk/)
+- [OCLC](https://www.oclc.org/en/home.html)
+- [PTFS Europe](https://ptfs-europe.com/)
+- [SirsiDynix](https://www.sirsidynix.com/)
 
 ### Library systems vendors - market share
 
 See the Who Uses What pages for a list of every UK HE Institution with their library related systems
 
-![Vendors](/assets/images/vendors.jpg "Vendors")
+![Vendors](/assets/images/vendors.jpg 'Vendors')
 
-![UK Marketshare](/assets/images/marketshare.jpg "UK Marketshare")
+![UK Marketshare](/assets/images/marketshare.jpg 'UK Marketshare')

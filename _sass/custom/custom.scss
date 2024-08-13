@@ -5,4 +5,10 @@
 .metatags {
   display: none;
   background: #f8f9fa;
+
+  .p.label {
+    margin: 0;
+    font-weight: bold;
+    text-transform: none;
+  }
 }

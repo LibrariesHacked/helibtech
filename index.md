@@ -5,7 +5,7 @@ tags:
 layout: default
 nav_order: 1
 has_children: false
-exclude_from_nav: true
+nav_exclude: true
 ---
 
 ![Higher Education Library Technology Logo](/assets/images/helibtech-logo.png)

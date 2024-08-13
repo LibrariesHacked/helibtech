@@ -1,4 +1,4 @@
-{%- if page.has_children == true and page.has_toc != false -%}
+{%- if page.has_children == true -%}
 {%- assign child_pages = site[page.collection]
 | default: site.html_pages
 | where: "parent", page.title

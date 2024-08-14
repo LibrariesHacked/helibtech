@@ -1,7 +1,7 @@
 ---
 title: Useful resources
 layout: default
-nav_order: 3
+nav_order: 4
 parent: Research management
 has_children: false
 tags:
@@ -13,6 +13,7 @@ tags:
   - Research Data Management
   - Research Information Management System
 ---
+
 # Research management: useful resources
 
 Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of research management systems.
@@ -37,7 +38,7 @@ Rebecca Bryant, Anna Clements, Pablo de Castro, Joanne Cantrell, Annette Dortmun
 
 Research information management systems – a new service category?
 
- Most of the information below is taken from a 2014 blog post by Lorcan Dempsey. It serves as a good introduction to the topic of CRIS / RIMS.
+Most of the information below is taken from a 2014 blog post by Lorcan Dempsey. It serves as a good introduction to the topic of CRIS / RIMS.
 
 What follows is an extract for Lorcan Dempsey's blog. Click on the link above to read the complete blog post:
 
@@ -55,12 +56,12 @@ A major driver has been the need to streamline the provision of data to various 
 
 Some of the functional areas covered by a RIM system may be:
 
-* Award management and identification of award opportunities. Matching of interests to potential funding sources. Supporting management of and communication around grant and contracts activity.
-* Publications management. Collecting data about researcher publications. Often this will be done by searching in external sources (Scopus and Web of Science, for example) to help populate profiles, and to provide alerts to keep them up to date.
-* Coordination and publishing of expertise profiles. Centralized upkeep of expertise profiles. Pulling of data from various systems. This may be for internal reporting or assessment purposes, to support individual researchers in providing personal data in a variety of required forms (e.g. for different granting agencies), and for publishing to the web through an institutional research portal or other venue.
-* Research analytics/reporting. Providing management information about research activity and interests, across departments, groups and individuals.
-* Compliance with internal/external mandates.
-* Support of open access. Synchronization with institutional repository. Managing deposit requirements. Integration with sources of information about Open Access policies.
+- Award management and identification of award opportunities. Matching of interests to potential funding sources. Supporting management of and communication around grant and contracts activity.
+- Publications management. Collecting data about researcher publications. Often this will be done by searching in external sources (Scopus and Web of Science, for example) to help populate profiles, and to provide alerts to keep them up to date.
+- Coordination and publishing of expertise profiles. Centralized upkeep of expertise profiles. Pulling of data from various systems. This may be for internal reporting or assessment purposes, to support individual researchers in providing personal data in a variety of required forms (e.g. for different granting agencies), and for publishing to the web through an institutional research portal or other venue.
+- Research analytics/reporting. Providing management information about research activity and interests, across departments, groups and individuals.
+- Compliance with internal/external mandates.
+- Support of open access. Synchronization with institutional repository. Managing deposit requirements. Integration with sources of information about Open Access policies.
 
 To meet these goals, a RIM system will integrate data from a variety of internal and external systems.Typically, a university will currently manage information about these processes across a variety of administrative and academic departments. Required data also has to be pulled from external systems, notably data about funding opportunities and publications.
 
@@ -68,6 +69,6 @@ To meet these goals, a RIM system will integrate data from a variety of internal
 
 Several products have emerged specifically to support RIM in recent years. This is an important reason for suggesting that it is emerging as a recognized service category.
 
-* Pure (Elsevier). “Pure aggregates your organization’s research information from numerous internal and external sources, and ensures the data that drives your strategic decisions is trusted, comprehensive and accessible in real time. A highly versatile system, Pure enables your organization to build reports, carry out performance assessments, manage researcher profiles, enable expertise identification and more, all while reducing administrative burden for researchers, faculty and staff.”
-* Converis (Thomson Reuters). “Converis is the only fully configurable research information management system that can manage the complete research lifecycle, from the earliest due diligence in the grant process through the final publication and application of research results. With Converis, understand the full scope of your organization’s contributions by building scholarly profiles based on our publishing and citations data–then layer in your institutional data to more specifically track success within your organization.”
-* Symplectic Elements. “A driving force of our approach is to minimise the administrative burden placed on academic staff during their research. We work with our clients to provide industry leading software services and integrations that automate the capture, reduce the manual input, improve the quality and expedite the transfer of rich data at their institution.”[](https://www.jisc.ac.uk/guides/research-data-management-toolkit)
+- Pure (Elsevier). “Pure aggregates your organization’s research information from numerous internal and external sources, and ensures the data that drives your strategic decisions is trusted, comprehensive and accessible in real time. A highly versatile system, Pure enables your organization to build reports, carry out performance assessments, manage researcher profiles, enable expertise identification and more, all while reducing administrative burden for researchers, faculty and staff.”
+- Converis (Thomson Reuters). “Converis is the only fully configurable research information management system that can manage the complete research lifecycle, from the earliest due diligence in the grant process through the final publication and application of research results. With Converis, understand the full scope of your organization’s contributions by building scholarly profiles based on our publishing and citations data–then layer in your institutional data to more specifically track success within your organization.”
+- Symplectic Elements. “A driving force of our approach is to minimise the administrative burden placed on academic staff during their research. We work with our clients to provide industry leading software services and integrations that automate the capture, reduce the manual input, improve the quality and expedite the transfer of rich data at their institution.”[](https://www.jisc.ac.uk/guides/research-data-management-toolkit)

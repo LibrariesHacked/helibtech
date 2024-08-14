@@ -7,13 +7,14 @@ has_children: false
 tags:
   - RFID
 ---
+
 # Self service: useful resources
 
 Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of library self-service:
 
-[A Librarian’s Guide to RFID Procurement](https://nag.org.uk/wp-content/uploads/2019/03/A-Librarians-Guide-to-RFID-Procurement_final-1.pdf). 
+[A Librarian’s Guide to RFID Procurement](https://nag.org.uk/wp-content/uploads/2019/03/A-Librarians-Guide-to-RFID-Procurement_final-1.pdf).
 
- Mick Fortune BIC & NAG (rev) 2016
+Mick Fortune BIC & NAG (rev) 2016
 
 The document is in four parts.
 

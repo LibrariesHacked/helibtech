@@ -4,15 +4,17 @@ tags:
   - Resource sharing
   - Interlending
 layout: default
+nav_order: 2
 parent: Resource sharing and interlending
 ---
+
 # British Library and document supply
 
 The traditional model of UK interlending in HE (and other sectors) has been based on significant, or in many cases exclusive use, of the British Library Document Supply Centre (BLDSC). Many UK focused library management systems have offered integrated interlibrary loans module to allow automated ordering via BLDSC and management of requests via the ILS.
 
 ## Ordering process
 
-There is a long standing practice of integrating a British Library ordering workflow into library management systems in the UK. First using a Telnet system (Art-tel) transmitting request lines via modem  to British Library and subsequently replaced by integrated email ordering (Art-mail). 
+There is a long standing practice of integrating a British Library ordering workflow into library management systems in the UK. First using a Telnet system (Art-tel) transmitting request lines via modem to British Library and subsequently replaced by integrated email ordering (Art-mail).
 
 Request data was uploaded to LMS along with progress reports on requests via the BL intray service.
 
@@ -28,7 +30,7 @@ BLDSC offers a charge per transaction service for both document supply and print
 
 British Library offers discounted preferential fees for library privilege customers which cover the majority of HE requests.
 
-The exception to this is copyright fee paid copies.  British Library also offers copyright fee paid services to allow redistribution of journal articles, book chapters etc. to groups of students either physically or digitally via a VLE. In addition to a transaction fee, requesting libraries will pay a publication specific copyright fee.
+The exception to this is copyright fee paid copies. British Library also offers copyright fee paid services to allow redistribution of journal articles, book chapters etc. to groups of students either physically or digitally via a VLE. In addition to a transaction fee, requesting libraries will pay a publication specific copyright fee.
 
 British Library offers discounted rates for satisfaction of copy requests from their born digital collections.
 

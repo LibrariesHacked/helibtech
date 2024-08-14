@@ -1,7 +1,7 @@
 ---
 title: Library service platforms
 layout: default
-nav_order: 3
+nav_order: 4
 parent: Core library systems
 has_children: false
 tags:
@@ -11,6 +11,7 @@ tags:
   - LMS
   - Library services platform
 ---
+
 # Library service platforms
 
 ## The library services platform, library management system and the Cloud

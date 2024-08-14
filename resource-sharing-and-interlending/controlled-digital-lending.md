@@ -4,8 +4,10 @@ tags:
   - Resource sharing
   - Interlending
 layout: default
+nav_order: 4
 parent: Resource sharing and interlending
 ---
+
 # Controlled Digital Lending
 
 ## What is CDL?

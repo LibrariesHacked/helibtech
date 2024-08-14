@@ -4,8 +4,10 @@ tags:
   - Interlending
   - Resource sharing
 layout: default
+nav_order: 5
 parent: Resource sharing and interlending
 ---
+
 # Resource Sharing between libraries
 
 A new Resource Sharing landscape is emerging with several providers offering new resource sharing solutions facilitating peer to peer document supply and lending between participating institutions.
@@ -72,25 +74,25 @@ OpenRS will be an Open Library Foundation (OLF) project which operates with an o
 
 #### Current WHELF+ members:
 
-* Aberystwyth University
-* Bangor University
-* Cardiff Metropolitan University
-* Cardiff University
-* Harper Adams University
-* Kingston University
-* London School of Economics
-* Natural History Museum
-* Northumbria University
-* Swansea University
-* University of Cumbria
-* University of Leeds
-* University of Liverpool
-* University of Salford
-* University of South Wales
-* University of Wales Trinity Saint David
-* University of Westminster
-* University of Winchester
-* Wrexham University
+- Aberystwyth University
+- Bangor University
+- Cardiff Metropolitan University
+- Cardiff University
+- Harper Adams University
+- Kingston University
+- London School of Economics
+- Natural History Museum
+- Northumbria University
+- Swansea University
+- University of Cumbria
+- University of Leeds
+- University of Liverpool
+- University of Salford
+- University of South Wales
+- University of Wales Trinity Saint David
+- University of Westminster
+- University of Winchester
+- Wrexham University
 
 ### ISO ILL compliant LMS
 

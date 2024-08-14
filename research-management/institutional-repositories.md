@@ -5,6 +5,7 @@ tags:
   - IR
   - Research management
 layout: default
+nav_order: 3
 parent: Research management
 ---
 

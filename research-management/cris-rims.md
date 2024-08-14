@@ -6,6 +6,7 @@ tags:
   - Research Information Management System
   - Research management
 layout: default
+nav_order: 2
 parent: Research management
 ---
 

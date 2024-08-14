@@ -30,6 +30,12 @@ aliases:
       widget: "hidden",
       default: "news",
     }
+  - &WEBINAR_LAYOUT {
+      label: "Layout",
+      name: "layout",
+      widget: "hidden",
+      default: "webinar",
+    }
   - &META_TAGS {
       label: "Metadata tags",
       name: "tags",
@@ -572,7 +578,7 @@ collections:
       - *META_TAGS
       - *BODY
       - *PUBLISHED
-      - *DEFAULT_LAYOUT
+      - *WEBINAR_LAYOUT
       - {
           label: "Parent",
           name: "parent",
@@ -601,7 +607,7 @@ collections:
       - *META_TAGS
       - *BODY
       - *PUBLISHED
-      - *DEFAULT_LAYOUT
+      - *WEBINAR_LAYOUT
       - {
           label: "Parent",
           name: "parent",

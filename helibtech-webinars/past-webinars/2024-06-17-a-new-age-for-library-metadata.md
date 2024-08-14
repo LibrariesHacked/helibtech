@@ -20,7 +20,7 @@ tags:
   - Collection management
   - Collection development
   - Library systems
-layout: default
+layout: webinar
 parent: Past webinars
 grand_parent: HELibTech webinars
 nav_exclude: true

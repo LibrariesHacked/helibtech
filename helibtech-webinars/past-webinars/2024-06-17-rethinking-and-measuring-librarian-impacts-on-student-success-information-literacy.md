@@ -15,7 +15,7 @@ synopsis: Supporting information literacy offers an opportunity for academic
   ways they can positively impact their communities.
 tags:
   - Learning & teaching
-layout: default
+layout: webinar
 parent: Past webinars
 grand_parent: HELibTech webinars
 nav_exclude: true

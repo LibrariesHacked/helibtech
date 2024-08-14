@@ -1,7 +1,7 @@
 ---
 title: Research management
 layout: default
-nav_order: 9
+nav_order: 12
 has_children: true
 ---
 

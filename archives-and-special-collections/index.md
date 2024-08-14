@@ -1,7 +1,7 @@
 ---
 title: Archives and special collections
 layout: default
-nav_order: 11
+nav_order: 5
 has_children: true
 ---
 

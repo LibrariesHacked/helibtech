@@ -10,12 +10,13 @@ tags:
   - LSP
   - Library management systems
 layout: default
-nav_order: 11
+nav_order: 4
 has_children: true
 ---
+
 # HELibTech briefing papers
 
-HELibTech briefing papers offer insights into key topics across the landscape of the library technology used in Higher Education.  All papers are available on a fully open CC0 licence so please feel free to share.
+HELibTech briefing papers offer insights into key topics across the landscape of the library technology used in Higher Education. All papers are available on a fully open CC0 licence so please feel free to share.
 
 [Library management system to library services platform. Resource management for libraries: a new perspective](https://www.kenchadconsulting.com/wp-content/uploads/2018/09/Resource_management_briefing_HELibTech_KenChad_Aug2015.pdf)
 

@@ -1,7 +1,7 @@
 ---
 title: Artificial intelligence
 layout: default
-nav_order: 12
+nav_order: 6
 has_children: true
 tags:
   - AI

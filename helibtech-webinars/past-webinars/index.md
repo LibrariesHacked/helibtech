@@ -1,8 +1,9 @@
 ---
 title: Past webinars
-layout: default
+layout: webinar_listing
 nav_order: 1
 has_children: true
+has_toc: false
 parent: HELibTech webinars
 ---
 

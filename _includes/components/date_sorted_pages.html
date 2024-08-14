@@ -6,11 +6,12 @@
 
 {%- endif -%}
 
-<ul>
+<table>
   {% for child in child_pages | orderby: include.date_field %}
-  <li>
-    <a href="{{ child.url | relative_url }}">{{ child.title }}</a>{% if child.summary %} - {{ child.summary }}{% endif
-    %}
-  </li>
+  <tr>
+    <td>
+      <a href="{{ child.url | relative_url }}">{{ child.title }}</a>
+    </td>
+  </tr>
   {% endfor %}
-</ul>
+</table>

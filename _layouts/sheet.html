@@ -5,19 +5,7 @@ layout: enhanced
 {{ content }}
 
 <div>
-    <table id="sheet" class="display" style="width:100%">
-        <thead></thead>
-        <tbody></tbody>
-        <tfoot>
-            <tr>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-            </tr>
-        </tfoot>
-    </table>
+    <table id="sheet" class="display" style="width:100%"></table>
 </div>
 
 <link
@@ -52,30 +40,7 @@ layout: enhanced
                             ]
                         }
                     },
-                    responsive: true,
-                    initComplete: function () {
-                        this.api()
-                            .columns()
-                            .every(function () {
-                                let column = this;
-                                let select = document.createElement('select');
-                                select.style.maxWidth = '100px';
-                                select.add(new Option(''));
-                                column.footer().replaceChildren(select);
-                                select.addEventListener('change', function () {
-                                    column
-                                        .search(select.value, { exact: true })
-                                        .draw();
-                                });
-                                column
-                                    .data()
-                                    .unique()
-                                    .sort()
-                                    .each(function (d, j) {
-                                        select.add(new Option(d));
-                                    });
-                            });
-                    }
+                    responsive: true
                 })
             },
             error: function (error) { }

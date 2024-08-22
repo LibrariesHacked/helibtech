@@ -6,26 +6,26 @@ media_folder: "assets/images"
 
 aliases:
   - &TITLE { label: "Title", name: "title", widget: "string" }
-  - &BODY { label: "Body", name: "body", widget: "markdown", optional: true }
+  - &BODY { label: "Body", name: "body", widget: "markdown", required: false }
   - &DATE { label: "Date", name: "date", widget: "datetime" }
   - &DATE_ADDED { label: "Date added", name: "date_added", widget: "datetime" }
   - &SYNOPSIS {
       label: "Synopsis",
       name: "synopsis",
       widget: "markdown",
-      optional: true,
+      required: false,
     }
   - &ABSTRACT {
       label: "Synopsis",
       name: "synopsis",
       widget: "markdown",
-      optional: true,
+      required: false,
     }
   - &URL {
       label: "External URL",
       name: "url",
       widget: "string",
-      optional: true,
+      required: false,
     }
   - &PUBLISHED {
       label: "Published",
@@ -56,7 +56,7 @@ aliases:
       name: "tags",
       widget: "select",
       multiple: true,
-      optional: true,
+      required: false,
       options:
         [
           "AI",

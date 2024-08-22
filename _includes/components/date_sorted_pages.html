@@ -7,7 +7,7 @@
 {%- endif -%}
 
 <table>
-  {% assign items = child_pages | sort: 'last_updated' | reverse %}
+  {% assign items = child_pages | sort: include.date_field | reverse %}
   {% for child in items %}
   <tr>
     <td>

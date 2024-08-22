@@ -1,3 +1,3 @@
-# HELibTech
+# Higher education library technology
 
-Content for the HELibTech website providing information on Higher Education library technology
+A collection of wiki-like resources for higher education library technology.

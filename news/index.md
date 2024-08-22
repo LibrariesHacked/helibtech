@@ -8,4 +8,4 @@ has_toc: false
 
 # News
 
-Here is our latest news
+Here is our latest news. For items older than 6 months see the [news archive](/news/archive).

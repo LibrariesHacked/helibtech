@@ -13,7 +13,7 @@
         Date
       </th>
       <th>
-        Title
+        Item
       </th>
     </tr>
   </thead>
@@ -22,7 +22,7 @@
     {% for child in items %}
     <tr>
       <td>
-        {{ child[include.date_field] | date: "%Y-%m-%d" }}
+        {{ child[include.date_field] | date: "%-d %B %Y" }}
       </td>
       <td>
         <a href="{{ child.url | relative_url }}">{{ child.title }}</a>

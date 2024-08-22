@@ -7,12 +7,27 @@
 {%- endif -%}
 
 <table>
-  {% assign items = child_pages | sort: include.date_field | reverse %}
-  {% for child in items %}
-  <tr>
-    <td>
-      <a href="{{ child.url | relative_url }}">{{ child.title }}</a>
-    </td>
-  </tr>
-  {% endfor %}
+  <thead>
+    <tr>
+      <th>
+        Date
+      </th>
+      <th>
+        Title
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign items = child_pages | sort: include.date_field | reverse %}
+    {% for child in items %}
+    <tr>
+      <td>
+        {{ child[include.date_field] | date: "%Y-%m-%d" }}
+      </td>
+      <td>
+        <a href="{{ child.url | relative_url }}">{{ child.title }}</a>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
 </table>

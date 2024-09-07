@@ -8,7 +8,7 @@ has_children: false
 nav_exclude: true
 ---
 
-![Higher Education Library Technology Logo](/assets/images/helibtech-logo.png)
+![Higher Education Library Technology Logo](/assets/images/logo-no-background.png)
 
 ## Our purpose
 

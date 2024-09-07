@@ -3,7 +3,7 @@ theme: just-the-docs
 
 logo: "/assets/images/logo-no-background.png"
 
-color_scheme: light
+color_scheme: helibtech
 search_enabled: true
 
 footer_content: "Content on HELibTech is licensed under CC0 1.0 Universal. Please refer to re-use permissions on third party content linked to by HELibTech."

@@ -1,7 +1,7 @@
 ---
 title: Who uses what library technology?
 layout: sheet
-sheet_id: '1rT5fbeJ72IWAbe58ywzK2D7zsMqLjSTIzFN_HWH7sDc'
+sheet_id: 1rT5fbeJ72IWAbe58ywzK2D7zsMqLjSTIzFN_HWH7sDc
 parent: Who uses what
 has_children: false
 tags:
@@ -19,24 +19,39 @@ tags:
   - Library systems
   - Library services platform
   - Resource lists
+published: true
 ---
-
 # Who uses what library technology?
 
-Here you can access data on which UK institution uses which library technology products . The table lists details by institution of:
+Here you can access data on which UK institution uses which library technology products. Click on institution name below in order to see information on an institution's:
 
-- Library system vendor
-- Current LMS (and adoption date where this information has been shared)
-- Previous LMS vendor
-- Discovery solution
-- Reading / resource management list solution
-- Digitisation solution
-- Archive / special collections system
-- RFID equipment
+* Library system vendor
+* Current LMS (and adoption date where this information has been shared)
+* Previous LMS vendor
+* Discovery solution
+* Reading / resource management list solution
+* Digitisation solution
+* Archive / special collections system
+* RFID equipment
+
+### Comparative analysis
+
+In order to undertake more detailed and comparative analysis of institutional data you can access our [Google sheet](https://docs.google.com/spreadsheets/d/1rT5fbeJ72IWAbe58ywzK2D7zsMqLjSTIzFN_HWH7sDc/edit?gid=0#gid=0)
+
+Use the Google Sheet for queries such as:
+
+* Which institutions use a particular library management system
+* Which institutions use particular product combinations e.g. **x** LMS with **y** discovery solution
+
+You can also export the data in Excel by clicking the button at the top of the table to make a local copy for analysis.
+
+### Missing data
 
 If your institution's information is incorrect or missing please complete our [updates form](https://docs.google.com/forms/d/e/1FAIpQLSfIjk1ECrL4IMTzSUGQ8C6QSCE79j9RQmQsuIiEE04yN-MHgQ/viewform) and we will amend the data in the table.
 
-Note that the table can be filtered by any combination of fields if you, for example, wish to find institutions using the same LMS as you or have previously used your current LMS and have migrated to a different system.
+
+
+
 
 For details of which research systems are used by which institutions (e.g. institutional repositories, CRIS systems, RDM systems) please go to the research management pages.
 

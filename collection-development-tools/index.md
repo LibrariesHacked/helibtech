@@ -5,16 +5,17 @@ tags:
   - Collection development
   - Collection management
 published: true
-nav_order: 7
+nav_order: 8
 has_children: true
 ---
+
 # Collection development tools
 
 A number of management information products are now available to higher education libraries to enable them to undertake analysis of their library collections in order to:
 
-* Compare their collections to other institutions for the purpose of benchmarking and to inform stock retention decisions
-* Identify areas for collection development and track usage trends
-* Inform spending decisions through analysis of cost / benefit of subscriptions
+- Compare their collections to other institutions for the purpose of benchmarking and to inform stock retention decisions
+- Identify areas for collection development and track usage trends
+- Inform spending decisions through analysis of cost / benefit of subscriptions
 
 This section will give an overview of some of the main products on the market.
 
@@ -32,30 +33,30 @@ Institutions can use Library Hub Compare for example to inform weeding and stock
 
 Developed by Sustainable Collection Services and now owned by OCLC, [GreenGlass](https://www.oclc.org/en/greenglass.html) is a priced web-based collection evaluation application for analysing print collections. GreenGlass can be used to analyse:
 
-* the age of print collections
-* usage of print collections
-* the overlap between your print collection and other libraries within the OCLC Worldshare catalogue
+- the age of print collections
+- usage of print collections
+- the overlap between your print collection and other libraries within the OCLC Worldshare catalogue
 
 As such there is a degree of overlap with the functionality of Library Hub Compare although GreenGlass has a more international comparative coverage compared to the UK based holdings of NBK. Unlike Library Hub Compare, you can also upload circulation data to GreenGlass for usage analysis of print collections.
 
-### WorldShare Collection Evaluation 
+### WorldShare Collection Evaluation
 
 Another OCLC product, [WorldShare Collection Evaluation](https://www.oclc.org/en/collection-evaluation.html) offers a degree of functional overlap with GreenGlass. However, the focus of WorldShare Collection Evaluation is more about developing collections for particular programmes and subject areas by comparing an institution's subject level holdings with those of peer institutions. Institutions can identify resources from authoritative lists that are not currently held by their library.[](https://www.oclc.org/en/collection-evaluation.html)
 
 ### UnSub
 
-[UnSub ](https://unsub.org/)is a subscription web based serials analysis application designed to assess the value for money of bundle subscription packages. 
+[UnSub ](https://unsub.org/)is a subscription web based serials analysis application designed to assess the value for money of bundle subscription packages.
 
 Through uploading counter reports, libraries can use UnSub to:
 
-* Understand overlap between packages and Open Access content
-* Ascertain the cost benefit of cancellation of bundle packages and replacement with individual subscriptions / external document delivery.
+- Understand overlap between packages and Open Access content
+- Ascertain the cost benefit of cancellation of bundle packages and replacement with individual subscriptions / external document delivery.
 
 UnSub has been adopted by a number of UK universities and was provided by Jisc to institutions to undertake bundle package analysis recently as part of the transition from traditional subscription to transformational agreements.
 
 ### collectionHQ
 
-Developed for the public library market, [collectionHQ](https://www.collectionhq.com/) is an evidence based stock management tool. Recently collectionHQ has branched into the academic market with the launch of [cHQacademic,](https://www.collectionhq.com/chqacademic/) specifically designed for use by university libraries. 
+Developed for the public library market, [collectionHQ](https://www.collectionhq.com/) is an evidence based stock management tool. Recently collectionHQ has branched into the academic market with the launch of [cHQacademic,](https://www.collectionhq.com/chqacademic/) specifically designed for use by university libraries.
 
 Through uploading catalogue and circulation data from the ILS, cHQacademic offers similar functionality to some of the other tools listed such as identifying under-used and over-used stock. However, in terms of additional features cHQacademic offers a DEI (diversity, equality and inclusion) module to monitor the diversity of your library collection.
 

@@ -3,7 +3,7 @@ title: About HELibTech
 tags:
   - Library systems
 layout: default
-nav_order: 1
+nav_order: 0
 has_children: false
 nav_exclude: true
 ---

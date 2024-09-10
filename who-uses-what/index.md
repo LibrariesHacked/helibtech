@@ -26,7 +26,7 @@ tags:
   - RDM
   - RIMS
 layout: default
-nav_order: 16
+nav_order: 5
 has_children: true
 ---
 

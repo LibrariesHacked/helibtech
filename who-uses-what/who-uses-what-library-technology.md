@@ -23,7 +23,7 @@ published: true
 ---
 # Who uses what library technology?
 
-Here you can access data on which UK institution uses which library technology products . Click on institution name below in order to see information on an institution's:
+Here you can access data on which UK institution uses which library technology products. Click on institution name below in order to see information on an institution's:
 
 * Library system vendor
 * Current LMS (and adoption date where this information has been shared)
@@ -48,10 +48,6 @@ You can also export the data in Excel by clicking the button at the top of the t
 ### Missing data
 
 If your institution's information is incorrect or missing please complete our [updates form](https://docs.google.com/forms/d/e/1FAIpQLSfIjk1ECrL4IMTzSUGQ8C6QSCE79j9RQmQsuIiEE04yN-MHgQ/viewform) and we will amend the data in the table.
-
-
-
-
 
 For details of which research systems are used by which institutions (e.g. institutional repositories, CRIS systems, RDM systems) please go to the research management pages.
 

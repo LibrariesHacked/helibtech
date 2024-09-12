@@ -1,5 +1,5 @@
 .table-wrapper {
-  padding: 10px !important;
+  box-shadow: none !important;
 }
 
 .metatags {
@@ -15,6 +15,8 @@
   }
 }
 
-a {
+a,
+.nav-list-expander,
+.icon {
   color: #1976d2 !important;
 }

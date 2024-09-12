@@ -5,6 +5,10 @@ layout: enhanced
 {{ content }}
 
 <div>
+    <select title="Filter table" id="sel-tableitem">
+        <option value="">All</option>
+    </select>
+    <br />
     <table id="sheet" class="display" style="width:100%"></table>
 </div>
 
@@ -20,6 +24,7 @@ layout: enhanced
 <script>
     function loadData() {
         var sheet_id = "{{ page.sheet_id }}";
+        var filter_column = "{{ page.filter_column }}";
         Papa.parse(`https://docs.google.com/spreadsheets/d/${sheet_id}/gviz/tq?tqx=out:csv`, {
             download: true,
             header: true,
@@ -40,7 +45,30 @@ layout: enhanced
                             ]
                         }
                     },
-                    responsive: true
+                    responsive: true,
+                    initComplete: function () {
+                        this.api()
+                            .columns()
+                            .every(function () {
+                                let column = this;
+                                const columnTitle = this.header().textContent;
+                                let select = document.getElementById('sel-tableitem');
+                                if (columnTitle === filter_column) {
+                                    select.addEventListener('change', function () {
+                                        column
+                                            .search(select.value, { exact: true })
+                                            .draw();
+                                    });
+                                    column
+                                        .data()
+                                        .unique()
+                                        .sort()
+                                        .each(function (d, j) {
+                                            select.add(new Option(d));
+                                        });
+                                }
+                            });
+                    }
                 })
             },
             error: function (error) { }

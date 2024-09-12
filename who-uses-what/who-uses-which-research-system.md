@@ -2,6 +2,7 @@
 title: Who uses which research system?
 layout: sheet
 sheet_id: 17WfzF_7dapuNRyUn0fw4tfxkPWhEZmn0aj7GJQAFcPM
+filter_column: Institution
 parent: Who uses what
 has_children: false
 tags:
@@ -18,17 +19,18 @@ tags:
   - Who uses what
 published: true
 ---
+
 # Who uses which research system?
 
 Here you will find details of which research systems are used by different institutions across UKHE.
 
 Click on institution name below in order to see information on an institution’s:
 
-* Institutional repository
-* Research data repository
-* CRIS / RIMS
+- Institutional repository
+- Research data repository
+- CRIS / RIMS
 
-This data is correct as of Spring 2024. 
+This data is correct as of Spring 2024.
 
 ### Comparative analysis
 
@@ -36,8 +38,8 @@ In order to undertake more detailed and comparative analysis of institutional da
 
 Use the Google Sheet for queries such as:
 
-* Which institutions use a repository product
-* Which institutions use particular product combinations e.g. **x** CRIS / RIMS with **y** institutional repository
+- Which institutions use a repository product
+- Which institutions use particular product combinations e.g. **x** CRIS / RIMS with **y** institutional repository
 
 You can also export the data in Excel by clicking the button at the top of the table to make a local copy for analysis.
 

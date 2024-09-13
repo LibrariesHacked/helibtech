@@ -1,6 +1,6 @@
 ---
 title: Discovery systems
-layout: default
+layout: enhanced
 nav_order: 4
 parent: Discovery and content
 has_children: false

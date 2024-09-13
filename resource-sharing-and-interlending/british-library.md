@@ -3,7 +3,7 @@ title: British Library
 tags:
   - Resource sharing
   - Interlending
-layout: default
+layout: enhanced
 nav_order: 2
 parent: Resource sharing and interlending
 ---

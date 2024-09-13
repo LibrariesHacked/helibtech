@@ -1,6 +1,6 @@
 ---
 title: Archives and special collections
-layout: default
+layout: enhanced
 tags:
   - Archives
 published: false

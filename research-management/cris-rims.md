@@ -5,7 +5,7 @@ tags:
   - RIMS
   - Research Information Management System
   - Research management
-layout: default
+layout: enhanced
 nav_order: 2
 parent: Research management
 ---

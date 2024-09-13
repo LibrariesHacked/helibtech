@@ -2,7 +2,7 @@
 title: RFID
 tags:
   - RFID
-layout: default
+layout: enhanced
 nav_order: 2
 parent: Self service
 ---

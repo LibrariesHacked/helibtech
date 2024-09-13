@@ -1,6 +1,6 @@
 ---
 title: Artificial intelligence
-layout: default
+layout: enhanced
 nav_order: 7
 has_children: true
 tags:

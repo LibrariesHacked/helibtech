@@ -1,12 +1,13 @@
 ---
 title: Useful resources
-layout: default
+layout: enhanced
 nav_order: 3
 parent: Artificial intelligence
 has_children: false
 tags:
   - Artificial intelligence
 ---
+
 # Artificial intelligence: useful resources
 
 Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of artificial intelligence:[](https://nationalcentreforai.jiscinvolve.org/wp/2024/03/04/generative-ai-primer/)
@@ -59,9 +60,9 @@ Below is a collection of useful reports, websites, blogposts etc. relevant to di
 
 Originally posted to the lis-link@JISCMAIL.AC.UK listserv on 27th November 2023. This is a useful update for librarians covering
 
-* ChatGPT and other chatbots
-* AI Search
-* Content creation[](https://www.sciencedirect.com/science/article/pii/S0099133323001118)
+- ChatGPT and other chatbots
+- AI Search
+- Content creation[](https://www.sciencedirect.com/science/article/pii/S0099133323001118)
 
 [Artificial Intelligence in academic library strategy in the United Kingdom and the Mainland of China. ](https://www.sciencedirect.com/science/article/pii/S0099133323001118)
 

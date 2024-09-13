@@ -1,6 +1,6 @@
 ---
 title: Procurement
-layout: default
+layout: enhanced
 nav_order: 7
 parent: Core library systems
 has_children: false

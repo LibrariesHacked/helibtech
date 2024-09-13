@@ -1,6 +1,6 @@
 ---
 title: Reading and resource lists
-layout: default
+layout: enhanced
 nav_order: 4
 parent: Learning and teaching
 has_children: false
@@ -9,6 +9,7 @@ tags:
   - Resource lists
   - RFID
 ---
+
 # Reading and resource lists
 
 ## What are reading List/resource List solutions?
@@ -25,11 +26,11 @@ In the UK and other countries such as Australia and New Zealand older 'course re
 
 ### Reading list / resource list systems in the UK
 
-* [Talis Aspire (Talis-Part of Technology from Sage)](https://talis.com/talis-aspire/)
-* [BLUECloud Course Lists (SirsiDynix)](https://www.sirsidynix.com/bluecloud-course-lists/)
-* [eReserve Plus (eReserve Pty Ltd)](https://www.ereserve.com.au/)
-* [KeyLinks (Kortext)](https://www.kortext.com/keylinks/)
-* [Leganto (ExLibris,Part of Clarivate)](https://exlibrisgroup.com/products/leganto-reading-list-management-system/)
+- [Talis Aspire (Talis-Part of Technology from Sage)](https://talis.com/talis-aspire/)
+- [BLUECloud Course Lists (SirsiDynix)](https://www.sirsidynix.com/bluecloud-course-lists/)
+- [eReserve Plus (eReserve Pty Ltd)](https://www.ereserve.com.au/)
+- [KeyLinks (Kortext)](https://www.kortext.com/keylinks/)
+- [Leganto (ExLibris,Part of Clarivate)](https://exlibrisgroup.com/products/leganto-reading-list-management-system/)
 
 In addition Blackwell offer a service that enables lecturers and others to submit reading list details and as a result enable ordering of books on the list from Blackwell - [Readinglists.co.uk](https://blackwells.co.uk/rsl/index.dfp)
 
@@ -47,10 +48,10 @@ Talis Elevate is a separate priced add-on module to the Aspire reading / resourc
 
 In response to the development of Elevate, Leganto has introduced "social reading" functionality to their reading list platform allowing students to:
 
-* Share comments, questions, and feedback by marking up course materials
-* Annotate PDF files assigned by the instructor
-* Communicate ideas with classmates
-* Add private notes
+- Share comments, questions, and feedback by marking up course materials
+- Annotate PDF files assigned by the instructor
+- Communicate ideas with classmates
+- Add private notes
 
 ## Defunct reading list systems
 
@@ -66,7 +67,7 @@ EBSCO ceased to offer their reading list solution Curriculum Builder as a new pr
 
 An in-house system developed by York University in 2013.York subsequently awarded a contact to ExLibris for the Leganto Reading List system in 2017.
 
-**Learnbuild** 
+**Learnbuild**
 
 Ceased to operate circa 2012
 
@@ -93,9 +94,5 @@ An open source solution developed by the Open University. No longer used by OU o
 **unilibri**
 
 This was a cloud hosted reading list solution. No longer available or in business.
-
-
-
-
 
 [](https://talis.com/talis-elevate/)

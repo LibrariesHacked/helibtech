@@ -1,6 +1,6 @@
 ---
 title: Useful resources
-layout: default
+layout: enhanced
 nav_order: 7
 parent: Learning and teaching
 has_children: false
@@ -14,6 +14,7 @@ tags:
   - VLE
   - Virtual Learning Environment
 ---
+
 # Learning & teaching: useful resources
 
 [](https://academicebookinvestigation.org/)

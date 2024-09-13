@@ -1,6 +1,6 @@
 ---
 title: Market overview
-layout: default
+layout: enhanced
 nav_order: 1
 parent: Learning and teaching
 has_children: false

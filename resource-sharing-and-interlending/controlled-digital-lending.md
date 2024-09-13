@@ -3,7 +3,7 @@ title: Controlled digital lending
 tags:
   - Resource sharing
   - Interlending
-layout: default
+layout: enhanced
 nav_order: 4
 parent: Resource sharing and interlending
 ---

@@ -1,6 +1,6 @@
 ---
 title: Useful resources
-layout: default
+layout: enhanced
 nav_order: 4
 parent: Research management
 has_children: false

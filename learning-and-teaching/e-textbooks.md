@@ -1,6 +1,6 @@
 ---
 title: E-textbooks
-layout: default
+layout: enhanced
 nav_order: 3
 parent: Learning and teaching
 has_children: false

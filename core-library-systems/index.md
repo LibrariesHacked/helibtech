@@ -1,6 +1,6 @@
 ---
 title: Core library systems
-layout: default
+layout: enhanced
 tags:
   - LMS
   - Library management systems

@@ -6,7 +6,7 @@ tags:
   - Library services platform
   - Library systems
   - LSP
-layout: default
+layout: enhanced
 nav_order: 8
 parent: Core library systems
 ---

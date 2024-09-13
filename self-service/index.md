@@ -1,6 +1,6 @@
 ---
 title: Self service
-layout: default
+layout: enhanced
 nav_order: 14
 has_children: true
 tags:

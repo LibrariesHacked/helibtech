@@ -4,7 +4,7 @@ tags:
   - Institutional repository
   - IR
   - Research management
-layout: default
+layout: enhanced
 nav_order: 3
 parent: Research management
 ---

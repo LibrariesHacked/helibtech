@@ -6,7 +6,7 @@ tags:
   - Library systems
   - LSP
   - LMS
-layout: default
+layout: enhanced
 nav_order: 6
 parent: Core library systems
 ---

@@ -3,7 +3,7 @@ title: Resource sharing
 tags:
   - Interlending
   - Resource sharing
-layout: default
+layout: enhanced
 nav_order: 5
 parent: Resource sharing and interlending
 ---

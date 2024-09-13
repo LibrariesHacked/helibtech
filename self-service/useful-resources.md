@@ -1,6 +1,6 @@
 ---
 title: Useful resources
-layout: default
+layout: enhanced
 nav_order: 3
 parent: Self service
 has_children: false

@@ -11,7 +11,7 @@ tags:
   - Software
   - VLE
   - Virtual Learning Environment
-layout: default
+layout: enhanced
 nav_order: 11
 has_children: true
 ---

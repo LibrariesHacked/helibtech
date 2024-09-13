@@ -1,6 +1,6 @@
 ---
 title: Collection development tools
-layout: default
+layout: enhanced
 tags:
   - Collection development
   - Collection management

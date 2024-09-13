@@ -1,6 +1,6 @@
 ---
 title: Useful resources
-layout: default
+layout: enhanced
 nav_order: 6
 parent: Resource sharing and interlending
 has_children: false

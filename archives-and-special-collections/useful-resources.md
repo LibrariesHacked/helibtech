@@ -1,6 +1,6 @@
 ---
 title: Useful resources
-layout: default
+layout: enhanced
 nav_order: 3
 parent: Archives and special collections
 has_children: false

@@ -9,7 +9,7 @@ tags:
   - Library services platform
   - LSP
   - Library management systems
-layout: default
+layout: enhanced
 nav_order: 3
 has_children: true
 ---

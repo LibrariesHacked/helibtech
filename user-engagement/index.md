@@ -2,7 +2,7 @@
 title: User engagement
 tags:
   - Data & analytics
-layout: default
+layout: enhanced
 nav_order: 15
 has_children: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: Research management
-layout: default
+layout: enhanced
 nav_order: 12
 has_children: true
 ---

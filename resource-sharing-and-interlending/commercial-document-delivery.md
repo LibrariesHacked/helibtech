@@ -3,7 +3,7 @@ title: Commercial document delivery
 tags:
   - Resource sharing
   - Interlending
-layout: default
+layout: enhanced
 nav_order: 3
 parent: Resource sharing and interlending
 ---

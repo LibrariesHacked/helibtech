@@ -37,7 +37,7 @@ aliases:
       label: "Layout",
       name: "layout",
       widget: "hidden",
-      default: "default",
+      default: "enhanced",
     }
   - &NEWS_LAYOUT {
       label: "Layout",

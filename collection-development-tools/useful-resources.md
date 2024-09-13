@@ -1,6 +1,6 @@
 ---
 title: Useful resources
-layout: default
+layout: enhanced
 nav_order: 3
 parent: Collection development tools
 has_children: false
@@ -9,6 +9,7 @@ tags:
   - Collection management
 published: true
 ---
+
 # Collection development tools: useful resources
 
 Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of collection development:

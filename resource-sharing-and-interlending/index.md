@@ -1,6 +1,6 @@
 ---
 title: Resource sharing and interlending
-layout: default
+layout: enhanced
 nav_order: 13
 has_children: true
 tags:

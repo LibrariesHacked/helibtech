@@ -1,6 +1,6 @@
 ---
 title: Library service platforms
-layout: default
+layout: enhanced
 nav_order: 4
 parent: Core library systems
 has_children: false

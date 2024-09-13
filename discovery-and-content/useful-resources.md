@@ -1,12 +1,13 @@
 ---
 title: Useful resources
-layout: default
+layout: enhanced
 nav_order: 7
 parent: Discovery and content
 has_children: false
 tags:
   - Discovery
 ---
+
 # Discovery & content: useful resources
 
 Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of discovery and content:
@@ -37,10 +38,10 @@ Recommended practice published June 2020.
 
 The Open Discovery Initiative (ODI) is
 
-* A technical recommendation for data exchange including data formats, method of delivery, usage reporting, frequency of updates and rights of use
-* A way for libraries to assess content providers’ participation in discovery services
-* A model by which content providers work with discovery service vendors via fair and unbiased indexing and linking
-* A way to disclose and assess open discovery conformance for content providers, discovery providers, and libraries
+- A technical recommendation for data exchange including data formats, method of delivery, usage reporting, frequency of updates and rights of use
+- A way for libraries to assess content providers’ participation in discovery services
+- A model by which content providers work with discovery service vendors via fair and unbiased indexing and linking
+- A way to disclose and assess open discovery conformance for content providers, discovery providers, and libraries
 
 It aims at defining standards and/or best practices for the new generation of library discovery services that are based on indexed search. These discovery services are primarily based upon indexes derived from journals, ebooks and other electronic information of a scholarly nature. The content comes from a range of information providers and products–commercial, open access, institutional, etc.The group is establishing a more standard set of practices for the ways that content is represented in discovery services and for the interactions between the creators of these services and the information providers whose resources they represent.
 
@@ -58,13 +59,13 @@ An introduction based on the Summon discovery service
 
 [Library Discovery System: An integrated approach to resource discovery](http://eprints.rclis.org/32499/)
 
-Sonawane, Chetan S Library Discovery System: An integrated approach to resource discovery. Informatics Studies, 2017, vol. 4, n. 3, pp. 27-38. 
+Sonawane, Chetan S Library Discovery System: An integrated approach to resource discovery. Informatics Studies, 2017, vol. 4, n. 3, pp. 27-38.
 
 Provides an overview of discovery services including (central index based) commercial solutions, open source options. Includes discussion of Google Scholar and issues around metadata, APIs etc
 
 [Selecting link resolver and knowledge base software: Implications of interoperability](https://www.tandfonline.com/doi/full/10.1080/1941126X.2017.1304765)
 
- Cyndy Chisare, Jody Condit Fagan, David Gaines & Michael Trocchia (2017) Journal of Electronic Resources Librarianship, 29:2, 93-106, DOI: 10.1080/1941126X.2017.1304765
+Cyndy Chisare, Jody Condit Fagan, David Gaines & Michael Trocchia (2017) Journal of Electronic Resources Librarianship, 29:2, 93-106, DOI: 10.1080/1941126X.2017.1304765
 
 “Link resolver software and their associated knowledge bases are essential technologies for modern academic libraries. Because of the increasing number of possible integrations involving link resolver software and knowledge bases, however, a library's vendor relationships, product choices, and consortial arrangements may have the most dramatic effects on the user experience and back-end maintenance workloads. A project team at a large comprehensive university recently investigated link resolver products to increase efficiency of back-end workflows while maintaining or improving the patron experience. The methodology used for product comparison may be useful for other libraries”.
 
@@ -74,11 +75,11 @@ Council of Chief Librarians Electronic Access & Resources Committee. (CCL­EAR )
 
 In Spring 2016, selected members of the Council of Chief Librarians, Electronic Access and Resources Committee (CCL­EAR) undertook a comparative study of five discovery tools:
 
-* Ebsco Discovery Service (EDS)
-* Encore Synergy
-* Primo
-* Summon
-* Worldcat Local and Discovery
+- Ebsco Discovery Service (EDS)
+- Encore Synergy
+- Primo
+- Summon
+- Worldcat Local and Discovery
 
 The review focused on the coverage, search interface, cost, availability/accessibility of service, and customer service as well as customization, and mobile options for each product.During Fall 2015 and Spring 2016 CCL­EAR conducted a comparison review of Discovery Services for the California Community Colleges. To inform the comparison a survey was sent to the 113 colleges to learn if institutions were using Discovery Services, if so, what they were and what were their experiences with different aspects of the Discovery Services. If institutions did not have a Discovery Service they were asked why and if they were interested in having one. In February 2016 CCL­EAR hosted a Discovery Services meeting and panel where all 113 colleges were invited. The survey results were reported and a panel discussion followed. Open discussion after the panel revealed a number of concerns and CCL­EAR realized a comparison review would be challenging. Each interface was highly customizable. Content was based on the subscription databases the college had and the visibility and results ranking was based on the Discovery Service. Some products were integrated with Integrated Library Systems (ILS) and other were stand alone products. Reviewers were granted guest access to products across the state, CCL­EAR conducted this comparison review.
 
@@ -86,7 +87,7 @@ The review focused on the coverage, search interface, cost, availability/accessi
 
 Joseph Deodato Information Technology and Libraries. Vol 34, No 2 (2015)
 
-*Abstract:*
+_Abstract:_
 
 Selecting a web-scale discovery service is a large and important undertaking that involves a significant investment of time, staff, and resources. Finding the right match begins with a thorough and carefully planned evaluation process. In order to be successful, this process should be inclusive, goal-oriented, data-driven, user-centered, and transparent. The following article offers a step-by-step guide for developing a web-scale discovery evaluation plan rooted in these five key principles based on best practices synthesized from the literature as well as the author’s own experiences coordinating the evaluation process at Rutgers University. The goal is to offer academic libraries that are considering acquiring a web-scale discovery service a blueprint for planning a structured and comprehensive evaluation process.
 
@@ -96,7 +97,7 @@ A white paper commissioned by the NISO Discovery to Delivery (D2D) Topic Committ
 
 Marshall Breeding February 2015
 
-“This paper provides an overview of the current resource discovery environment and discusses some of the possibilities regarding how these technologies, methodologies, and products might be able to adapt to changes in the evolving information landscape in scholarly communications and to take advantage of new technologies, metadata models, or linking environments to better accomplish the needs of libraries to provide access to resources”. 
+“This paper provides an overview of the current resource discovery environment and discusses some of the possibilities regarding how these technologies, methodologies, and products might be able to adapt to changes in the evolving information landscape in scholarly communications and to take advantage of new technologies, metadata models, or linking environments to better accomplish the needs of libraries to provide access to resources”.
 
 [Thinking the unthinkable – doing away with the library catalogue ](https://insights.uksg.org/articles/10.1629/2048-7754.174)
 

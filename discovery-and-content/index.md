@@ -1,6 +1,6 @@
 ---
 title: Discovery and content
-layout: default
+layout: enhanced
 tags:
   - Discovery
   - Electronic resource management

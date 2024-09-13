@@ -1,6 +1,6 @@
 ---
 title: Mobile apps
-layout: default
+layout: enhanced
 nav_order: 5
 parent: Core library systems
 has_children: false

@@ -2,7 +2,7 @@
 title: About HELibTech
 tags:
   - Library systems
-layout: enhanced
+layout: default
 nav_order: 0
 has_children: false
 nav_exclude: true

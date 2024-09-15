@@ -125,6 +125,7 @@ collections:
       value: metatag
     fields:
       - *TITLE
+      - { label: "Hint text", name: "hint", widget: "string" }
       - *BODY
       - {
           label: "Layout",

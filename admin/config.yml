@@ -115,6 +115,30 @@ aliases:
     }
 
 collections:
+  - name: "tags"
+    label: "Site meta tags"
+    folder: "metatags"
+    create: true
+    slug: "{{slug}}"
+    filter:
+      field: layout
+      value: metatag
+    fields:
+      - *TITLE
+      - *BODY
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "metatag",
+        }
+      - {
+          label: "Exclude from nav",
+          name: "nav_exclude",
+          widget: "hidden",
+          default: true,
+        }
+
   - label: "Title pages"
     name: "pages"
     files:

@@ -1,3 +1,5 @@
 ---
-title: Collection development
+title: Chatbots
+layout: metatag
+nav_exclude: true
 ---

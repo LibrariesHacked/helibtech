@@ -1,11 +1,9 @@
 {% if site.just_the_docs.collections.metatags %}
 {% assign tags = site.metatags %}
-<h4>Page tags</h4>
-<div class="metatags">
+<h4>All site tags</h4>
+<div>
   {% for tag in tags %}
-  <p class="label">
-    {{ tag.title }}
-  </p>
+  <a href="#{{ tag | slugify }}">{{ tag }}</a>&nbsp;
   {% endfor %}
 </div>
 {% endif %}

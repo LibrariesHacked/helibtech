@@ -13,7 +13,7 @@ It should then have each tag as a header and list all the pages that include tha
   {% for tag in tags %}
   {% assign tag_pages = site.pages | where_exp: "page", "page.tags contains tag.title" %}
   {% if tag_pages.size > 0 %}
-  <p class="label"><a href="#{{ tag.title | slugify }}">{{ tag.title }}</a></p>
+  <p class="label"><a href="#{{ tag.title | slugify }}">{{ tag.title }} ({{ tag_pages.size }})</a></p>
   {% endif %}
   {% endfor %}
 </div>
@@ -27,7 +27,6 @@ It should then have each tag as a header and list all the pages that include tha
   <ul>
     {% for page in tag_pages %}
     <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
-    {% endif %}
     {% endfor %}
   </ul>
 </div>

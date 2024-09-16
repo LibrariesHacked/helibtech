@@ -7,15 +7,15 @@ It should then have each tag as a header and list all the pages that include tha
 {% assign tags = site.metatags %}
 
 {% if tags.size > 0 %}
-<h1>Tags</h1>
+
+<h2>List of site tags</h2>
 <div>
-  <ul>
+  <p>
     {% for tag in tags %}
-    <li><a href="#{{ tag.title | slugify }}">{{ tag.title }}</a></li>
+    <a href="#{{ tag.title | slugify }}">{{ tag.title }}</a>&nbsp;
     {% endfor %}
-  </ul>
+  </p>
 </div>
-{% endif %}
 
 {% for tag in tags %}
 <h2 id="{{ tag.title | slugify }}">{{ tag.title }}</h2>
@@ -29,3 +29,5 @@ It should then have each tag as a header and list all the pages that include tha
   </ul>
 </div>
 {% endfor %}
+
+{% endif %}

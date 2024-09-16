@@ -24,16 +24,22 @@ It should then have each tag as a header and list all the pages that include tha
 {% if tag_pages.size > 0 %}
 <h4 id="{{ tag.title | slugify }}">{{ tag.title }}</h4>
 <div>
-  <ul>
-    {% for page in tag_pages %}
-    <li>
-      {% if page.parent %}
-      {{ page.parent }}:
-      {% endif %}
-      <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
-    </li>
-    {% endfor %}
-  </ul>
+  <table class="display">
+    <thead>
+      <tr>
+        <th>Page</th>
+        <th>Section</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for page in tag_pages %}
+      <tr>
+        <td><a href="{{ page.url | relative_url }}">{{ page.title }}</a></td>
+        <td>{{ page.parent }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
 </div>
 {% endif %}
 {% endfor %}

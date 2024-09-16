@@ -27,7 +27,7 @@ It should then have each tag as a header and list all the pages that include tha
   <table class="display">
     <thead>
       <tr>
-        <th>Page</th>
+        <th>Title</th>
         <th>Section</th>
       </tr>
     </thead>
@@ -40,6 +40,7 @@ It should then have each tag as a header and list all the pages that include tha
       {% endfor %}
     </tbody>
   </table>
+  <p><a href="#top" id="back-to-top">{{ site.back_to_top_text }}</a></p>
 </div>
 {% endif %}
 {% endfor %}

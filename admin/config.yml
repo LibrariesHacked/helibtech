@@ -65,7 +65,7 @@ aliases:
 collections:
   - name: "tags"
     label: "Site meta tags"
-    folder: "metatags"
+    folder: "_metatags"
     create: true
     slug: "{{slug}}"
     filter:

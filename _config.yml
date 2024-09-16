@@ -20,3 +20,14 @@ gh_edit_link: false # show or hide edit this page link
 callouts:
   synopsis:
     color: yellow
+
+collections:
+  metatags:
+    output: true
+
+just_the_docs:
+  collections:
+    metatags:
+      name: Metatags
+      nav_exclude: true
+      search_exclude: true

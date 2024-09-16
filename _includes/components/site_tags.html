@@ -1,7 +1,11 @@
-{% if site.just_the_docs.collections %}
-{% for collection_entry in site.just_the_docs.collections %}
-{% assign collection_key = collection_entry[0] %}
-{% assign collection_value = collection_entry[1] %}
-<p>{{collection_key}}</p>
-{% endfor %}
+{% if site.just_the_docs.collections.metatags %}
+{% assign tags = site.just_the_docs.collections.metatags %}
+<h4>Page tags</h4>
+<div class="metatags">
+  {% for tag in tags %}
+  <p class="label">
+    {{ tag.title }}
+  </p>
+  {% endfor %}
+</div>
 {% endif %}

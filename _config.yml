@@ -3,7 +3,7 @@ description: A starting point for anyone interested in library technology in Hig
 theme: just-the-docs
 repository: librarieshacked/helibtech
 
-logo: "/assets/images/logo-no-background.png"
+logo: "/assets/images/logo-no-background.svg"
 
 color_scheme: helibtech
 search_enabled: true

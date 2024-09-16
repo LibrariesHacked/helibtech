@@ -1,0 +1,11 @@
+{% if site.tags %}
+{% assign tags = site.tags | sort %}
+<h4>Site tags</h4>
+<div class="metatags">
+  {% for tag in tags %}
+  <p class="label">
+    <a href="{{ site.baseurl }}/tags/{{ tag | slugify }}">{{ tag }}</a>
+  </p>
+  {% endfor %}
+</div>
+{% endif %}

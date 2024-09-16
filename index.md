@@ -6,9 +6,9 @@ layout: enhanced
 nav_order: 0
 has_children: false
 nav_exclude: true
+published: true
 ---
-
-![Higher Education Library Technology Logo](/assets/images/logo-no-background.svg)
+![A text logo for Higher Education Library Technology](/assets/images/logo-no-background.svg)
 
 ## Our purpose
 
@@ -26,11 +26,11 @@ HELibTech is a **community resource.** The strength of our site is in drawing to
 
 We welcome the following contributions:
 
-- Proposals for new topics not currently covered
-- Corrections / edits / enhancements to existing pages - if you spot something wrong or feel you can improve please tell us!
-- Feature articles on initiatives from your institution or your experience of working with particular technologies
-- Product reviews and tips articles on using particular solutions
-- News items including promoting relevant events.
+* Proposals for new topics not currently covered
+* Corrections / edits / enhancements to existing pages - if you spot something wrong or feel you can improve please tell us!
+* Feature articles on initiatives from your institution or your experience of working with particular technologies
+* Product reviews and tips articles on using particular solutions
+* News items including promoting relevant events.
 
 Whatever your role either working in libraries or if you work for a technology supplier we would be keen to here from you.
 

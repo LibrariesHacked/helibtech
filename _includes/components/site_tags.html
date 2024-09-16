@@ -3,11 +3,8 @@
 <h2>All site tags</h2>
 <div>
   {% for tag in tags %}
-  <p>{{ tag }}</p>
+  <p>{{ tag.title }}</p>
   {% endfor %}
 </div>
-{% for tag in tags %}
-<h4 id="{{ tag | slugify }}">{{ tag }}</h4>
-{% endfor %}
 
 {% endif %}

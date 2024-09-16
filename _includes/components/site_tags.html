@@ -4,7 +4,7 @@
 <div class="metatags">
   {% for tag in tags %}
   <p class="label">
-    <a href="{{ site.baseurl }}/tags/{{ tag | slugify }}">{{ tag }}</a>
+    {{ tag.title }}
   </p>
   {% endfor %}
 </div>

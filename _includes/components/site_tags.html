@@ -1,10 +1,38 @@
-{% if site.just_the_docs.collections.metatags %}
-{% assign tags = site.metatags %}
-<h2>All site tags</h2>
-<div>
-  {% for tag in tags %}
-  <p>{{ tag.title }}</p>
-  {% endfor %}
-</div>
+{% {%- comment -%}
+The site tags component should list all tags used in the site.
+At the top of the page each tag will be a link to link to the tag header on the page.
+It should then have each tag as a header and list all the pages that include that tag.
+{%- endcomment -%}
 
-{% endif %}
+
+
+{%- assign tags = site.metatags | sort -%}
+
+
+{%- if tags.size == 0 -%}
+<p>No tags found.</p>
+{%- endif -%}
+
+{%- if tags.size > 0 -%}
+<h1>Tags</h1>
+<p>
+<ul>
+  {%- for tag in tags -%}
+  <li><a href="#{{ tag.title | slugify }}">{{ tag.title }}</a></li>
+  {%- endfor -%}
+</ul>
+</p>
+{%- endif -%}
+
+{%- for tag in tags -%}
+<h2>{{ tag.title }}</h2>
+<p>
+<ul>
+  {%- for page in site.pages -%}
+  {%- if page.metatags contains tag.title -%}
+  <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+  {%- endif -%}
+  {%- endfor -%}
+</ul>
+</p>
+{%- endfor -%}

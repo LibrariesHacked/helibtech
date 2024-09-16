@@ -6,4 +6,8 @@
   <a href="#{{ tag | slugify }}">{{ tag }}</a>&nbsp;
   {% endfor %}
 </div>
+{% for tag in tags %}
+<h4 id="{{ tag | slugify }}">{{ tag }}</h4>
+{% endfor %}
+
 {% endif %}

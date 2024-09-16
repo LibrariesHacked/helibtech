@@ -347,7 +347,12 @@ collections:
           - *BODY
           - *META_TAGS
           - *PUBLISHED
-          - *DEFAULT_LAYOUT
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "news_listing",
+            }
           - {
               label: "Navigation order",
               name: "nav_order",
@@ -370,7 +375,12 @@ collections:
           - *BODY
           - *META_TAGS
           - *PUBLISHED
-          - *DEFAULT_LAYOUT
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "news_listing",
+            }
           - {
               label: "Navigation order",
               name: "nav_order",

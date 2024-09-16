@@ -4,35 +4,28 @@ At the top of the page each tag will be a link to link to the tag header on the 
 It should then have each tag as a header and list all the pages that include that tag.
 {%- endcomment -%}
 
+{% assign tags = site.metatags %}
 
-
-{%- assign tags = site.metatags | sort -%}
-
-
-{%- if tags.size == 0 -%}
-<p>No tags found.</p>
-{%- endif -%}
-
-{%- if tags.size > 0 -%}
+{% if tags.size > 0 %}
 <h1>Tags</h1>
-<p>
-<ul>
-  {%- for tag in tags -%}
-  <li><a href="#{{ tag.title | slugify }}">{{ tag.title }}</a></li>
-  {%- endfor -%}
-</ul>
-</p>
-{%- endif -%}
+<div>
+  <ul>
+    {% for tag in tags %}
+    <li><a href="#{{ tag.title | slugify }}">{{ tag.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
 
-{%- for tag in tags -%}
-<h2>{{ tag.title }}</h2>
-<p>
-<ul>
-  {%- for page in site.pages -%}
-  {%- if page.metatags contains tag.title -%}
-  <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
-  {%- endif -%}
-  {%- endfor -%}
-</ul>
-</p>
-{%- endfor -%}
+{% for tag in tags %}
+<h2 id="{{ tag.title | slugify }}">{{ tag.title }}</h2>
+<div>
+  <ul>
+    {% for page in site.pages %}
+    {% if page.metatags contains tag.title %}
+    <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+{% endfor %}

@@ -22,7 +22,7 @@ It should then have each tag as a header and list all the pages that include tha
 {% for tag in tags %}
 {% assign tag_pages = site.pages | where_exp: "page", "page.tags contains tag.title" %}
 {% if tag_pages.size > 0 %}
-<h4 id="{{ tag.title | slugify }}">{{ tag.title }}</h4>
+<h3 id="{{ tag.title | slugify }}">{{ tag.title }}</h3>
 <div>
   <table class="display">
     <thead>

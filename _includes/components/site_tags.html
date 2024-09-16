@@ -10,19 +10,17 @@ It should then have each tag as a header and list all the pages that include tha
 
 <h2>List of site tags</h2>
 <div>
-  <p>
-    {% for tag in tags %}
-    <a href="#{{ tag.title | slugify }}">{{ tag.title }}</a>&nbsp;
-    {% endfor %}
-  </p>
+  {% for tag in tags %}
+  <p class="label"><a href="#{{ tag.title | slugify }}">{{ tag.title }}</a></p>
+  {% endfor %}
 </div>
 
 {% for tag in tags %}
-<h2 id="{{ tag.title | slugify }}">{{ tag.title }}</h2>
+<h4 id="{{ tag.title | slugify }}">{{ tag.title }}</h4>
 <div>
   <ul>
     {% for page in site.pages %}
-    {% if page.metatags contains tag.title %}
+    {% if page.tags contains tag.title %}
     <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
     {% endif %}
     {% endfor %}

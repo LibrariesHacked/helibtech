@@ -15,7 +15,7 @@ heading_anchors: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-gh_edit_link: false # show or hide edit this page link
+gh_edit_link: false
 
 callouts:
   synopsis:
@@ -24,6 +24,16 @@ callouts:
 collections:
   metatags:
     output: true
+
+aux_links:
+  Tags:
+    - /tags/
+  Privacy:
+    - /privacy/
+  Accessibility:
+    - /accessibility/
+  Analytics:
+    - /analytics/
 
 just_the_docs:
   collections:

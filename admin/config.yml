@@ -88,6 +88,75 @@ collections:
           default: true,
         }
 
+  - label: "Structural pages"
+    name: "structure"
+    files:
+      - name: privacy
+        label: Privacy policy
+        file: privacy.md
+        create: false
+        fields:
+          - *TITLE
+          - *BODY
+          - *DEFAULT_LAYOUT
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: false,
+            }
+          - {
+              label: "Exclude from nav",
+              name: "nav_exclude",
+              widget: "hidden",
+              default: true,
+            }
+      - name: accessibility
+        label: Accessibility statement
+        file: accessibility.md
+        create: false
+        fields:
+          - *TITLE
+          - *BODY
+          - *DEFAULT_LAYOUT
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: false,
+            }
+          - {
+              label: "Exclude from nav",
+              name: "nav_exclude",
+              widget: "hidden",
+              default: true,
+            }
+      - name: analytics
+        label: Analytics
+        file: analytics.md
+        create: false
+        fields:
+          - *TITLE
+          - *BODY
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "analytics",
+            }
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: false,
+            }
+          - {
+              label: "Exclude from nav",
+              name: "nav_exclude",
+              widget: "hidden",
+              default: true,
+            }
+
   - label: "Title pages"
     name: "pages"
     files:

@@ -8,7 +8,7 @@ It should then have each tag as a header and list all the pages that include tha
 
 {% if tags.size > 0 %}
 
-<h2>Site tags</h2>
+<h2>Tags</h2>
 <div class="metatags">
   {% for tag in tags %}
   {% assign tag_pages = site.pages | where_exp: "page", "page.tags contains tag.title" %}

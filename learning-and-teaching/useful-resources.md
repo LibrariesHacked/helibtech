@@ -13,11 +13,11 @@ tags:
   - Resource lists
   - VLE
   - Virtual Learning Environment
+published: true
 ---
-
 # Learning & teaching: useful resources
 
-[](https://academicebookinvestigation.org/)
+Below is a collection of useful reports, websites, blogposts etc. relevant to the library technology used to support learning and teaching:[](https://academicebookinvestigation.org/)
 
 [Campaign to investigate the academic ebook market](https://academicebookinvestigation.org/)
 

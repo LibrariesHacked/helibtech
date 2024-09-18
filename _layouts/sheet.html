@@ -43,7 +43,19 @@ layout: enhanced
                     layout: {
                         topStart: {
                             buttons: [
-                                'copy', 'excel'
+                                {
+                                    extend: 'excelHtml5',
+                                    text: 'Export to Excel',
+                                    titleAttr: 'Export to Excel',
+                                    exportOptions: {
+                                        columns: ':visible'
+                                    }
+                                },
+                                {
+                                    extend: 'csvHtml5',
+                                    text: 'Export to CSV',
+                                    titleAttr: 'Export to CSV'
+                                }
                             ]
                         }
                     },

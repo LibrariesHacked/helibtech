@@ -6,6 +6,7 @@ parent: Archives and special collections
 has_children: false
 tags:
   - Archives
+  - Special collections
 published: true
 ---
 # Market overview

@@ -32,7 +32,7 @@ layout: sheet
 nav_order: 4
 has_children: false
 sheet_id: '19tzGFPCGVyyloGaAuBpexvpI2BkY7B_IYQizy40M97Q'
-filter_column: Product type
+filter_column: Solution type
 ---
 
 # Product directory

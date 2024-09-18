@@ -3,6 +3,7 @@ title: Archives and special collections
 layout: enhanced
 tags:
   - Archives
+  - Special collections
 published: true
 nav_order: 6
 has_children: true

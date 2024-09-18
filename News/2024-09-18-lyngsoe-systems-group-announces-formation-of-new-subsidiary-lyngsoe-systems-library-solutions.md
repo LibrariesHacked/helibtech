@@ -15,4 +15,5 @@ synopsis: >-
 published: true
 layout: news
 parent: News
+nav_exclude: true
 ---

@@ -61,6 +61,12 @@ aliases:
       value_field: "title",
       search_fields: ["title"],
     }
+  - &NAV_EXCLUDE {
+      label: "Exclude from nav",
+      name: "nav_exclude",
+      widget: "hidden",
+      default: true,
+    }
 
 collections:
   - name: "tags"
@@ -81,12 +87,7 @@ collections:
           widget: "hidden",
           default: "metatag",
         }
-      - {
-          label: "Exclude from nav",
-          name: "nav_exclude",
-          widget: "hidden",
-          default: true,
-        }
+      - *NAV_EXCLUDE
 
   - label: "Structural pages"
     name: "structure"
@@ -105,12 +106,7 @@ collections:
               widget: "hidden",
               default: false,
             }
-          - {
-              label: "Exclude from nav",
-              name: "nav_exclude",
-              widget: "hidden",
-              default: true,
-            }
+          - *NAV_EXCLUDE
       - name: accessibility
         label: Accessibility statement
         file: accessibility.md
@@ -125,12 +121,7 @@ collections:
               widget: "hidden",
               default: false,
             }
-          - {
-              label: "Exclude from nav",
-              name: "nav_exclude",
-              widget: "hidden",
-              default: true,
-            }
+          - *NAV_EXCLUDE
       - name: analytics
         label: Analytics
         file: analytics.md
@@ -150,12 +141,7 @@ collections:
               widget: "hidden",
               default: false,
             }
-          - {
-              label: "Exclude from nav",
-              name: "nav_exclude",
-              widget: "hidden",
-              default: true,
-            }
+          - *NAV_EXCLUDE
 
   - label: "Title pages"
     name: "pages"
@@ -595,6 +581,7 @@ collections:
       - *PUBLISHED
       - *NEWS_LAYOUT
       - { label: "Parent", name: "parent", widget: "hidden", default: "News" }
+      - *NAV_EXCLUDE
 
   - name: "news_archive"
     label: "News archive"
@@ -624,12 +611,7 @@ collections:
           widget: "hidden",
           default: "News",
         }
-      - {
-          label: "Exclude from nav",
-          name: "nav_exclude",
-          widget: "hidden",
-          default: true,
-        }
+      - *NAV_EXCLUDE
 
   - name: "helibtech_webinars"
     label: "HELibTech webinars"
@@ -653,12 +635,7 @@ collections:
           widget: "hidden",
           default: "HELibTech webinars",
         }
-      - {
-          label: "Exclude from nav",
-          name: "nav_exclude",
-          widget: "hidden",
-          default: true,
-        }
+      - *NAV_EXCLUDE
 
   - name: "past_webinars"
     label: "Past webinars"
@@ -688,12 +665,7 @@ collections:
           widget: "hidden",
           default: "HELibTech webinars",
         }
-      - {
-          label: "Exclude from nav",
-          name: "nav_exclude",
-          widget: "hidden",
-          default: true,
-        }
+      - *NAV_EXCLUDE
 
   - name: "user_engagement"
     label: "User engagement"

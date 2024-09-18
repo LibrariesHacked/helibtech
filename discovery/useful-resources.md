@@ -2,7 +2,7 @@
 title: Useful resources
 layout: enhanced
 nav_order: 7
-parent: Discovery and content
+parent: Discovery
 has_children: false
 tags:
   - Discovery
@@ -10,7 +10,7 @@ tags:
 
 # Discovery & content: useful resources
 
-Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of discovery and content:
+Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of discovery:
 
 [A Very Small Pond: Discovery Systems That Can Be Used with FOLIO in Academic Libraries ](https://journal.code4lib.org/articles/17433)
 

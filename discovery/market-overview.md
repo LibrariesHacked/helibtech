@@ -2,7 +2,7 @@
 title: Market overview
 layout: enhanced
 nav_order: 1
-parent: Discovery and content
+parent: Discovery
 has_children: false
 tags:
   - Discovery

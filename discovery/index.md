@@ -1,5 +1,5 @@
 ---
-title: Discovery and content
+title: Discovery
 layout: enhanced
 tags:
   - Discovery
@@ -8,7 +8,7 @@ nav_order: 10
 has_children: true
 ---
 
-# Discovery and content
+# Discovery
 
 This section covers the management and administration of discovery solutions and content platforms.
 

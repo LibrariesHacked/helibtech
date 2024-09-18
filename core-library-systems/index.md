@@ -13,7 +13,7 @@ has_children: true
 
 # Core library systems
 
-This section covers the key different aspects of library resource **management** systems. It does not cover discovery solutions which are covered in more detail under the dedicated section on [discovery & content.](/discovery-and-content/)
+This section covers the key different aspects of library resource **management** systems. It does not cover discovery solutions which are covered in more detail under the dedicated section on [discovery & content.](/discovery/)
 
 ### What are library management systems?
 

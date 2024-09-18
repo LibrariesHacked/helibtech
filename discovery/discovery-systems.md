@@ -2,7 +2,7 @@
 title: Discovery systems
 layout: enhanced
 nav_order: 4
-parent: Discovery and content
+parent: Discovery
 has_children: false
 tags:
   - Discovery

@@ -293,9 +293,9 @@ collections:
               default: true,
             }
 
-      - name: discovery_and_content_index
-        label: Discovery and content
-        file: discovery-and-content/index.md
+      - name: discovery_index
+        label: Discovery
+        file: discovery/index.md
         create: false
         fields:
           - *TITLE
@@ -795,13 +795,13 @@ collections:
           default: "Core library systems",
         }
 
-  - name: "discovery_and_content"
-    label: "Discovery and content"
-    folder: "discovery-and-content"
+  - name: "discovery"
+    label: "Discovery"
+    folder: "discovery"
     create: true
     filter:
       field: parent
-      value: Discovery and content
+      value: Discovery
     fields:
       - *TITLE
       - *META_TAGS
@@ -812,7 +812,7 @@ collections:
           label: "Parent",
           name: "parent",
           widget: "hidden",
-          default: "Discovery and content",
+          default: "Discovery",
         }
 
   - name: "helibtech_briefing_papers"

@@ -34,6 +34,10 @@ From the report:
 
 “In recent years, business acquisitions have brought high-stakes changes to the library technology industry, creating seismic shifts in the balance of power. But other events in 2022—primarily advances in open source software—have even bigger implications for the market. Although proprietary products continue to dominate, open source alternatives are becoming increasingly competitive.”
 
+[Open library systems – a new perspective](https://www.kenchadconsulting.com/wp-content/uploads/2022/12/Open-library-systems-KenChad-May2022.pdf). Ken Chad. Higher Education Library Technology \[HELibTech] Briefing Paper No. 7, May 2022. 
+
+In the last decade or so open source software became a defining factor in how librarians perceived ‘open’ library systems. Open source library systems such as Koha gained market share were often seen in terms of a ‘battle’ with the more common proprietary solutions.  With the rise of cloud computing, software ‘platforms’ have come to dominate. Because the solution is hosted in the cloud, rather than implemented on local servers, the underlying technology becomes of less concern. These platforms, including Library Services Platforms (LSPs) typically embrace open source components and combine them with proprietary solutions. The value of a ‘platform’, as opposed to a software ‘product’ comes not only from its own features, but from its ability to connect to external solutions, data and processes.
+
 [2022 Library Systems Report](https://americanlibrariesmagazine.org/2022/05/02/2022-library-systems-report/). An industry disrupted. By Marshall Breeding 2 May 2022
 
 From the report:

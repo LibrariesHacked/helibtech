@@ -12,8 +12,8 @@ tags:
   - Procurement
   - Technology market
   - LMS
+published: true
 ---
-
 # Market overview
 
 The US based site [librarytechnology.org](https://librarytechnology.org/) provides data on current market share for library systems providers across a range of territories. Data on market share is available [here](https://librarytechnology.org/products/marketshare.pl)
@@ -66,13 +66,13 @@ See also [Marshall Breeding's Library Technology Guides dashboard ](https://libr
 
 See our product directory for a full list of systems suppliers and their full range of systems offered. Listed below are the predominant suppliers to UK HE:
 
-- [Education Software Solutions (ESS)](https://www.ess-librarymanagementcloud.co.uk/) - formerly Capita
-- [Ex Libris](https://exlibrisgroup.com/)
-- [Innovative Interfaces](https://www.iii.com/)
-- [ISOxford (Cirqa)](https://cirqa.co.uk/)
-- [OCLC](https://www.oclc.org/en/home.html)
-- [PTFS Europe](https://ptfs-europe.com/)
-- [SirsiDynix](https://www.sirsidynix.com/)
+* [Education Software Solutions (ESS)](https://www.ess-librarymanagementcloud.co.uk/) - formerly Capita
+* [Ex Libris (Part of Clarivate)](https://exlibrisgroup.com/)
+* [Innovative Interfaces ](https://www.iii.com/)[(Part of Clarivate)](https://exlibrisgroup.com/)
+* [ISOxford (Cirqa)](https://cirqa.co.uk/)
+* [OCLC](https://www.oclc.org/en/home.html)
+* [PTFS Europe](https://ptfs-europe.com/)
+* [SirsiDynix](https://www.sirsidynix.com/)
 
 ### Library systems vendors - market share
 

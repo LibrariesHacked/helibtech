@@ -8,7 +8,7 @@ tags:
   - Discovery
 ---
 
-# Discovery & content: useful resources
+# Discovery: useful resources
 
 Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of discovery:
 

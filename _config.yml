@@ -5,7 +5,7 @@ repository: librarieshacked/helibtech
 
 logo: "/assets/images/logo-no-background.svg"
 
-color_scheme: helibtech
+color_scheme: light
 search_enabled: true
 
 footer_content: "Content on HELibTech is licensed under CC0 1.0 Universal. Please refer to re-use permissions on third party content linked to by HELibTech."

@@ -54,6 +54,6 @@ Use the Google Sheet for queries such as:
 
 You can also export the data in Excel by clicking the button at the top of the table to make a local copy for analysis.
 
-###### To see all systems used by individual institutions filter by institution using the dropdown below
+##### To see all systems used by individual institutions filter by institution using the dropdown below
 
 [](https://docs.google.com/forms/d/e/1FAIpQLSfw8F_kyteM3i1ohJlKqyxhbLv60sOaIpMeBWnQpLBK8rFx3A/viewform)

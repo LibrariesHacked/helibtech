@@ -5,8 +5,8 @@ nav_order: 4
 parent: User engagement
 has_children: false
 tags:
-  - Artificial Intelligence
   - Data & analytics
+published: true
 ---
 
 # User engagement: useful resources

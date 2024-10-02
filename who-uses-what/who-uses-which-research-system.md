@@ -18,6 +18,7 @@ layout: sheet
 parent: Who uses what
 sheet_id: 17WfzF_7dapuNRyUn0fw4tfxkPWhEZmn0aj7GJQAFcPM
 filter_column: Institution
+priority_columns:
 ---
 # Who uses which research system?
 

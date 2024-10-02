@@ -25,6 +25,11 @@ layout: enhanced
 
 <script>
     function loadData() {
+        var priorityColumns = [
+            {% for column_name in page.priority_columns %}
+                {{ column_name }}{% unless forloop.last %},{% endunless %}
+            {% endfor %}
+        ];
         var sheet_id = "{{ page.sheet_id }}";
         var filter_column = "{{ page.filter_column }}";
         Papa.parse(`https://docs.google.com/spreadsheets/d/${sheet_id}/gviz/tq?tqx=out:csv`, {
@@ -36,7 +41,9 @@ layout: enhanced
                 new DataTable('#sheet', {
                     data: results.data,
                     columns: results.meta.fields.map(function (field) {
-                        return { title: field, data: field }
+                        var column = { title: field, data: field }
+                        var priorityIndex = priorityColumns.indexOf(field)
+                        if (priorityIndex !== -1) column.priorityIndex = priorityIndex
                     }),
                     colReorder: true,
                     fixedColumns: true,

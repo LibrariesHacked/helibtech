@@ -21,6 +21,7 @@ layout: sheet
 parent: Who uses what
 sheet_id: 1rT5fbeJ72IWAbe58ywzK2D7zsMqLjSTIzFN_HWH7sDc
 filter_column: Institution
+priority_columns:
 ---
 # Who uses what library technology?
 

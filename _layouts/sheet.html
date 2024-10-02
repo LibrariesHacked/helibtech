@@ -27,7 +27,7 @@ layout: enhanced
     function loadData() {
         var priorityColumns = [
             {% for column_name in page.priority_columns %}
-                {{ column_name }}{% unless forloop.last %},{% endunless %}
+                '{{ column_name }}'{% unless forloop.last %},{% endunless %}
             {% endfor %}
         ];
         var sheet_id = "{{ page.sheet_id }}";

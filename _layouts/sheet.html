@@ -41,9 +41,11 @@ layout: enhanced
                 new DataTable('#sheet', {
                     data: results.data,
                     columns: results.meta.fields.map(function (field) {
-                        var column = { title: field, data: field }
-                        var priorityIndex = priorityColumns.indexOf(field)
-                        if (priorityIndex !== -1) column.priorityIndex = priorityIndex
+                        var column = { title: field, data: field };
+                        var priorityIndex = priorityColumns.indexOf(field);
+                        if (priorityIndex !== -1) {
+                            column.priorityIndex = priorityIndex
+                        }
                     }),
                     colReorder: true,
                     fixedColumns: true,

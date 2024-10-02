@@ -22,6 +22,12 @@ parent: Who uses what
 sheet_id: 1rT5fbeJ72IWAbe58ywzK2D7zsMqLjSTIzFN_HWH7sDc
 filter_column: Institution
 priority_columns:
+  - Institution
+  - LMS Vendor
+  - Library Management System
+  - Discovery Solution
+  - Resource List Solution
+  - Digitisation platform
 ---
 # Who uses what library technology?
 

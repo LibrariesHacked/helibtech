@@ -4,10 +4,9 @@ layout: enhanced
 nav_order: 3
 parent: Artificial intelligence
 has_children: false
-tags:
-  - Artificial intelligence
+tags: []
+published: true
 ---
-
 # Artificial intelligence: useful resources
 
 Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of artificial intelligence:[](https://nationalcentreforai.jiscinvolve.org/wp/2024/03/04/generative-ai-primer/)
@@ -60,9 +59,9 @@ Below is a collection of useful reports, websites, blogposts etc. relevant to di
 
 Originally posted to the lis-link@JISCMAIL.AC.UK listserv on 27th November 2023. This is a useful update for librarians covering
 
-- ChatGPT and other chatbots
-- AI Search
-- Content creation[](https://www.sciencedirect.com/science/article/pii/S0099133323001118)
+* ChatGPT and other chatbots
+* AI Search
+* Content creation[](https://www.sciencedirect.com/science/article/pii/S0099133323001118)
 
 [Artificial Intelligence in academic library strategy in the United Kingdom and the Mainland of China. ](https://www.sciencedirect.com/science/article/pii/S0099133323001118)
 
@@ -86,7 +85,13 @@ The Artificial Intelligence and Libraries Bibliography includes over 125 selecte
 
 [](https://nationalcentreforai.jiscinvolve.org/wp/2023/06/05/library-strategy-and-artificial-intelligence/)Dr Andrew M Cox. \[Blog] Understanding AI in Education \[Jisc] National Centre for AI 5 June 2023
 
-On April 20th 2023 the Information School, University of Sheffield invited five guest speakers from across the library sectors to debate “Artificial Intelligence: Where does it fit into your library strategy?”[](https://www.ifla.org/23-resources-to-get-up-to-speed-on-ai-in-2023/)
+On April 20th 2023 the Information School, University of Sheffield invited five guest speakers from across the library sectors to debate “Artificial Intelligence: Where does it fit into your library strategy?”
+
+[Looking towards a brighter future: the potentiality of AI and digital transformations to library spaces](https://library.leeds.ac.uk/downloads/download/196/artificial-intelligence-ai-in-libraries)
+
+Artificial intelligence (AI) in libraries project - Digital futures research report. University of Leeds Libraries (Feb 2023).
+
+This comprehensive report authored by University of Leeds libraries reviews the current and potential future impact of artificial intelligence on library spaces. It also includes a detailed survey of librarians at Leeds views on AI and library technology[](https://www.ifla.org/23-resources-to-get-up-to-speed-on-ai-in-2023/)
 
 [23 resources to get up to speed on AI in 2023](https://www.ifla.org/23-resources-to-get-up-to-speed-on-ai-in-2023/)
 

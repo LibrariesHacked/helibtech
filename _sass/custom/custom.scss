@@ -54,3 +54,9 @@ table.display td {
 #wcb_a {
   color: #fff !important;
 }
+
+@media (min-width: 50rem) and (min-width: 31.25rem) {
+  .nav-list .nav-list-item {
+    font-size: 0.9rem !important;
+  }
+}

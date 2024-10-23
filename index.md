@@ -36,9 +36,17 @@ Whatever your role either working in libraries or if you work for a technology s
 
 If you would like to contribute to HELibTech please send us your content via our [content submission form](https://forms.gle/UmtXM59GMVpq1uMr5). Alternatively feel free to contact [Paul Verlander (](paulverlander@gmail.com)HELibTech Community Editor) to discuss further.
 
+## Our community editors
+
+Paul Verlander is an information professional with over 15 years’ experience in Higher Education managing systems, collections and research support. Paul currently works in public libraries during a carer's career break.
+
+Dave Rowe is an experienced software developer and creator of the award winning Libraries Hacked site.
+
 ## UKSG 2023 Innovation award winner
 
 HELibTech is a winner of a UKSG Innovation award which will be used to develop further site improvements including a much enhanced open resource of accurate data about systems and technologies deployed by libraries in UK HE institutions.
+
+![](/assets/images/uksg-logo.png)
 
 ## Our partners
 
@@ -48,10 +56,4 @@ HELibTech is supported by Ken Chad Consulting and PTFS Europe who have provided 
 
 ![]()
 
-![](/assets/images/uksg-logo.png)
-
-## Our community editors
-
-Paul Verlander is an information professional with over 15 years’ experience in Higher Education managing systems, collections and research support. Paul currently works in public libraries during a carer's career break.
-
-Dave Rowe is an experienced software developer and creator of the award winning Libraries Hacked site.
+![]()

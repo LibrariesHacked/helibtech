@@ -5,12 +5,16 @@ tags:
   - RIMS
   - Research Information Management System
   - Research management
+published: true
 layout: enhanced
 nav_order: 2
 parent: Research management
 ---
 
+
 # CRIS / RIMS
+
+(See also the page on **[who uses what research system)](https://www.helibtech.com/who-uses-what/who-uses-which-research-system)**
 
 The terms CRIS - current research information system and RIMS - research information management system, are largely used interchangeably within the market and you will see both terms used across the sector.
 
@@ -22,10 +26,10 @@ The benefit of a CRIS / RIMS is to ensure that all information related to an ins
 
 Typically a CRIS / RIMS will contain modules for the following:
 
-- Researcher profiles
-- Grant applications / awards
-- Publications
-- Supporting information on research impact / research environment
+* Researcher profiles
+* Grant applications / awards
+* Publications
+* Supporting information on research impact / research environment
 
 Additional information such as teaching responsibilities may also be included.
 
@@ -61,8 +65,8 @@ CRIS / RIMS systems are included in the UK Government procurement framework [G C
 
 There is no definitive answer to how long it may take to implement a CRIS / RIMS system as this is dependent on:
 
-- Volume and state of existing metadata to be migrated
-- Number of third party systems to be integrated
-- Whether institutional repository will be migrated
+* Volume and state of existing metadata to be migrated
+* Number of third party systems to be integrated
+* Whether institutional repository will be migrated
 
 However a typical CRIS / RIMS project may take upwards of 12 months from project inception to implementation and will typically involve numerous stakeholders from libraries, research offices, IT departments and other institutional services such as finance and HR.

@@ -15,9 +15,11 @@ tags:
   - Procurement
   - Products
   - RDM
+published: true
 ---
-
 # Research management systems - market overview
+
+See also the page on **[who uses what research system](https://www.helibtech.com/who-uses-what/who-uses-which-research-system)**
 
 ## Institutional repositories market
 

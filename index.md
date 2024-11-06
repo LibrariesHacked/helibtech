@@ -54,6 +54,6 @@ HELibTech is supported by Ken Chad Consulting and PTFS Europe who have provided 
 
 ![](/assets/images/ptfs.png)
 
-![]()
+![](/assets/images/ken-chad-consulting-logo-300x57.png)
 
 ![]()

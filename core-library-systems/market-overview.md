@@ -34,6 +34,8 @@ See the Who Uses What pages for a list of every UK HE Institution with their lib
 
 ![](/assets/images/lms-marketshare-24.png)
 
+![](/assets/images/marketshare.jpg)
+
 The US based site [librarytechnology.org](https://librarytechnology.org/) also provides data on current market share for library systems providers across a range of territories. Data on market share is available [here](https://librarytechnology.org/products/marketshare.pl)
 
 Use the filters to change country to UK and library type to academic to view UK HE specific data. Note, the currency of the data is not verified and data for specific institutions should be cross-checked against HELibTech data for accuracy.
@@ -86,6 +88,6 @@ See also [Marshall Breeding's Library Technology Guides dashboard ](https://libr
 
 
 
-![Vendors]()
+![]()
 
-![UK Marketshare](/assets/images/marketshare.jpg 'UK Marketshare')
+![]()

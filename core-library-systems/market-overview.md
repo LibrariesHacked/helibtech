@@ -16,7 +16,25 @@ published: true
 ---
 # Market overview
 
-The US based site [librarytechnology.org](https://librarytechnology.org/) provides data on current market share for library systems providers across a range of territories. Data on market share is available [here](https://librarytechnology.org/products/marketshare.pl)
+### Library systems -UK vendors
+
+See our product directory for a full list of systems suppliers and their full range of systems offered. Listed below are the predominant suppliers to UK HE:
+
+* [Education Software Solutions (ESS)](https://www.ess-librarymanagementcloud.co.uk/) - formerly Capita
+* [Ex Libris (Part of Clarivate)](https://exlibrisgroup.com/)
+* [Innovative Interfaces ](https://www.iii.com/)[(Part of Clarivate)](https://exlibrisgroup.com/)
+* [ISOxford (Cirqa)](https://cirqa.co.uk/)
+* [OCLC](https://www.oclc.org/en/home.html)
+* [PTFS Europe](https://ptfs-europe.com/)
+* [SirsiDynix](https://www.sirsidynix.com/)
+
+### Library systems vendors - market share
+
+See the Who Uses What pages for a list of every UK HE Institution with their library related systems
+
+![](/assets/images/lms-marketshare-24.png)
+
+The US based site [librarytechnology.org](https://librarytechnology.org/) also provides data on current market share for library systems providers across a range of territories. Data on market share is available [here](https://librarytechnology.org/products/marketshare.pl)
 
 Use the filters to change country to UK and library type to academic to view UK HE specific data. Note, the currency of the data is not verified and data for specific institutions should be cross-checked against HELibTech data for accuracy.
 
@@ -66,22 +84,8 @@ By Marshall Breeding American Libraries 1st May 2020
 
 See also [Marshall Breeding's Library Technology Guides dashboard ](https://librarytechnology.org/products/)which brings together data, trends, news, and other resources.
 
-### Library systems -UK vendors
 
-See our product directory for a full list of systems suppliers and their full range of systems offered. Listed below are the predominant suppliers to UK HE:
 
-* [Education Software Solutions (ESS)](https://www.ess-librarymanagementcloud.co.uk/) - formerly Capita
-* [Ex Libris (Part of Clarivate)](https://exlibrisgroup.com/)
-* [Innovative Interfaces ](https://www.iii.com/)[(Part of Clarivate)](https://exlibrisgroup.com/)
-* [ISOxford (Cirqa)](https://cirqa.co.uk/)
-* [OCLC](https://www.oclc.org/en/home.html)
-* [PTFS Europe](https://ptfs-europe.com/)
-* [SirsiDynix](https://www.sirsidynix.com/)
-
-### Library systems vendors - market share
-
-See the Who Uses What pages for a list of every UK HE Institution with their library related systems
-
-![Vendors](/assets/images/vendors.jpg 'Vendors')
+![Vendors]()
 
 ![UK Marketshare](/assets/images/marketshare.jpg 'UK Marketshare')

@@ -7,11 +7,15 @@ has_children: false
 tags:
   - Resource sharing
   - Interlending
+published: true
 ---
-
 # Resource sharing and interlending: useful resources
 
 Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of resource sharing and interlending:
+
+[Connecting Globally to Streamline Resource Sharing](https://exlibrisgroup.com/wp-content/uploads/Notthingham-Trent-University_Rapido-customer-story.pdf)
+
+Nottingham Trent University have shared information on their experience of implementing Ex Libris Rapido ILL workflow and requesting interface. 
 
 [Library Lending Fit for the 21st Century? Controlled Digital Lending in the UK ](https://www.rluk.ac.uk/library-lending-fit-for-the-21st-century-controlled-digital-lending-in-the-uk/)David Prosser. RLUK blog. 27 September 2021
 

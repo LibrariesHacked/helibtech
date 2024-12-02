@@ -34,7 +34,7 @@ See the Who Uses What pages for a list of every UK HE Institution with their lib
 
 ![](/assets/images/lms-marketshare-24.png)
 
-![](/assets/images/marketshare.jpg)
+![](/assets/images/marketshare-over-time.png)
 
 The US based site [librarytechnology.org](https://librarytechnology.org/) also provides data on current market share for library systems providers across a range of territories. Data on market share is available [here](https://librarytechnology.org/products/marketshare.pl)
 
@@ -85,8 +85,6 @@ By Marshall Breeding American Libraries 1st May 2020
 “The library technology industry took some significant turns in 2019. Ex Libris, a ProQuest company, acquired Innovative Interfaces and shifted the balance of power, strengthening Ex Libris’ position in technology for academic libraries and propelling it as a major player in public libraries. This move narrows the slate of competitors in an industry already offering few viable options for many libraries”.
 
 See also [Marshall Breeding's Library Technology Guides dashboard ](https://librarytechnology.org/products/)which brings together data, trends, news, and other resources.
-
-
 
 ![]()
 

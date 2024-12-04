@@ -50,9 +50,9 @@ HELibTech is a winner of a UKSG Innovation award which will be used to develop f
 
 ## Our partners
 
-HELibTech is generously sponsored by Technology from Sage, PTFS Europe and Ken Chad Consulting. It is through our sponsors on-going support that bursaries are provided for our Community Editors and the maintenance and hosting of our website is maintained. 
+HELibTech is generously sponsored by Technology from Sage, PTFS Europe and Ken Chad Consulting. It is through our sponsors on-going support that bursaries are provided for our Community Editors and that our site is hosted and maintained.
 
-The 2024 redevelopment of the site has also been possible through the support of the UKSG Innovation awards..
+The 2024 redevelopment of the site has also been possible through the support of the UKSG Innovation awards.
 
 ![](/assets/images/ptfs.png)
 

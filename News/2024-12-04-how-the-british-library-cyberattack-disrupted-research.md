@@ -9,7 +9,10 @@ synopsis: >-
   impact of the attack on procurement of further resources by universities.
 
 
-  Note that this article can be accessed via free registration on the THES website
+  Read the full article [here](https://www.timeshighereducation.com/depth/how-british-library-cyberattack-disrupted-research)
+
+
+  Note that this article can be accessed via free registration on the THES website.
 tags:
   - Interlending
   - Resource sharing

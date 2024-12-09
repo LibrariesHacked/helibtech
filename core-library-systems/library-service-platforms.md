@@ -10,17 +10,17 @@ tags:
   - Library systems
   - LMS
   - Library services platform
+published: true
 ---
-
 # Library service platforms
 
 ## The library services platform, library management system and the Cloud
 
-The Cloud is one the key attributes that distinguishes a library services platform (LSP) from a library management system/integrated library system. A conventional LMS/ILS may be installed in hundreds of libraries in multiple versions, on a variety of hardware using different operating systems. Each new release must be tested with all these variables and then implemented in each separate library system. This is time-consuming and takes up significant vendor and customer resources. It also militates against interoperability. Examples of cloud based multi-tenant LSPs are Ex Libris/Clarivate Alma and OCLC WMS.
+The Cloud is one the key attributes that distinguishes a library services platform (LSP) from a library management system/integrated library system. A conventional LMS/ILS may be installed in hundreds of libraries in multiple versions, on a variety of hardware using different operating systems. Each new release must be tested with all these variables and then implemented in each separate library system. This is time-consuming and takes up significant vendor and customer resources. It also militates against interoperability.
 
 ### The differences between (multi-tenant) cloud and hosted systems
 
-While most library system vendors offer the option of hosting ‘in the cloud’ only a few offer multi-tenant cloud systems:
+While most library system vendors offer the option of hosting ‘in the cloud’ only a few offer multi-tenant cloud systems. Cloud based multi-tenant LSPs are Ex Libris/Clarivate Alma and OCLC WMS.
 
 “\[A multi-tenant system] is essentially a single system with the multiplicity of client libraries being ‘tenants.’ These ‘clouds’ may be regional (e.g. European) in order to meet legislative requirements but, within each multi-tenant environment, there is only one copy of the application software, one operating system and one database supporting multiple organizations on a single bank of servers. The vendor only has to deploy, develop, maintain and upgrade one copy of the software. In contrast a hosted solution is much less efficient. While the hardware infrastructure may be shared the vendor still has to support a multiplicity of client systems that need to be maintained separately. The efficiency benefits to the vendor of what is in effect one single global (or at least multi-national) library system are clear.” From: Library management system to library services platform. Resource management for libraries: a new perspective DOI: 10.13140/RG.2.1.4315.3128 Ken Chad. Higher Education Library Technology (HELibTech) Briefing paper. August 2015.
 

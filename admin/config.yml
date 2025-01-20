@@ -361,7 +361,53 @@ collections:
               label: "Navigation order",
               name: "nav_order",
               widget: "hidden",
-              default: 11,
+              default: 3,
+            }
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: false,
+            }
+
+      - name: helibtech_open_data_index
+        label: HELibTech open data
+        file: helibtech-open-data/index.md
+        create: false
+        fields:
+          - *TITLE
+          - *BODY
+          - *META_TAGS
+          - *PUBLISHED
+          - *DEFAULT_LAYOUT
+          - {
+              label: "Navigation order",
+              name: "nav_order",
+              widget: "hidden",
+              default: 4,
+            }
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: false,
+            }
+
+      - name: helibtech_viewpoints_index
+        label: HELibTech viewpoints
+        file: helibtech-viewpoints/index.md
+        create: false
+        fields:
+          - *TITLE
+          - *BODY
+          - *META_TAGS
+          - *PUBLISHED
+          - *DEFAULT_LAYOUT
+          - {
+              label: "Navigation order",
+              name: "nav_order",
+              widget: "hidden",
+              default: 5,
             }
           - {
               label: "Has children",
@@ -562,6 +608,29 @@ collections:
               name: "has_children",
               widget: "hidden",
               default: true,
+            }
+
+      - name: about_our_sponsors_index
+        label: About our sponsors
+        file: about-our-sponsors/index.md
+        create: false
+        fields:
+          - *TITLE
+          - *BODY
+          - *META_TAGS
+          - *PUBLISHED
+          - *DEFAULT_LAYOUT
+          - {
+              label: "Navigation order",
+              name: "nav_order",
+              widget: "hidden",
+              default: 17,
+            }
+          - {
+              label: "Has children",
+              name: "has_children",
+              widget: "hidden",
+              default: false,
             }
 
   - name: "news_posts"

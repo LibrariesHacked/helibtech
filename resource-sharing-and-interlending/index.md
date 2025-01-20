@@ -1,7 +1,7 @@
 ---
 title: Resource sharing and interlending
 layout: enhanced
-nav_order: 13
+nav_order: 15
 has_children: true
 tags:
   - Interlending

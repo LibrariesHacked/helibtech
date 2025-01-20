@@ -12,8 +12,9 @@ tags:
 published: true
 layout: enhanced
 nav_order: 3
-has_children: true
+has_children: false
 ---
+
 # HELibTech briefing papers
 
 HELibTech briefing papers offer insights into key topics across the landscape of the library technology used in Higher Education. All papers are available on a fully open CC0 licence so please feel free to share.

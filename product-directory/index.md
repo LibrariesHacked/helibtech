@@ -29,7 +29,7 @@ tags:
   - Special collections
   - Who uses what
 layout: sheet
-nav_order: 4
+nav_order: 6
 has_children: false
 sheet_id: '19tzGFPCGVyyloGaAuBpexvpI2BkY7B_IYQizy40M97Q'
 filter_column: Solution type

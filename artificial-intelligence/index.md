@@ -5,9 +5,10 @@ tags:
   - AI
   - Artificial Intelligence
 published: true
-nav_order: 7
+nav_order: 9
 has_children: true
 ---
+
 # Artificial intelligence and libraries
 
 This section deals with the expansion of AI and the potential implications for libraries and library technology. As a rapidly emerging area the reach of AI in relation to how libraries operate and the technology they employ is likely to grow significantly. Examples of current AI applications currently used in libraries include the use of chatbots for online enquiry triaging and the introduction of AI powered modules to library content platforms.
@@ -20,12 +21,12 @@ The success of artificial intelligence depends on data.
 
 The AI bucket consists of:
 
-* Big data
-* Analytics
-* Machine learning
-* Natural language processing
-* Data visualisation
-* Decision logic
+- Big data
+- Analytics
+- Machine learning
+- Natural language processing
+- Data visualisation
+- Decision logic
 
 [Reproduced from the blog by Nick Ismail](https://www.information-age.com/success-artificial-intelligence-data-10142/) \[ Information Age [blog] 23 April 2018 ]
 
@@ -33,12 +34,12 @@ The AI bucket consists of:
 
 A composite including:
 
-* Big data
-* Analytics
-* Machine learning
-* Natural language processing
-* Data visualisation
-* Decision logic
+- Big data
+- Analytics
+- Machine learning
+- Natural language processing
+- Data visualisation
+- Decision logic
 
 Smith, A. (2016). Big Data Technology, Evolving Knowledge Skills and Emerging Roles. Legal Information Management, 16(4), 219-224.
 

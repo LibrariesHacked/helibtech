@@ -4,7 +4,7 @@ layout: enhanced
 tags:
   - Discovery
   - Electronic resource management
-nav_order: 10
+nav_order: 12
 has_children: true
 ---
 

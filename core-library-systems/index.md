@@ -7,7 +7,7 @@ tags:
   - Library services platform
   - Library systems
   - LSP
-nav_order: 9
+nav_order: 11
 has_children: true
 ---
 

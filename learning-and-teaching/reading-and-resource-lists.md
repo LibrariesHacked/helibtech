@@ -55,7 +55,7 @@ In response to the development of Elevate, Leganto has introduced "social readin
 
 ## Defunct reading list systems
 
-There are a number of now defunct reading list systems that were used in UK HE. Some of these were commercial products, some were open source systems and others were in-house software created by individual institutions.
+There are a number of now defunct reading list systems that were used in UK HE. Some of these were commercial products, some were open systems and others were in-house software created by individual institutions.
 
 Examples of such systems are listed below:
 

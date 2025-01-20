@@ -1,5 +1,5 @@
 ---
-title: Open Systems
+title: Open systems
 tags:
   - Library management systems
   - Library services platform
@@ -12,7 +12,7 @@ nav_order: 6
 parent: Core library systems
 ---
 
-# Open Systems
+# Open systems
 
 In the last decade or so open source software became a defining factor in how librarians perceived ‘open’ library systems. Open source library systems such as Koha gained market share were often seen in terms of a ‘battle’ with the more common proprietary solutions.
 

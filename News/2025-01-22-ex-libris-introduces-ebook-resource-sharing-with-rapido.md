@@ -9,6 +9,10 @@ synopsis: >-
 
 
   More information can be found at the [Ex Libris website.](https://exlibrisgroup.com/announcement/ex-libris-introduces-ebook-resource-sharing-with-rapido/)
+tags:
+  - Resource sharing
+  - Interlending
+  - Ebooks
 published: true
 layout: news
 parent: News

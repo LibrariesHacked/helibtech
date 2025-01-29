@@ -12,7 +12,8 @@ has_children: true
 ---
 # Artificial intelligence and library technology
 
-NOTE: Product descriptions are not necessarily unbiased. They are taken from a mixture of vendor, library and other websites
+NOTE: Product descriptions are not necessarily unbiased. They are taken from a mixture of vendor, library and other websites 
+If you would like to **contribute to HELibTech please send us your content** via our [content submission form](https://forms.gle/UmtXM59GMVpq1uMr5). Alternatively feel free to contact [Paul Verlander (](https://www.helibtech.com/paulverlander@gmail.com)HELibTech Community Editor) to discuss further.
 
 # AI capabilities that are part of library technology products such as library systems. 
 

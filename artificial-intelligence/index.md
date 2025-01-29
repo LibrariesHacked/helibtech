@@ -20,8 +20,7 @@ NOTE: Product descriptions are not necessarily unbiased. They are taken from a m
 
 ### Clarivate/Ex Libris  
 
-#### 
-[ Primo Research Assistant](https://exlibrisgroup.com/announcement/ex-libris-primo-research-assistant-is-now-available-for-primo-institutions/)
+#### [Primo Research Assistant](https://exlibrisgroup.com/announcement/ex-libris-primo-research-assistant-is-now-available-for-primo-institutions/)
 
 *"The Primo Research Assistant offers a new way of searching by combining the power of generative AI with intuitive conversational discovery. Say goodbye to clunky keyword searches and Boolean queries! Now, users can engage in natural language conversations with our Primo Research Assistant to uncover trusted library materials.*
 

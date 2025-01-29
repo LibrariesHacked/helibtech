@@ -1,6 +1,6 @@
 ---
 title: Altmetric adds the Bluesky social media platform as a research attention source
-date_added: 2025-01-01T12:00:00.000Z
+date_added: 2025-01-29T10:49:00.000Z
 synopsis: >-
   Reflecting the growing popularity of Bluesky as an alternative microblogging
   site to Twitter, Digital Science have announced that Altmetric has added the

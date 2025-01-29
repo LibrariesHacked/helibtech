@@ -18,9 +18,13 @@ NOTE: Product descriptions are not necessarily unbiased. They are taken from a m
 
 ### Clarivate/Ex Libris  
 
-https://exlibrisgroup.com/announcement/latest-news-harnessing-academic-ai-insights-from-clarivate/
+#### 
+[ Primo Research Assistant](https://exlibrisgroup.com/announcement/ex-libris-primo-research-assistant-is-now-available-for-primo-institutions/)
 
-*"Primo Research Assistant, launched in September 2024, redefines academic search by allowing natural language queries. It connects users with relevant content from the Central Discovery Index (CDI), a repository of over 5 billion scholarly articles."* 
+*"The Primo Research Assistant offers a new way of searching by combining the power of generative AI with intuitive conversational discovery. Say goodbye to clunky keyword searches and Boolean queries! Now, users can engage in natural language conversations with our Primo Research Assistant to uncover trusted library materials.*
+
+ *Based on a RAG (Retrieval Augmented Generation) architecture and grounded in the extensive Ex Libris CDI ([Central Discovery Index](https://exlibrisgroup.com/products/primo-discovery-service/content-index/)), Primo Research Assistant provides a starting point to users for their research, including source referencing and appropriate attribution for the authors. Searching with the Primo Research Assistant surfaces an overview based on information from library sources. Those sources..... making it easy for users to click and continue their research and learning journey, explore more results, refine their original query, or pursue a suggested related research question."*
+
 
 ### TDNet
 
@@ -44,7 +48,7 @@ EBSCO Information Services Introduces Artificial Intelligence Beta Program ([pre
 
 [The AI Metadata Assistant in the Metadata Editor ](https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)/Metadata_Management/005Introduction_to_Metadata_Management/The_AI_Metadata_Assistant_in_the_Metadata_Editor)[](https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)/Metadata_Management/005Introduction_to_Metadata_Management/The_AI_Metadata_Assistant_in_the_Metadata_Editor)
 
- *"What is the AI Metadata Assistant? The AI Metadata Assistant uses a Large Language Model generative AI to process information about a library resource and suggest relevant metadata to the cataloger to help make the cataloging process quicker and more efficient. The cataloger can then review the suggested data and accept, correct or dismiss it, as well as add more complex, expert metadata and library-specific metadata. The AI Metadata Assistant can process images of a library resource along with other provided information, extract the text and meaning, and return it structured according to cataloging standards. It can be used for creating new bibliographic records, as well as enriching existing brief records. Phase Iof Alma’s AI Metadata Assistant supports creating and enriching MARC 21records in the English language – more cataloging and resource languages and formats will be added in future phases, as we work with the community to evaluate the AI’s capabilities and quality of metadata. The subjects provided are validated against Library of Congress vocabularies, with plans to increase the selection of authority vocabularies in future phases.*
+*"What is the AI Metadata Assistant? The AI Metadata Assistant uses a Large Language Model generative AI to process information about a library resource and suggest relevant metadata to the cataloger to help make the cataloging process quicker and more efficient. The cataloger can then review the suggested data and accept, correct or dismiss it, as well as add more complex, expert metadata and library-specific metadata. The AI Metadata Assistant can process images of a library resource along with other provided information, extract the text and meaning, and return it structured according to cataloging standards. It can be used for creating new bibliographic records, as well as enriching existing brief records. Phase Iof Alma’s AI Metadata Assistant supports creating and enriching MARC 21records in the English language – more cataloging and resource languages and formats will be added in future phases, as we work with the community to evaluate the AI’s capabilities and quality of metadata. The subjects provided are validated against Library of Congress vocabularies, with plans to increase the selection of authority vocabularies in future phases.*
 
 #### ***Specto**, a digital collection platform*
 

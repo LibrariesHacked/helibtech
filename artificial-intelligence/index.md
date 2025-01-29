@@ -4,6 +4,8 @@ layout: enhanced
 tags:
   - AI
   - Artificial Intelligence
+  - Discovery
+  - Library management systems
 published: true
 nav_order: 9
 has_children: true

@@ -168,7 +168,23 @@ Smith, A. (2016). Big Data Technology, Evolving Knowledge Skills and Emerging Ro
 
 ## Common AI terms
 
-Taken from:
+#### [Large language models (LLM)](https://en.wikipedia.org/wiki/Large_language_model)
+
+*"A large language model (LLM) is a type of machine learning model designed for natural language processing tasks such as language generation. LLMs are language models with many parameters, and are trained with self-supervised learning on a vast amount of text. The largest and most capable LLMs are generative pretrained transformers (GPTs). Modern models can be fine-tuned for specific tasks or guided by prompt engineering. These models acquire predictive power regarding syntax, semantics, and ontologies inherent in human language corpora, but they also inherit inaccuracies and biases present in the data they are trained in".* (Wikipedia)
+
+#### 
+[Retrieval-Augmented Generation](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) 
+
+(RAG) is a technique that grants [generative artificial intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) models [information retrieval](https://en.wikipedia.org/wiki/Information_retrieval) capabilities. It modifies interactions with a [large language model](https://en.wikipedia.org/wiki/Large_language_model) (LLM) so that the model responds to user queries with reference to a specified set of documents, using this information to augment information drawn from its own vast, static [training data](https://en.wikipedia.org/wiki/Training_data). This allows LLMs to use domain-specific and/or updated information.[](https://en.wikipedia.org/wiki/Retrieval-augmented_generation#cite_note-Survey-1) Use cases include providing chatbot access to internal company data or giving factual information only from an authoritative source. (Wikipedia)[](https://en.wikipedia.org/wiki/Retrieval-augmented_generation#cite_note-AWS-2)
+
+
+#### Natural language processing
+
+[What is NLP (natural language processing](https://www.ibm.com/think/topics/natural-language-processing). IBM \[Website] 2024? 
+
+"(NLP) is a subfield of computer science and [artificial intelligence (AI)](https://www.ibm.com/think/topics/artificial-intelligence) that uses [machine learning](https://www.ibm.com/think/topics/machine-learning) to enable computers to understand and communicate with human language.NLP enables computers and digital devices to recognize, understand and generate text and speech by combining computational linguistics—the rule-based modeling of human language—together with statistical modeling, machine learning and [deep learning](https://www.ibm.com/think/topics/deep-learning).NLP research has helped enable the era of [generative AI](https://www.ibm.com/think/topics/generative-ai), from the communication skills of [large language models](https://www.ibm.com/think/topics/large-language-) (LLMs) to the ability of image generation models to understand requests. NLP is already part of everyday life for many, powering search engines, prompting [chatbots](https://www.ibm.com/think/topics/chatbots) for customer service with spoken commands, voice-operated GPS systems and question-answering digital assistants on smartphones such as Amazon’s Alexa, Apple’s Siri and Microsoft’s Cortana. NLP also plays a growing role in enterprise solutions that help streamline and automate business operations, increase employee productivity and simplify business processes."
+
+The following are taken from:
 
 AI in the UK: ready, willing and able? HOUSE OF LORDS Select Committee on Artificial Intelligence. Report of Session 2017–19 HL Paper 100 16 April 2018.
 

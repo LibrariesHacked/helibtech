@@ -56,6 +56,15 @@ EBSCO Information Services Introduces Artificial Intelligence Beta Program ([pre
 
 *"Helps institutions manage digital objects, including images and texts. It integrates AI to simplify metadata creation and automate classification, improving discovery and cataloging efficiency. "* [Harnessing Academic AI – Insights from Clarivate](https://exlibrisgroup.com/announcement/latest-news-harnessing-academic-ai-insights-from-clarivate/)
 
+## [](https://exlibrisgroup.com/announcement/latest-news-harnessing-academic-ai-insights-from-clarivate/)
+OCLC 
+
+#### WorldCat
+
+
+From: Implementing AI to further scale and accelerate WorldCat de-duplication. OCLC announcement 04 February 2025. https://www.oclc.org/en/news/announcements/2025/ai-worldcat-deduplication.html
+
+*"In August 2023, we implemented our first machine learning model for detecting duplicate bibliographic records as part of our ongoing efforts to mitigate and reduce their presence in WorldCat. In the lead up to this, we had invited the cataloging community to participate in data labeling exercises, from which we received feedback from over 300 users on approximately 34,000 duplicates to help validate our model’s understanding of duplicate records in WorldCat. This initiative led to the removal of ~5.4 million duplicates from WorldCat for printed book materials in English and other languages like French, German, Italian, and Spanish. We’ve now enhanced and extended our AI model to de-duplicate all formats, languages, and scripts in WorldCat. Leveraging the labeled data collected from community participation, we’ve tuned and optimized the AI machine learning algorithm, completed extensive internal testing, and engaged WorldCat Member Merge libraries to provide external verification of the algorithm’s performance. "*
 
 ## Research support, literature discovery and writing content for students and researchers
 

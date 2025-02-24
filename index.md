@@ -42,18 +42,11 @@ Paul Verlander is an information professional with over 15 years’ experience i
 
 Dave Rowe is an experienced software developer and creator of the award winning Libraries Hacked site.
 
-## 
-Partners and sponsors
+## Our sponsors
 
 HELibTech is generously sponsored by Technology from Sage, PTFS Europe and Ken Chad Consulting. It is through our sponsors on-going support that bursaries are provided for our Community Editors and that our site is hosted and maintained.
 
-The 2024 redevelopment of the site has also been possible through the support of the UKSG Innovation awards.
-
-## UKSG 2023 Innovation award winner
-
-HELibTech is a winner of a 2023 UKSG Innovation award which will be used to develop further site improvements including a much enhanced open resource of accurate data about systems and technologies deployed by libraries in UK HE institutions.
-
-![](/assets/images/uksg-logo.png)
+![](/assets/images/tehcnology-from-sage.jpg)
 
 
 
@@ -61,4 +54,16 @@ HELibTech is a winner of a 2023 UKSG Innovation award which will be used to deve
 
 ![](/assets/images/ken-chad-consulting-logo-300x57.png)
 
-![](/assets/images/tehcnology-from-sage.svg)
+## UKSG  Innovation award winner
+
+The redevelopment of our site has also been possible through the support of the UKSG Innovation awards of which we were a winner at the last awards in 2023
+
+
+
+![](/assets/images/uksg-logo.png)
+
+![]()
+
+![]()
+
+![]()

@@ -1,4 +1,11 @@
 ---
+priority_columns:
+  - Institution
+  - LMS Vendor
+  - Library Management System
+  - Discovery Solution
+  - Resource List Solution
+  - Digitisation platform
 has_children: false
 title: Who uses what library technology?
 tags:
@@ -21,13 +28,6 @@ layout: sheet
 parent: Who uses what
 sheet_id: 1rT5fbeJ72IWAbe58ywzK2D7zsMqLjSTIzFN_HWH7sDc
 filter_column: Institution
-priority_columns:
-  - Institution
-  - LMS Vendor
-  - Library Management System
-  - Discovery Solution
-  - Resource List Solution
-  - Digitisation platform
 ---
 # Who uses what library technology?
 
@@ -43,6 +43,9 @@ Here you can access data on which UK institution uses which library technology p
 * RFID equipment
 
 ### Missing data
+
+
+This data is continually updated. You can see the date last updated by going into the source data in the Google sheet.
 
 If your institution's information is incorrect or missing please complete our [updates form](https://docs.google.com/forms/d/e/1FAIpQLSfIjk1ECrL4IMTzSUGQ8C6QSCE79j9RQmQsuIiEE04yN-MHgQ/viewform) and we will amend the data in the table.
 

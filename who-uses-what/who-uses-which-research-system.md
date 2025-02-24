@@ -1,4 +1,10 @@
 ---
+priority_columns:
+  - Institution
+  - Institutional Repository (IR)
+  - Additional theses repository
+  - Research data solution
+  - Research management system/CRIS
 has_children: false
 title: Who uses which research system?
 tags:
@@ -18,12 +24,6 @@ layout: sheet
 parent: Who uses what
 sheet_id: 17WfzF_7dapuNRyUn0fw4tfxkPWhEZmn0aj7GJQAFcPM
 filter_column: Institution
-priority_columns:
-  - Institution
-  - Institutional Repository (IR)
-  - Additional theses repository
-  - Research data solution
-  - Research management system/CRIS
 ---
 # Who uses which research system?
 
@@ -35,7 +35,7 @@ Click on institution name below in order to see information on an institution’
 * Research data repository
 * CRIS / RIMS
 
-This data is correct as of Spring 2024.
+This data is continually updated. You can see the date last updated by going into the source data in the Google sheet.
 
 ### Missing data
 

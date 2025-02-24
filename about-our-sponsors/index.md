@@ -1,7 +1,7 @@
 ---
 title: About our sponsors
 tags: null
-published: false
+published: true
 layout: enhanced
 nav_order: 18
 has_children: false

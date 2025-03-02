@@ -995,3 +995,29 @@ collections:
           widget: "hidden",
           default: "Who uses what",
         }
+
+  - name: "helibtech_viewpoints"
+    label: "HELibTech Viewpoints"
+    folder: "helibtech-viewpoints"
+    create: true
+    filter:
+      field: parent
+      value: HELibTech Viewpoints
+    fields:
+      - *TITLE
+      - *META_TAGS
+      - *BODY
+      - *PUBLISHED
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "viewpoint",
+        }
+      }
+      - {
+          label: "Parent",
+          name: "parent",
+          widget: "hidden",
+          default: "HELibTech Viewpoints",
+        }

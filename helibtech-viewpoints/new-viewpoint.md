@@ -5,6 +5,7 @@ tags:
   - Archives
 published: true
 layout: viewpoint
-parent: HELibTech Viewpoints
+parent: HELibTech viewpoints
 ---
+
 Test viewpoint

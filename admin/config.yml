@@ -997,12 +997,12 @@ collections:
         }
 
   - name: "helibtech_viewpoints"
-    label: "HELibTech Viewpoints"
+    label: "HELibTech viewpoints"
     folder: "helibtech-viewpoints"
     create: true
     filter:
       field: parent
-      value: HELibTech Viewpoints
+      value: HELibTech viewpoints
     fields:
       - *TITLE
       - *META_TAGS
@@ -1018,5 +1018,5 @@ collections:
           label: "Parent",
           name: "parent",
           widget: "hidden",
-          default: "HELibTech Viewpoints",
+          default: "HELibTech viewpoints",
         }

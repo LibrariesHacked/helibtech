@@ -1014,7 +1014,6 @@ collections:
           widget: "hidden",
           default: "viewpoint",
         }
-      }
       - {
           label: "Parent",
           name: "parent",

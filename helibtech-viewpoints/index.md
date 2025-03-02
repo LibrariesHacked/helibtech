@@ -1,7 +1,7 @@
 ---
 title: HELibTech viewpoints
-tags:
-published: false
+tags: null
+published: true
 layout: enhanced
 nav_order: 5
 has_children: true

@@ -630,7 +630,7 @@ collections:
               label: "Has children",
               name: "has_children",
               widget: "hidden",
-              default: false,
+              default: true,
             }
 
   - name: "news_posts"
@@ -963,6 +963,26 @@ collections:
     filter:
       field: parent
       value: Who uses what
+    fields:
+      - *TITLE
+      - *META_TAGS
+      - *BODY
+      - *PUBLISHED
+      - *DEFAULT_LAYOUT
+      - {
+          label: "Parent",
+          name: "parent",
+          widget: "hidden",
+          default: "Who uses what",
+        }
+
+  - name: "about-our-sponsors"
+    label: "About our sponsors"
+    folder: "about-our-sponsors"
+    create: true
+    filter:
+      field: parent
+      value: About our sponsors
     fields:
       - *TITLE
       - *META_TAGS

@@ -30,28 +30,18 @@ Open source and proprietary are different ways to develop software and each has 
 
 #### Open Library Platforms
 
-Librarians are key stakeholders in terms of purchasing library technology. They typically
+Librarians are key stakeholders in terms of purchasing library technology. They typically define needs and set out requirements. Nowadays those requirements will define a broad ‘ecosystem’ - an open library platform - rather than a singular library system. Library platforms may be characterised as open source (like FOLIO and Koha) or proprietary (like Ex Libris Alma/Primo and OCLC WMS) but they all embrace open-source components and combine them with proprietary solutions. For example, a proprietary solution from Ex Libris will run in the cloud on an open-source operating system and will use other open-source components such as Elasticsearch. An open-source solution such as FOLIO or Koha will typically be implemented with a proprietary discovery service such as EBSCO’s EDS or Ex Libris Summon. If the library needs a reading/resource list solution to integrate with its open-source library system its only option is to buy a proprietary solution such as Aspire or KeyLinks. This combination of ‘internal’ built-in functionality and ‘external’ interoperability provides libraries with a potentially rich ecosystem.
 
-define needs and set out requirements. Nowadays those requirements will define a broad
+##### Sustainability and development
 
-‘ecosystem’ - an open library platform - rather than a singular library system. Library
+Many library systems, proprietary or open source have faded away or linger on with just a few remaining customers. Platforms require major investment and scale to succeed. Large scale library platforms with financial heft behind them will be more able to encompass strategic new developments like AI. Whether the solutions are proprietary or open source, that investment nowadays comes mainly from major library technology companies such as Ebsco or Clarivate. Libraries alone developing bespoke solutions or small communities developing open-source solutions find it difficult sustain or develop those solutions. For example, in the UK bespoke and open-source reading list solutions failed and have been replaced by proprietary solutions from major vendors. The Kuali open-source library system similarly failed after gaining just three customers. 
 
-platforms may be characterised as open source (like FOLIO and Koha) or proprietary (like Ex
+##### Functionality
 
-Libris Alma/Primo and OCLC WMS) but they all embrace open-source components and
+The term library services platform (LSP) was coined in 2011 by library consultant Marshall Breeding to describe a new generation of solutions and to differentiate them from older Integrated Library Systems (ILS)/Library Management Systems (LMS). A LSP typically does ‘the heavy lifting’ in terms of key functionality. It delivers the mission critical applications and workflows librarians need to support a wide range of library functions. This now goes beyond the core management and discovery of a library’s collection of print and electronic resources. The core platform can embrace resource sharing/ILL, resource list management and access, collection development tools, analytics and management of and access to the library’s own repositories for research outputs and digital collections/archives. Libraries may have differing views about what is core but It makes sense that these functions are tightly integrated into a single platform from a single provider. That delivers workflow efficiencies, improved analytic capabilities and support from a single helpdesk. It also means a richer basis for interoperability.
 
-combine them with proprietary solutions. For example, a proprietary solution from Ex Libris
+##### Interoperability
 
-will run in the cloud on an open-source operating system and will use other open-source
+In Breeding’s view view, a key justification for the term LSP was that ‘they enable the library to perform its services, internally and externally through their built-in functionality, as well as exposing a platform of Web services and other APIs for interoperability and custom development’. A pragmatic librarian will seek a solution that delivers the best open ecosystem. Through application programming interfaces (APIs) an open platform enables add-on functionality for example to support self-service devices, and integration with other institutional systems such as finance, the learning management system, student registry etc. The volume of traffic through these APIs can be significant. Ex Libris reports approaching 4 billion API calls in 2024. However to take advantage of APIs may still require technical expertise. This is not a question of open source or proprietary approaches to the library system. Few libraries have the technical capabilities develop their own add-on APIs based solutions. APIs may be technically ‘open’ but are effectively closed to all but the technically competent few. Interoperability can be facilitated through developer networks which provide the APIs together the necessary documentation and support. However membership of developer networks will remain for the ‘techies’. Lowering technical barriers makes platforms more open. This is why initiatives such as Ex Libris’s Open Workflows are significant: ‘Users can create customized workflows conveniently, with significantly less effort and cost.’  Such an approach can make a propriety system more open than one based on open source.
 
-components such as Elasticsearch. An open-source solution such as FOLIO or Koha will
-
-typically be implemented with a proprietary discovery service such as EBSCO’s EDS or Ex
-
-Libris Summon. If the library needs a reading/resource list solution to integrate with its
-
-open-source library system its only option is to buy a proprietary solution such as Aspire or
-
-KeyLinks. This combination of ‘internal’ built-in functionality and ‘external’ interoperability
-
-provides libraries with a potentially rich ecosystem.
+Resource sharing/ILL is a powerful example of the transformation benefits of interoperability. In the past interoperability between library systems from competing vendors was complex and rarely achieved. This is changing. A library using Alma/Primo can now interoperate with a library using a different system such as Sierra or FOLIO. A solution such as Rapido/RapidILL can enable a researcher or student to get a critical article in minutes even if it is not one subscribed to by the library.

@@ -12,7 +12,7 @@ This new section on HELibTech will offer thought pieces on issues pertinent to t
 
 If you would like to contribute an HELibTech viewpoint [get in touch](paulverlander@gmail.com)
 
-### Can a proprietary library system/platform be more open that an open source one?
+### [Can a proprietary library system/platform be more open that an open source one?](https://www.helibtech.com/helibtech-viewpoints/can-a-proprietary-library-system-platform-be-more-open-than-an-open-source-one)
 
 Ken Chad
 

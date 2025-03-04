@@ -1,6 +1,5 @@
 ---
-title: "Can a proprietary library system/platform be more open than an open
-  source one?Open library platforms - a pragmatic approach "
+title: Can a proprietary library system/platform be more open than an open source one?
 tags:
   - Library management systems
   - Library services platform
@@ -12,7 +11,9 @@ published: true
 layout: viewpoint
 parent: HELibTech viewpoints
 ---
-![](/assets/images/logo-viewpoints.svg)
+![]()
+
+## Can a proprietary library system/platform be more open than an open source one? Open library platforms - a pragmatic approach
 
 Ken Chad, Director Ken Chad Consulting Ltd. March 2025
 

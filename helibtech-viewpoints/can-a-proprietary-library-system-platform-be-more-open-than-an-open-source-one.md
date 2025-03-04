@@ -57,3 +57,15 @@ The scale and relevance of the community matters. A large community is likely to
 The pragmatic academic librarian reviewing the library technology marketplace today will have witnessed the move away from the ILS to the LSP. All LSPs are a mixture of open source and proprietary components. The core functionality on offer will be vital but, sustainability and development, interoperability and community will be key considerations.
 
 #### About Ken Chad
+
+![](/assets/images/ken-chad.gif)
+
+Ken gained his Masters Degree from the Information Science Department at City University in London. He is also an alumnus of the Warwick University Business School Business Innovation and Growth Programme. He has over 20 years software business experience and has worked at Executive Director/Board level.  His customers included a wide range of academic, research, college, public, corporate and national libraries in the UK and throughout the world. His consulting activities include work for businesses, academic institutions, the NHS, central and local government, sector bodies such as Jisc. He has published and presented widely on the strategic impact of technology-driven change ,library technology, research systems and ebooks. Ken is a member (MCLIP) of the Chartered Institute of Library and Information Professionals  (CILIP) and the American Library Association (ALA). He set up and manages a number of free, open community resources including Higher Education Library Technology (HELibTech).
+
+[Ken@kenchadconsulting.com](Ken@kenchadconsulting.com)
+
+LinkedIn profile: [www.linkedin.com/in/kenchad](www.linkedin.com/in/kenchad)
+
+ORCID ID: orcid.org/0000-0001-5502-6898
+
+Research Gate profile: [www.researchgate.net/profile/Ken_Chad](www.researchgate.net/profile/Ken_Chad)

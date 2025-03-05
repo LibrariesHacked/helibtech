@@ -10,14 +10,14 @@ tags:
   - Archives
 published: true
 layout: enhanced
-parent: Who uses what
+parent: About our sponsors
 ---
+
 ![](/assets/images/ptfs.png)
 
+A long-standing supporter of HELibTech, PTFS Europe are the leading provider of open source library software in the UK.
 
-A long-standing supporter of HELibTech, PTFS Europe are the leading provider of open source library software in the UK. 
-
- PTFS Europe work with open source software with the aim of making the technology easy to use and administer to help and enable library users. PTFS staff are an ISO27001 accredited company working exclusively UK with UK based staff.
+PTFS Europe work with open source software with the aim of making the technology easy to use and administer to help and enable library users. PTFS staff are an ISO27001 accredited company working exclusively UK with UK based staff.
 
 Current products available include:
 

@@ -993,7 +993,7 @@ collections:
           label: "Parent",
           name: "parent",
           widget: "hidden",
-          default: "Who uses what",
+          default: "About our sponsors",
         }
 
   - name: "helibtech_viewpoints"

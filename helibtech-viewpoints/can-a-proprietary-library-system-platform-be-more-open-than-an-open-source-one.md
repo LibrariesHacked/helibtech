@@ -1,5 +1,5 @@
 ---
-title: Can a proprietary library system/platform be more open than an open source one?
+title: Can a proprietary library system be more open than an open source one?
 tags:
   - Library management systems
   - Library services platform

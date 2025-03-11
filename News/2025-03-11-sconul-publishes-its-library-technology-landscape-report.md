@@ -1,5 +1,5 @@
 ---
-title: SCONUL publishes its Library Technology Landscape Report
+title: SCONUL publishes its Library Technology Landscape Survey Report
 date_added: 2025-03-05T12:00:00.000Z
 synopsis: >-
   SCONUL has published its Library Technology Landscape Report both scoping the
@@ -8,6 +8,9 @@ synopsis: >-
 
 
   This will likely prove a useful tool for librarians considering changes to their existing technology architecture and platforms. Note however that the survey was limited to some 96 institutions. For a more comprehensive overview of the products used in the sector, please refer to the [Who Uses What ](https://www.helibtech.com/who-uses-what/)section of HELibTech which includes details of solutions used by over 180 institutions.
+
+
+  Read the full report [here](https://www.sconul.ac.uk/knowledge-hub/library-technologies/the-library-technology-landscape/)
 tags:
   - Library systems
 published: true

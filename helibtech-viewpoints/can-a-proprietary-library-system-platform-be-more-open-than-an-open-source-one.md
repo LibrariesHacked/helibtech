@@ -19,6 +19,8 @@ Ken Chad, Director Ken Chad Consulting Ltd. March 2025
 
 ***Can a proprietary library system/platform be more open than an open source one?*** 
 
+(a [PDF version of this viewpoint is available here](https://www.kenchadconsulting.com/wp-content/uploads/2025/03/Open-Library-Systems-Ken-Chad-March-2025.pdf))
+
 #### Preamble
 
 In 2024 I attended the International Group of Ex Libris customers (IGeLU) conference and a short while after I attended the World Open Library Foundation Conference (WOLFCon). They both helped me reflect on the nature of open library systems/platforms. It was interesting to note that Ebsco the major funder of the open source Folio library system attended IGeLU and Clarivate (home of Ex Libris) attended WOLFCon.
@@ -83,77 +85,11 @@ ALA TechSource Volume 51, Number 4 2015. https://journals.ala.org/ltr/issue/down
 
 \[10] OCLC Community Center. OCLC August 2023. https://help.oclc.org/Librarian_Toolbox/OCLC_Community_Center 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
 [ ](https://journals.ala.org/index.php/ltr/article/view/6407/8456)
 
 [](https://journals.ala.org/index.php/ltr/article/view/6407/8456)
 
 [](https://journals.ala.org/index.php/ltr/article/view/6407/8456)
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #### About Ken Chad
 

@@ -1,5 +1,5 @@
 ---
-title: Can a proprietary library system be more open than an open source one?
+title: Open library platforms - a pragmatic approach
 tags:
   - Library management systems
   - Library services platform

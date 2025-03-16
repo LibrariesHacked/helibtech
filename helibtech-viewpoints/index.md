@@ -1,6 +1,9 @@
 ---
 title: HELibTech viewpoints
-tags: null
+tags:
+  - LSP
+  - Library management systems
+  - Library services platform
 published: true
 layout: enhanced
 nav_order: 5

@@ -9,7 +9,24 @@ published: true
 ---
 # Artificial intelligence: useful resources
 
-Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of artificial intelligence:[](https://nationalcentreforai.jiscinvolve.org/wp/2024/03/04/generative-ai-primer/)
+Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of artificial intelligence:
+
+
+
+#### Generative AI and the  future of library services 
+
+Opportunities and challenges in a changing technology environment.  Clarivate white paper. March 2024
+
+Link to sign up to receive a PDF. [Download the paper ](https://discover.clarivate.com/Generative_AI_and_the_future_of_library_services?)
+
+From the paper
+"According to the 2024 Pulse of the Library report, over 60% of libraries are evaluating or planning for artificial intelligence integration, with 43% prioritizing AI-powered tools for patrons in the coming year. Key objectives include supporting student learning (52%), promoting research excellence (47%), and enhancing content discoverability (45%).
+
+Despite this enthusiasm, librarians report significant hurdles. About 47% of respondents identified shrinking budgets as a primary concern, while 52% pointed to a skills gap, noting the need for upskilling in AI competencies. Additionally, 32% reported a lack of available training opportunities. These challenges emphasize the need for strategic planning and collaboration within the library community to effectively implement AI solutions.
+
+The consensus is that, for the foreseeable future, humans and AI will work in tandem to boost productivity, enhance decision-making, and drive innovation. In library environments, this partnership is already evident, with AI assisting in tasks such as resource discovery, metadata management, and personalized learning support while librarians provide critical oversight, ethical guidance and domain expertise. The stakes are high for libraries. They are trusted sources of knowledge, offering access to high-quality, scholarly, and scientific data. That trust has been built over hundreds of years of standards that outline meticulous selection and indexing of collections, ensuring users engage with authoritative and reliable academic resources. To maintain that trust, libraries must harness AI’s power responsibly. This involves not only adopting AI tools but also actively shaping how they are used, ensuring they align with core values of accuracy, inclusivity and academic integrity. "
+
+[](https://nationalcentreforai.jiscinvolve.org/wp/2024/03/04/generative-ai-primer/)
 
 [A Generative AI Primer](https://nationalcentreforai.jiscinvolve.org/wp/2024/03/04/generative-ai-primer/)
 

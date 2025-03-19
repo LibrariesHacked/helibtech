@@ -17,6 +17,9 @@ synopsis: >-
 
 
   More details can be found [here](https://blog.springshare.com/2025/03/14/libguides-libanswers-libcal-and-libstaffer-features-coming-your-way-3/)
+tags:
+  - Data & analytics
+  - Engagement
 published: true
 layout: news
 parent: News

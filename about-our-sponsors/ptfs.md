@@ -1,5 +1,5 @@
 ---
-title: PTFS
+title: PTFS Europe
 tags:
   - Library management systems
   - Library services platform

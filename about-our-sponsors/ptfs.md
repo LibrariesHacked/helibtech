@@ -28,8 +28,7 @@ Current products available include:
 
 The most widely used library management system with over 15000 systems, Koha open source LMS is developed by libraries. PTFS Europe offer hosting of Koha through a web-based client. As most PTFS Europe Koha customers do not have dedicated systems staff, hosting is designed to reflect this offering lightweight administration and focused customer support.
 
-To find out more you can visit PTFS Europe’s [Koha product page](https://ptfs-europe.com/products/koha-lms/)
-and about open source library systems and Koha on HELibTech [here](https://www.helibtech.com/core-library-systems/open-source-systems)
+To find out more you can visit PTFS Europe’s [Koha product page ](https://ptfs-europe.com/products/koha-lms/)and H[ELibTech's open source library systems and Koha page.](https://www.helibtech.com/core-library-systems/open-source-systems)
 
 [](https://www.helibtech.com/core-library-systems/open-source-systems)
 

@@ -22,8 +22,6 @@ PTFS Europe is an ISO 27001 accredited company based in the UK, with an active r
 
 Current products available include:
 
-
-
 ### Koha Library Management System
 
 The most widely used library management system with over 15000 systems, Koha open source LMS is developed by libraries. PTFS Europe offer hosting of Koha through a web-based client. As most PTFS Europe Koha customers do not have dedicated systems staff, hosting is designed to reflect this offering lightweight administration and focused customer support.
@@ -51,9 +49,7 @@ Knowvation, formerly known as ArchivalWare is the archival management system PTF
 
 To find out more, you can visit PTFS Europe’s [Knowvation product page](https://ptfs-europe.com/products/knowvation/) and [HELibTech's archival management page.](https://www.helibtech.com/archives-and-special-collections/)
 
-### [](https://www.helibtech.com/archives-and-special-collections/)
-
-Metabase Business Intelligence Tool
+### Metabase Business Intelligence Tool
 
 Metabase is an open source web based intelligence and analytics system to enable analysis and reporting of library metrics offering customisable dashboards and reports to monitor specific aspects of library activity. [](https://ptfs-europe.com/products/metabase/)
 

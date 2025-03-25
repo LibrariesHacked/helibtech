@@ -94,7 +94,7 @@ Time: 10-11am (EDT) / 3-4pm (BST)
 
 Location: Zoom
 
-![](/assets/images/ll-banner.png)
+![](/assets/images/lean-library-lightbulb.png)
 
 Join the introductory webinar on Lean Library Workspace: An upcoming new offering from Lean Library that goes beyond the content discovery and access parts of research workflows to reference management, collaboration and authoring with ease – while bringing actionable insights back to the library.
 

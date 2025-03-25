@@ -16,7 +16,7 @@ The introduction of discovery solutions was driven by the need to aggregate the 
 
 The reality is of course that many users will still begin their online resource discovery journey outside of the library which can lead to them discovering their library's subscribed content from Google searching only to be met by a paywall.
 
-To this end a number of products are available both free and subscribed to aid the surfacing of library subscriptions
+To this end a number of products are available, both free and subscribed, to aid the surfacing of library subscriptions
 
 #### Browser extensions
 

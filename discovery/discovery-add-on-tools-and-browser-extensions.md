@@ -10,7 +10,7 @@ parent: Discovery
 
 Ensuring students and academic staff make best use of subscribed resources can be a continual struggle for libraries. This is particular pertinent in a climate where subscription costs are ever increasing at a time where library budgets are continuously squeezed. This often leads to the challenging situation where course leaders and designers believe particular subscription resource are "core" to student learning but real world usage fails to justify continual subscription.
 
-The introduction of discovery solutions was driven by the need to aggregate the increasingly complex and disparate array of library subscriptions into a single searchable platform to aid users' easy navigation - replicating a "Google-like" search experience. However, however effective discovery solutions may be, their success is based on users starting their discovery journey from the library's platform.
+The introduction of discovery solutions was driven by the need to aggregate the increasingly complex and disparate array of library subscriptions into a single searchable platform to aid users' easy navigation - replicating a "Google-like" search experience. Nevertheless, however effective discovery solutions may be, their success is based on users starting their discovery journey from the library's platform.
 
 ### Accessing subscribed content "outside" of the library
 

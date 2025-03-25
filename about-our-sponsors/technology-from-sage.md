@@ -46,8 +46,6 @@ Technology from Sage. 
 
 ### Lean Library
 
-
-
 ![](/assets/images/ll-banner.png)
 
 Lean Library is designed to embed library content and services directly into users’ online workflows regardless of where they are searching - Google Scholar, PubMed, ChatGPT, or beyond. Through the Lean Library browser extension, Lean Library is designed to surface library resources and Open Access content at users’ point of need with a view to simplifying the research process and enhance access. 
@@ -67,7 +65,7 @@ Contact Technology from Sage to [request a demo of Lean Library](http://www.tech
 For further questions, please contact [Nicola Langford](mailto:mailtoNicola.Langford@technologyfromsage.com), Director of Development at
 Technology from Sage.  
 
-### Librarian Futures 
+### Librarian Futures
 
 ![](/assets/images/librarian-futures-reports-banner-1000-x-333-px-.png)
 
@@ -81,9 +79,10 @@ relationships in the digital age, and the ever-changing role of the academic lib
 Register your interest now to receive the upcoming fourth Librarian Futures report, on how academic libraries can be frontiers in the use of AI in Higher Education. The report will share findings from a mass survey of over 1,200 global librarians and students on AI and the library.
 
 Complete the form below to receive the report when it is published in May
-2025.
 
 [Sign up for the report](https://forms.office.com/r/YnuScFWfVe)
+
+[](https://forms.office.com/r/YnuScFWfVe)
 
 ### Webinars & Events
 
@@ -91,63 +90,12 @@ Introducing Lean Library Workspace: Putting Your Library at the Heart of Every R
 
 Date: April 29, 2025
 
-Time: 10-11am (EDT) | 3-4pm (BST)
+Time: 10-11am (EDT) / 3-4pm (BST)
 
 Location: Zoom
 
-![](/assets/images/lean-library-illustration_smaller.png)
+![](/assets/images/ll-banner.png)
 
 Join the introductory webinar on Lean Library Workspace: An upcoming new offering from Lean Library that goes beyond the content discovery and access parts of research workflows to reference management, collaboration and authoring with ease – while bringing actionable insights back to the library.
 
 [Register here](https://us06web.zoom.us/webinar/register/8017413665004/WN_dUChLwoWQVOxIv0d0Rc-mA#/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-###

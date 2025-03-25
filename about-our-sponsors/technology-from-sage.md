@@ -1,5 +1,9 @@
 ---
 title: Technology from Sage
+tags:
+  - Discovery
+  - Reading lists
+  - Resource lists
 published: true
 layout: enhanced
 parent: About our sponsors

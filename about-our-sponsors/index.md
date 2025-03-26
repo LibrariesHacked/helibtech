@@ -14,7 +14,7 @@ HELibTech is sponsored by PTFS Europe, Technology from Sage and Ken Chad Consult
 
 Find out more about our the products and services our sponsors offer on the pages in this section.
 
-![](/assets/images/ptfs.png)
+![](/assets/images/open-fifth-branding-final-b-w-cropped-1-.png)
 
 ![](/assets/images/tehcnology-from-sage.jpg)
 

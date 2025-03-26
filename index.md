@@ -48,17 +48,13 @@ HELibTech is generously sponsored by Technology from Sage, PTFS Europe and Ken C
 
 ![](/assets/images/tehcnology-from-sage.jpg)
 
-
-
-![](/assets/images/ptfs.png)
+![](/assets/images/open-fifth-branding-final-b-w-cropped-1-.png)
 
 ![](/assets/images/ken-chad-consulting-logo-300x57.png)
 
 ## UKSG  Innovation award winner
 
 The redevelopment of our site has also been possible through the support of the UKSG Innovation awards of which we were a winner at the last awards in 2023
-
-
 
 ![](/assets/images/uksg-logo.png)
 

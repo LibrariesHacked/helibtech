@@ -10,7 +10,7 @@ has_children: true
 
 The maintenance and development of HELibTech would not be possible without the generous on-going support of our sponsors.
 
-HELibTech is sponsored by Open Fifth (formerly PTFS Europe), Technology from Sage and Ken Chad Consulting.
+HELibTech is sponsored by Open Fifth Open Source Library Solutions (formerly PTFS Europe), Technology from Sage and Ken Chad Consulting.
 
 Find out more about our the products and services our sponsors offer on the pages in this section.
 

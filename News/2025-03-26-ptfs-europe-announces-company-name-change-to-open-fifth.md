@@ -23,6 +23,12 @@ synopsis: >-
 
 
   You can find out more in the [Open Fifth press release](https://ptfs-europe.com/openfifth_docs/OpenFifthPressRelease.pdf)
+tags:
+  - LMS
+  - Library management systems
+  - LSP
+  - Library services platform
+  - Library systems
 published: true
 layout: news
 parent: News

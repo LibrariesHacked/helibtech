@@ -3,11 +3,11 @@ title: Resource sharing
 tags:
   - Interlending
   - Resource sharing
+published: true
 layout: enhanced
 nav_order: 5
 parent: Resource sharing and interlending
 ---
-
 # Resource Sharing between libraries
 
 A new Resource Sharing landscape is emerging with several providers offering new resource sharing solutions facilitating peer to peer document supply and lending between participating institutions.
@@ -70,29 +70,9 @@ OpenRS will be an Open Library Foundation (OLF) project which operates with an o
 
 ### WHELF+
 
-[WHELF+ Interlending Scheme:](https://whelf.ac.uk/the-whelf-interlending-scheme/) “In January 2018, WHELF members came together to launch a scheme of free, reciprocal, inter-library borrowing. This was made possible by our shared use of the Ex-Libris Alma Library Management System, which allows us to use core system functionality to lend print and digital resources to each other, free of charge. The scheme has been an amazing success, in 2022 the member libraries saved over £44K in total. As well as the undoubted financial benefit, it has also led to much greater co-operation and knowledge sharing between participating institutions.The scheme proved so successful, that in 2021, with the backing of Ex-Libris and the British Library, we began rolling out membership to non-WHELF institutions (hence the ‘+’ in ‘WHELF+’!). There are now nearly twenty institutions, covering a good geographical spread and a wide range of teaching and research specialities, reaping the benefits of WHELF+ membership; and, with more institutions expressing an interest in joining, and the potential of using new Alma functionality to automate processes further, the scheme has a bright future.”
+[WHELF+ Interlending Scheme](https://whelf.ac.uk/the-whelf-interlending-scheme/): “In January 2018, WHELF members came together to launch a scheme of free, reciprocal, inter-library borrowing. This was made possible by our shared use of the Ex-Libris Alma Library Management System, which allows us to use core system functionality to lend print and digital resources to each other, free of charge. The scheme has been an amazing success, in 2024 the member libraries saved over £136K in total. As well as the undoubted financial benefit, it has also led to much greater co-operation and knowledge sharing between participating institutions. The scheme proved so successful that in 2021, with the backing of Ex-Libris and the British Library, we began rolling out membership to non-WHELF institutions (hence the ‘+’ in ‘WHELF+’!). There are now over thirty institutions, covering a good geographical spread and a wide range of teaching and research specialities, reaping the benefits of WHELF+ membership; and, with more institutions expressing an interest in joining, and the potential of using new Alma functionality to automate processes further, the scheme has a bright future.”
 
-#### Current WHELF+ members:
-
-- Aberystwyth University
-- Bangor University
-- Cardiff Metropolitan University
-- Cardiff University
-- Harper Adams University
-- Kingston University
-- London School of Economics
-- Natural History Museum
-- Northumbria University
-- Swansea University
-- University of Cumbria
-- University of Leeds
-- University of Liverpool
-- University of Salford
-- University of South Wales
-- University of Wales Trinity Saint David
-- University of Westminster
-- University of Winchester
-- Wrexham University
+For an up-to-date list of member libraries, please see the [WHELF website](https://whelf.ac.uk/the-whelf-interlending-scheme/).
 
 ### ISO ILL compliant LMS
 

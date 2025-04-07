@@ -13,6 +13,7 @@ layout: minimal
 
 <script src="https://cdn.jsdelivr.net/npm/html3pdf@0.12.2/dist/html3pdf.bundle.min.js"
   integrity="sha256-CttAYs7jo+fs0yMnTXCIkRTa8hOPrQj1JzAC71doUbw=" crossorigin="anonymous"></script>
+
 <script>
   function printPDF() {
     var fileName = window.location.pathname.split('/').pop();
@@ -27,7 +28,7 @@ layout: minimal
       pagebreak: { mode: ['avoid-all', 'css', 'legacy'] }
     };
     html3pdf(element, opt);
-  }
+  };
 </script>
 
 <div class="pdf-print">

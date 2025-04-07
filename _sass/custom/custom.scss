@@ -60,3 +60,19 @@ table.display td {
     font-size: 0.9rem !important;
   }
 }
+
+.pdf-print {
+  display: block;
+  text-align: center;
+  button {
+    background-color: #1565c0;
+    border: 1px solid #1565c0;
+    color: white;
+    border-radius: 3px;
+    padding: 1em;
+    margin: 1em;
+    font-weight: bold;
+    font-size: 1.2em;
+    cursor: pointer;
+  }
+}

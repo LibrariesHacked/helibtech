@@ -11,18 +11,12 @@ layout: minimal
 
 {% include components/tags.html %}
 
-<div class="pdf-print">
-  <!-- Add a link button to run the printPDF function with the current URL -->
-  <button onclick="printPDF()">Download as PDF</button>
-</div>
-
 <script src="https://cdn.jsdelivr.net/npm/html3pdf@0.12.2/dist/html3pdf.bundle.min.js"
   integrity="sha256-CttAYs7jo+fs0yMnTXCIkRTa8hOPrQj1JzAC71doUbw=" crossorigin="anonymous"></script>
-
 <script>
   function printPDF() {
-    var fileName = window.location.pathname.split('/').pop()
-    const element = document.getElementsByClassName('viewpoint')[0]
+    var fileName = window.location.pathname.split('/').pop();
+    const element = document.getElementsByClassName('viewpoint')[0];
     const opt = {
       // Use A4 margins
       margin: 10,
@@ -31,7 +25,12 @@ layout: minimal
       html2canvas: { scale: 2 },
       jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' },
       pagebreak: { mode: ['avoid-all', 'css', 'legacy'] }
-    }
-    html3pdf(element, opt)
+    };
+    html3pdf(element, opt);
   }
 </script>
+
+<div class="pdf-print">
+  <!-- Add a link button to run the printPDF function with the current URL -->
+  <button onclick="printPDF();">Download as PDF</button>
+</div>

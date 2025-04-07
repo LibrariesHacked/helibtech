@@ -3,12 +3,7 @@ layout: minimal
 ---
 
 <div class="viewpoint">
-  <div>
-    <img src="{{ site.baseurl }}/assets/images/logo-viewpoints.svg" width="300px"
-      alt="Logo showing an eye and the the text HELibTech Viewpoints" />
-
-    {{ content }}
-  </div>
+  {{ content }}
 </div>
 
 {% include components/tags.html %}
@@ -23,7 +18,8 @@ layout: minimal
       filename: `${fileName}.pdf`,
       image: { type: 'jpeg', quality: 0.98 },
       html2canvas: { scale: 2 },
-      jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
+      jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' },
+      pagebreak: { mode: ['avoid-all', 'css', 'legacy'] }
     };
     html3pdf(element, opt);
   };

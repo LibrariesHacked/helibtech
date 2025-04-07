@@ -17,9 +17,8 @@ layout: minimal
 <script>
   function printPDF() {
     var fileName = window.location.pathname.split('/').pop();
-    const element = document.getElementsByClassName('viewpoint')[0];
-    const opt = {
-      // Use A4 margins
+    var element = document.getElementsByClassName('viewpoint')[0];
+    var opt = {
       margin: 10,
       filename: `${fileName}.pdf`,
       image: { type: 'jpeg', quality: 0.98 },

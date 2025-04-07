@@ -11,13 +11,12 @@ published: true
 layout: viewpoint
 parent: HELibTech viewpoints
 ---
-![]()
 
 ## Open library platforms - a pragmatic approach
 
 Ken Chad, Director Ken Chad Consulting Ltd. March 2025
 
-***Can a proprietary library system/platform be more open than an open source one?*** 
+**_Can a proprietary library system/platform be more open than an open source one?_**
 
 (a [PDF version of this viewpoint is available here](https://www.kenchadconsulting.com/wp-content/uploads/2025/03/Open-Library-Systems-Ken-Chad-March-2025.pdf))
 
@@ -65,7 +64,7 @@ The pragmatic academic librarian reviewing the library technology marketplace to
 
 \[1] Finding out about Library automation. CLSI publications. 1990 (?)
 
-\[2] BIC’s battle of the library systems! Open v Proprietary. Book Industry Communication. 28th November 2012. https://www.bic.org.uk/files/pdfs/Speaker%20biogs.final.pdf 
+\[2] BIC’s battle of the library systems! Open v Proprietary. Book Industry Communication. 28th November 2012. https://www.bic.org.uk/files/pdfs/Speaker%20biogs.final.pdf
 
 \[3] See the ‘defunct reading lists’ section of Higher Education Library Technology: https://www.helibtech.com/learning-and-teaching/reading-and-resource-lists
 
@@ -81,9 +80,9 @@ ALA TechSource Volume 51, Number 4 2015. https://journals.ala.org/ltr/issue/down
 
 \[8] Ex Libris launches Library Open Workflows Development Partnership Program. Marshall Breeding. Library Technology Guides. 14 January 2025 https://librarytechnology.org/pr/30919/ex-libris-launches-library-open-workflows-development-partnership-program
 
-\[9] Ex Libris Idea Exchange. https://ideas.exlibrisgroup.com/  
+\[9] Ex Libris Idea Exchange. https://ideas.exlibrisgroup.com/
 
-\[10] OCLC Community Center. OCLC August 2023. https://help.oclc.org/Librarian_Toolbox/OCLC_Community_Center 
+\[10] OCLC Community Center. OCLC August 2023. https://help.oclc.org/Librarian_Toolbox/OCLC_Community_Center
 
 [ ](https://journals.ala.org/index.php/ltr/article/view/6407/8456)
 

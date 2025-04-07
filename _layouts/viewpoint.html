@@ -15,7 +15,7 @@ layout: minimal
 <script>
   function printPDF() {
     var fileName = window.location.pathname.split('/').pop();
-    var element = document.getElementsByClassName('viewpoint')[0];
+    var element = document.getElementsByClassName('main-content')[0];
     var opt = {
       margin: 10,
       filename: `${fileName}.pdf`,

@@ -15,7 +15,7 @@ has_children: true
 NOTE: Product descriptions are not necessarily unbiased. They are taken from a mixture of vendor, library and other websites 
 If you would like to **contribute to HELibTech please send us your content** via our [content submission form](https://forms.gle/UmtXM59GMVpq1uMr5). Alternatively feel free to contact [Paul Verlander (](https://www.helibtech.com/paulverlander@gmail.com)HELibTech Community Editor) to discuss further.
 
-# AI capabilities that are part of library technology products such as library systems. 
+# AI capabilities that are part of library technology products such as library systems.
 
 ## Discovery
 
@@ -26,7 +26,6 @@ If you would like to **contribute to HELibTech please send us your content** via
 *"The Primo Research Assistant offers a new way of searching by combining the power of generative AI with intuitive conversational discovery. Say goodbye to clunky keyword searches and Boolean queries! Now, users can engage in natural language conversations with our Primo Research Assistant to uncover trusted library materials.*
 
  *Based on a RAG (Retrieval Augmented Generation) architecture and grounded in the extensive Ex Libris CDI ([Central Discovery Index](https://exlibrisgroup.com/products/primo-discovery-service/content-index/)), Primo Research Assistant provides a starting point to users for their research, including source referencing and appropriate attribution for the authors. Searching with the Primo Research Assistant surfaces an overview based on information from library sources. Those sources..... making it easy for users to click and continue their research and learning journey, explore more results, refine their original query, or pursue a suggested related research question."*
-
 
 ### TDNet
 
@@ -52,15 +51,13 @@ EBSCO Information Services Introduces Artificial Intelligence Beta Program ([pre
 
 *"What is the AI Metadata Assistant? The AI Metadata Assistant uses a Large Language Model generative AI to process information about a library resource and suggest relevant metadata to the cataloger to help make the cataloging process quicker and more efficient. The cataloger can then review the suggested data and accept, correct or dismiss it, as well as add more complex, expert metadata and library-specific metadata. The AI Metadata Assistant can process images of a library resource along with other provided information, extract the text and meaning, and return it structured according to cataloging standards. It can be used for creating new bibliographic records, as well as enriching existing brief records. Phase Iof Alma’s AI Metadata Assistant supports creating and enriching MARC 21records in the English language – more cataloging and resource languages and formats will be added in future phases, as we work with the community to evaluate the AI’s capabilities and quality of metadata. The subjects provided are validated against Library of Congress vocabularies, with plans to increase the selection of authority vocabularies in future phases.*
 
-#### ***Specto**, a digital collection platform*
+#### **\*Specto**, a digital collection platform*
 
 *"Helps institutions manage digital objects, including images and texts. It integrates AI to simplify metadata creation and automate classification, improving discovery and cataloging efficiency. "* [Harnessing Academic AI – Insights from Clarivate](https://exlibrisgroup.com/announcement/latest-news-harnessing-academic-ai-insights-from-clarivate/)
 
-## [](https://exlibrisgroup.com/announcement/latest-news-harnessing-academic-ai-insights-from-clarivate/)
 OCLC 
 
 #### WorldCat
-
 
 From: Implementing AI to further scale and accelerate WorldCat de-duplication. OCLC announcement 04 February 2025. https://www.oclc.org/en/news/announcements/2025/ai-worldcat-deduplication.html
 
@@ -71,7 +68,6 @@ From: Implementing AI to further scale and accelerate WorldCat de-duplication. O
 ### [ChatGPT](https://openai.com/index/chatgpt/) 
 
 *"ChatGPT is a generative artificial intelligence chatbot developed by OpenAI and launched in 2022. It is currently based on the GPT-4o large language model (LLM). ChatGPT can generate human-like conversational responses and enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. It is credited with accelerating the AI boom, which has led to ongoing rapid investment in and public attention to the field of artificial intelligence (AI)" Wikipedia*(https://en.wikipedia.org/wiki/ChatGPT 
-
 
 ### [Consensus](https://consensus.app/)
 
@@ -88,11 +84,11 @@ the most relevant papers and generates a summary of key findings.  It also inc
 
 *"Elicit, developed by Ought, is an AI tool to find 'seed articles' and to  mine for keywords/subject headings.  When you enter a question, it returns alternate questions that can lead to further "seed" articles."*
 
-### [**Enago** Read](https://www.read.enago.com/) 
+### [**Enago** Read](https://www.read.enago.com/)
 
 *"Simplifies literature reviews by delivering smart AI-driven summaries, key insights, real-time discovery, and a copilot that empowers you to master the literature with superhuman speed."*
 
-### [Grammarly](https://www.grammarly.com/) 
+### [Grammarly](https://www.grammarly.com/)
 
 *"Responsible AI that ensures your writing and reputation shine. Work with an AI writing partner that helps you find the words you need⁠—⁠to write that tricky email, to get your point across, to keep your work moving.*
 
@@ -129,12 +125,11 @@ https://www.brookes.ac.uk/library/how-to/use-ai-tools-for-research?utm_source=ch
 
 *"Scite is a wide-ranging AI-supported tool. Its core feature is identifying and classifying citations based on whether the text surrounding them supports the cited work, is in contrast to it, or merely mentions it in passing. This allows it to factor this into citation-based searches and metrics, in a way that is not possible with most citation databases and may mean you get more relevant and useful results. Scite also offers an AI "search assistant", which tries to generate an answer to a question with citations to supporting literature. This is generally of good quality, and it is good for a summary overview, but should be treated with caution - it may have omissions and inaccuracies, and we would not recommend using it as your only search method. AI assistant tools like this often select the papers to highlight in a very idiosyncratic way and may miss key papers."*
 
-### [ScholarAI](https://scholarai.io/) 
+### [ScholarAI](https://scholarai.io/)
 
 *"Find, analyze, and organize academic papers with ease. Streamline your research, boost productivity, and gain insights faster with ScholarAI. Find over 200M+ peer-reviewed papers in seconds with AI-driven search and personalized recommendations. ScholarAI makes discovering reliable research fast and easy."*
 
 ### [SciSpace](https://typeset.io/)
-
 
 From [Oxford Brookes University](Oxford%20Brookes%20University) <https://www.brookes.ac.uk/library/how-to/use-ai-tools-for-research?utm_source=chatgpt.com>
 *"Combining literature search capabilities with summarization features, SciSpace helps researchers quickly
@@ -144,6 +139,24 @@ assess the relevance of academic papers. "*[](https://www.brookes.ac.uk/library/
 
 *"Semantic Scholar provides free, AI-driven search and discovery tools, and open resources
 for the global research community. We index over 200 million academic papers sourced from [publisher partnerships](https://www.semanticscholar.org/about/publishers), data providers, and web crawls. With Semantic Scholar, researchers can understand a paper at a glance. Our system extracts meaning and identifies connections from within papers, then surfaces these insights to help Scholars discover and understand research."*
+
+## AI for user insights
+
+### [AkroNova: AI-Powered User Insights](https://www.kenchadconsulting.com/akronova/)
+
+The voice of the user is critical input into the process of sustaining and transforming services. However current methods of gathering user insights can be:
+
+* Resource intensive
+* Time intensive.
+* Expensive
+* Inadequate
+
+There is now a smarter AI powered way to understand your users. An easier, immediate risk-free approach. For example, design, set-up and undertake a focus group and review insightful outputs in less than 60 minutes. It’s this simple…
+
+1. Define the ‘audiences’ that you want to engage with
+2. Automatically generate rich individual personas based on your audience
+3. Start asking questions
+4. Refine your questions depending on the user feedback
 
 ##  Understanding AI
 
@@ -181,11 +194,9 @@ Smith, A. (2016). Big Data Technology, Evolving Knowledge Skills and Emerging Ro
 
 *"A large language model (LLM) is a type of machine learning model designed for natural language processing tasks such as language generation. LLMs are language models with many parameters, and are trained with self-supervised learning on a vast amount of text. The largest and most capable LLMs are generative pretrained transformers (GPTs). Modern models can be fine-tuned for specific tasks or guided by prompt engineering. These models acquire predictive power regarding syntax, semantics, and ontologies inherent in human language corpora, but they also inherit inaccuracies and biases present in the data they are trained in".* (Wikipedia)
 
-#### 
 [Retrieval-Augmented Generation](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) 
 
 (RAG) is a technique that grants [generative artificial intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) models [information retrieval](https://en.wikipedia.org/wiki/Information_retrieval) capabilities. It modifies interactions with a [large language model](https://en.wikipedia.org/wiki/Large_language_model) (LLM) so that the model responds to user queries with reference to a specified set of documents, using this information to augment information drawn from its own vast, static [training data](https://en.wikipedia.org/wiki/Training_data). This allows LLMs to use domain-specific and/or updated information.[](https://en.wikipedia.org/wiki/Retrieval-augmented_generation#cite_note-Survey-1) Use cases include providing chatbot access to internal company data or giving factual information only from an authoritative source. (Wikipedia)[](https://en.wikipedia.org/wiki/Retrieval-augmented_generation#cite_note-AWS-2)
-
 
 #### Natural language processing
 

@@ -1,11 +1,14 @@
 ---
 title: Research management
+published: true
 layout: enhanced
 nav_order: 14
 has_children: true
 ---
-
 # Research management
+
+
+(See also the page on **[who uses what research system)](<>)**
 
 This section provides information on the systems that Higher Education institutions use to manage the research lifecycle. These are primarily:
 
@@ -21,9 +24,9 @@ Institutions may use a single IR to manage publications and data. However, due t
 
 The two terms are used largely interchangeably within the market. CRIS or RIMS are used to manage the full research lifecycle to include all institutional information relating to resaerch in one place. They may include interlinked metadata relating to:
 
-- Researcher profiles
-- Grant applications / awards
-- Publications
-- Supporting information on research impact / research environment
-- Teaching responsibilities
-- Interoperability is at the heart of such systems with most providing data exchange between other institutional systems such as HR, finance and project management systems. Some systems may provide integrative institutional repository functions whilst others will offer interoperability with third party IR solutions.
+* Researcher profiles
+* Grant applications / awards
+* Publications
+* Supporting information on research impact / research environment
+* Teaching responsibilities
+* Interoperability is at the heart of such systems with most providing data exchange between other institutional systems such as HR, finance and project management systems. Some systems may provide integrative institutional repository functions whilst others will offer interoperability with third party IR solutions.

@@ -4,12 +4,15 @@ tags:
   - Institutional repository
   - IR
   - Research management
+published: true
 layout: enhanced
 nav_order: 3
 parent: Research management
 ---
-
 # Institutional repositories
+
+
+(See also the page on **[who uses what research system)](<>)**
 
 An institutional repository is an online publications archive for collating and disseminating the academic output of a higher education institution.
 

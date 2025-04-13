@@ -17,6 +17,14 @@ layout: minimal
     var fileName = window.location.pathname.split('/').pop();
     var element = document.getElementsByClassName('main-content')[0];
     var elementClone = element.cloneNode(true);
+    var main = elementClone.children[0];
+    for (var i = 0; i < main.children.length; i++) {
+      var child = main.children[i];
+      if (!child.classList.contains('viewpoint')) {
+        child.remove();
+        i--;
+      }
+    }
     var opt = {
       margin: 10,
       filename: `${fileName}.pdf`,

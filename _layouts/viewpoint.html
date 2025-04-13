@@ -16,6 +16,15 @@ layout: minimal
   function printPDF() {
     var fileName = window.location.pathname.split('/').pop();
     var element = document.getElementsByClassName('main-content')[0];
+    var elementClone = element.cloneNode(true);
+    // Loop through the children of elementClone
+    for (var i = 0; i < elementClone.children.length; i++) {
+      // Remove the node if the class is not "viewpoint"
+      if (!elementClone.children[i].classList.contains('viewpoint')) {
+        elementClone.removeChild(elementClone.children[i]);
+        i--; // Adjust the index after removing an element
+      }
+    }
     var opt = {
       margin: 10,
       filename: `${fileName}.pdf`,
@@ -24,7 +33,7 @@ layout: minimal
       jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' },
       pagebreak: { mode: ['avoid-all', 'css', 'legacy'] }
     };
-    html3pdf(element, opt);
+    html3pdf(elementClone, opt);
   };
 </script>
 

@@ -17,12 +17,10 @@ layout: minimal
     var fileName = window.location.pathname.split('/').pop();
     var element = document.getElementsByClassName('main-content')[0];
     var elementClone = element.cloneNode(true);
-    // Loop through the children of elementClone
     for (var i = 0; i < elementClone.children.length; i++) {
-      // Remove the node if the class is not "viewpoint"
       if (!elementClone.children[i].classList.contains('viewpoint')) {
         elementClone.removeChild(elementClone.children[i]);
-        i--; // Adjust the index after removing an element
+        i--;
       }
     }
     var opt = {

@@ -11,9 +11,51 @@ published: true
 
 Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of artificial intelligence:
 
+### Uses for AI in the library (excluding) student information skills.
 
+Post on the AIED@JISCMAIL.AC.UK Listserve. Monday 14 April 2025. Tracey Totty Library Services Manager. Middlesbrough College Group. t.totty@mbro.ac.uk 
 
-#### Generative AI and the  future of library services 
+I recently asked what library staff would use AI for, that isn’t supporting student information skills.
+
+**Cataloguing** 
+
+* Advice and help on MARC records 
+* Cataloguing certain subjects 
+* Data entry assisting with unconventional sources 
+* Classifying difficult to classify resources 
+* Keywords for specific books/subjects 
+
+**Research** 
+
+* Research tool 
+* Scoping research 
+* Information on difficult to find subjects (the fact check it) 
+* Journal article summaries 
+* Summarising findings 
+
+**Analysis** 
+
+* Analyse trends in access and resources borrowed 
+* Analyse data 
+
+**Admin** 
+
+* Workflows using Power Automate 
+* Appraisal objectives 
+* Writing business cases 
+* Write up library bulletin 
+* Writing e-mails, reports, guides, PowerPoints, tables 
+* Making forms 
+* Marketing and promotion 
+* Generating ideas 
+* Plan workshops and activities 
+
+**Equality, Diversity and Inclusion** 
+
+* Making sure text is GDPR compliant and accessible 
+* Translation service 
+
+#### Generative AI and the  future of library services
 
 Opportunities and challenges in a changing technology environment.  Clarivate white paper. March 2024
 

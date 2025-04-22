@@ -88,7 +88,7 @@ Complete the form below to receive the report when it is published in May
 
 Introducing Lean Library Workspace: Putting Your Library at the Heart of Every Research Journey
 
-Date: April 29, 2025
+Date: May 13, 2025
 
 Time: 3-4pm (BST)
 

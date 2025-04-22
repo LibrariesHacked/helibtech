@@ -133,7 +133,7 @@ Sessions include:
 
 ![](/assets/images/summit-2.png)
 
-Time: 10:00am–12:45pm EST | 15:00pm–17:45pm BST
+Time: 15:00pm–17:45pm BST
 
 Focus: How librarians can contribute to institutional conversations and initiatives on AI and the complementary skills librarians can develop in order to ensure that the library is seen as an authoritative voice on AI. 
 

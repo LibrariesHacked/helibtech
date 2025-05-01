@@ -8,29 +8,35 @@ tags:
   - Reading lists
   - Resource lists
   - RFID
+published: true
 ---
-
 # Reading and resource lists
 
 ## What are reading List/resource List solutions?
 
 These are essentially 'curation' tools. Academics (with the help of librarians) create online resource lists - commonly by module or course. There is usually flexibility to create lists in a number of different formats e.g. by topic or by week of study. Resources may be further categorized by priority such as 'essential' or background' reading.
 
-Resource list solutions offer direct integration with library mangement systems and discovery solutions.
+Resource list solutions offer integration with library management systems  and learning management systems/VLEs.
 
 Online resource lists will contain direct links to content (in the case of digital content such as journal articles, ebooks, ebook chapters, web pages etc.). In the case of print materials they will usually direct link to a library catalogue showing current holdings and availability.
 
 In this respect, online resource lists are perceived to challenge the traditional learning method of self-discovery of resources as they lead students directly to specific content to support their learning.
 
-In the UK and other countries such as Australia and New Zealand older 'course reserve' modules have almost entirely replaced by more comprehensive Reading List solutions such as Talis Aspire, Ex Libris Leganto or Kortext Keylinks. Reading list solutions are increasingly adopted in the US and worldwide.
+In the UK and other countries such as Australia and New Zealand older 'course reserve' modules have almost entirely replaced by more comprehensive Reading List solutions such as Talis Aspire, Ex Libris Leganto or Kortext Keylinks. Reading list solutions are increasingly adopted in the US and worldwide. For more background see:
 
-### Reading list / resource list systems in the UK
+### [The rise of library centric reading list systems](https://www.kenchadconsulting.com/wp-content/uploads/2018/07/Rise_of_library_centric-_readlinglists_July2018.pdf)
 
-- [Talis Aspire (Talis-Part of Technology from Sage)](https://talis.com/talis-aspire/)
-- [BLUECloud Course Lists (SirsiDynix)](https://www.sirsidynix.com/bluecloud-course-lists/)
-- [eReserve Plus (eReserve Pty Ltd)](https://www.ereserve.com.au/)
-- [KeyLinks (Kortext)](https://www.kortext.com/keylinks/)
-- [Leganto (ExLibris,Part of Clarivate)](https://exlibrisgroup.com/products/leganto-reading-list-management-system/)
+Ken Chad. HELibTech Briefing Paper No. 5, July 2018.
+
+The paper analyses the impact of reading list solutions on students, academics/faculty, the library and the library supply chain. It looks to future developments including the more extensive use of analytics and the increasing role of reading lists in pedagogical ‘scaffolding’.
+
+Reading list / resource list systems in the UK
+
+* [Talis Aspire (Talis-Part of Technology from Sage)](https://talis.com/talis-aspire/)
+* [BLUECloud Course Lists (SirsiDynix)](https://www.sirsidynix.com/bluecloud-course-lists/)
+* [eReserve Plus (eReserve Pty Ltd)](https://www.ereserve.com.au/)
+* [KeyLinks (Kortext)](https://www.kortext.com/keylinks/)
+* [Leganto (ExLibris,Part of Clarivate)](https://exlibrisgroup.com/products/leganto-reading-list-management-system/)
 
 In addition Blackwell offer a service that enables lecturers and others to submit reading list details and as a result enable ordering of books on the list from Blackwell - [Readinglists.co.uk](https://blackwells.co.uk/rsl/index.dfp)
 
@@ -48,10 +54,10 @@ Talis Elevate is a separate priced add-on module to the Aspire reading / resourc
 
 In response to the development of Elevate, Leganto has introduced "social reading" functionality to their reading list platform allowing students to:
 
-- Share comments, questions, and feedback by marking up course materials
-- Annotate PDF files assigned by the instructor
-- Communicate ideas with classmates
-- Add private notes
+* Share comments, questions, and feedback by marking up course materials
+* Annotate PDF files assigned by the instructor
+* Communicate ideas with classmates
+* Add private notes
 
 ## Defunct reading list systems
 

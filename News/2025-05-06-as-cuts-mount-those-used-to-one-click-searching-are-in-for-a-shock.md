@@ -1,6 +1,6 @@
 ---
 title: As cuts mount, those used to one-click searching are in for a shock
-date_added: 2025-05-23T09:00:00.000Z
+date_added: 2025-04-23T10:00:00.000Z
 synopsis: >-
   In this opinion piece in the Times Higher Education Supplement, university
   librarian Caroline Ball argues that financial pressures on institutions are

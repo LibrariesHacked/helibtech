@@ -26,9 +26,7 @@ In the UK and other countries such as Australia and New Zealand older 'course re
 
 ### [The rise of library centric reading list systems](https://www.kenchadconsulting.com/wp-content/uploads/2018/07/Rise_of_library_centric-_readlinglists_July2018.pdf)
 
-Ken Chad. HELibTech Briefing Paper No. 5, July 2018.
-
-The paper analyses the impact of reading list solutions on students, academics/faculty, the library and the library supply chain. It looks to future developments including the more extensive use of analytics and the increasing role of reading lists in pedagogical ‘scaffolding’.
+*Ken Chad. HELibTech Briefing Paper No. 5, July 2018*. The paper analyses the impact of reading list solutions on students, academics/faculty, the library and the library supply chain. It looks to future developments including the more extensive use of analytics and the increasing role of reading lists in pedagogical ‘scaffolding’.
 
 Reading list / resource list systems in the UK
 

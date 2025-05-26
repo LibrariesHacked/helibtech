@@ -10,7 +10,10 @@ parent: Resource sharing and interlending
 ---
 # Resource Sharing between libraries
 
-A new Resource Sharing landscape is emerging with several providers offering new resource sharing solutions facilitating peer to peer document supply and lending between participating institutions.
+A new Resource Sharing landscape is emerging with several providers offering new resource sharing solutions facilitating peer-to-peer document supply and lending between participating institutions.
+
+To see who uses what resource sharing solution you can  can access our [Google sheet](https://docs.google.com/spreadsheets/d/1rT5fbeJ72IWAbe58ywzK2D7zsMqLjSTIzFN_HWH7sDc/edit?gid=0#gid=0) to view a list of institutions and the library solutions they use[](https://docs.google.com/spreadsheets/d/1rT5fbeJ72IWAbe58ywzK2D7zsMqLjSTIzFN_HWH7sDc/edit?gid=0#gid=0)
+***Missing data***: If your institution’s information is incorrect or missing please complete our [updates form](https://docs.google.com/forms/d/e/1FAIpQLSfIjk1ECrL4IMTzSUGQ8C6QSCE79j9RQmQsuIiEE04yN-MHgQ/viewform) and we will amend the data in the table.
 
 ## Resource Sharing solutions
 

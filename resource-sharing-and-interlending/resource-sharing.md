@@ -10,9 +10,11 @@ parent: Resource sharing and interlending
 ---
 # Resource Sharing between libraries
 
-A new Resource Sharing landscape is emerging with several providers offering new resource sharing solutions facilitating peer-to-peer document supply and lending between participating institutions.
+A new Resource Sharing landscape is emerging with several providers offering new resource sharing solutions facilitating peer-to-peer document supply and lending between participating institutions. For more information see:  [New approaches to resource sharing: transforming library collections and the user experience (](https://www.kenchadconsulting.com/wp-content/uploads/2022/12/New_approaches_to_resource_sharing-_Dec2022-1.pdf)HELibTech Briefing paper. December 2022
 
-To see who uses what resource sharing solution you can  can access our [Google sheet](https://docs.google.com/spreadsheets/d/1rT5fbeJ72IWAbe58ywzK2D7zsMqLjSTIzFN_HWH7sDc/edit?gid=0#gid=0) to view a list of institutions and the library solutions they use[](https://docs.google.com/spreadsheets/d/1rT5fbeJ72IWAbe58ywzK2D7zsMqLjSTIzFN_HWH7sDc/edit?gid=0#gid=0)
+To see who uses what resource sharing solution you can  can access our [Google sheet](https://docs.google.com/spreadsheets/d/1rT5fbeJ72IWAbe58ywzK2D7zsMqLjSTIzFN_HWH7sDc/edit?gid=0#gid=0) to view a list of institutions and the library solutions they use.
+
+[](https://docs.google.com/spreadsheets/d/1rT5fbeJ72IWAbe58ywzK2D7zsMqLjSTIzFN_HWH7sDc/edit?gid=0#gid=0)
 ***Missing data***: If your institution’s information is incorrect or missing please complete our [updates form](https://docs.google.com/forms/d/e/1FAIpQLSfIjk1ECrL4IMTzSUGQ8C6QSCE79j9RQmQsuIiEE04yN-MHgQ/viewform) and we will amend the data in the table.
 
 ## Resource Sharing solutions

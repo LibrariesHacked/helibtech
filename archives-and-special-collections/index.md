@@ -33,4 +33,5 @@ For example, DACS (Describing Archives: A Content Standard) is the United States
 
 Records in Contexts (RIC) is being developed to reconcile and integrate existing standards and to reorient them to ‘take advantage of developments in communication technologies’. Many archives use data entry templates or forms using Excel which are imported and mapped into standard formats by the archive system.
 
-**This section was updated in November 2024**
+
+**Section updated November 2024**

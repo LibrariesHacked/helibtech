@@ -10,8 +10,6 @@ layout: enhanced
 nav_order: 2
 parent: Research management
 ---
-
-
 # CRIS / RIMS
 
 (See also the page on **[who uses what research system)](https://www.helibtech.com/who-uses-what/who-uses-which-research-system)**
@@ -70,3 +68,6 @@ There is no definitive answer to how long it may take to implement a CRIS / RIMS
 * Whether institutional repository will be migrated
 
 However a typical CRIS / RIMS project may take upwards of 12 months from project inception to implementation and will typically involve numerous stakeholders from libraries, research offices, IT departments and other institutional services such as finance and HR.
+
+
+**Section updated October 2024**

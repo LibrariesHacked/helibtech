@@ -72,3 +72,5 @@ Charts and graphs illustrating:
 * CRIS / RIMS market share
 
 <https://www.helibtech.com/research-management/market-overview>
+
+**Page updated March 2025**[](https://www.helibtech.com/research-management/market-overview)

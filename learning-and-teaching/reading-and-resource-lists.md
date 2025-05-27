@@ -99,4 +99,4 @@ An open source solution developed by the Open University. No longer used by OU o
 
 This was a cloud hosted reading list solution. No longer available or in business.
 
-[](https://talis.com/talis-elevate/)
+**Section updated October 2024**[](https://talis.com/talis-elevate/)

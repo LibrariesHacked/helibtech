@@ -9,6 +9,7 @@ tags:
   - Products
   - Procurement
   - Who uses what
+published: true
 ---
 
 # Discovery solutions - market overview

@@ -25,7 +25,7 @@ See our product directory for a full list of systems suppliers and their full ra
 * [Innovative Interfaces ](https://www.iii.com/)[(Part of Clarivate)](https://exlibrisgroup.com/)
 * [ISOxford (Cirqa)](https://cirqa.co.uk/)
 * [OCLC](https://www.oclc.org/en/home.html)
-* [PTFS Europe](https://ptfs-europe.com/)
+* [Open Fifth (formerly PTFS Europe)](https://openfifth.co.uk/)
 * [SirsiDynix](https://www.sirsidynix.com/)
 
 ### Library systems vendors - market share

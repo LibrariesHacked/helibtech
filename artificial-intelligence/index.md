@@ -35,15 +35,15 @@ If you would like to **contribute to HELibTech please send us your content** via
 
 ### EBSCO
 
-#### *[AI Insights](https://connect.ebsco.com/s/article/Artificial-Intelligence-AI-Transparency-Fact-Sheet-Generative-AI-Insights?language=en_US)* 
+#### *[AI Insights](https://connect.ebsco.com/s/article/Artificial-Intelligence-AI-Transparency-Fact-Sheet-Generative-AI-Insights?language=en_US)*
 
 *Ai Insights is available in  EBSCOhost and EBSCO Discovery Service (EDS) February 2025. AI Insights is a summarization feature available in search results where once the AI Insights button is clicked on a specific article, 2-5 Insights are generated for that article. When the AI Insight button is clicked, a prompt is sent to a Large Language Model (LLM) prompting the AI to summarize the full text article into 2-5 relevant insights into the article. We ground the AI response on the full text (with publisher permission) to reduce hallucinations. No AI training is done on the full text article. The user query is not used in AI Insights.*
 
-***AI Data Use:** AI Insights does not use user data. The data provided to the AI is a prompt created by EBSCO. At the time the user clicks the AI Insights button, the prompt is used to create an AI Insight. User information is not stored during this process. The EBSCO prompt is used to direct the AI to summarize 2-5 Insights from that specific article. The AI response is grounded on the full text during Retrieval Augmented Generation (RAG) to improve quality and reduce hallucinations. No AI training is done on the full text article. The user query is not used in AI Insights.*
+**\*AI Data Use:** AI Insights does not use user data. The data provided to the AI is a prompt created by EBSCO. At the time the user clicks the AI Insights button, the prompt is used to create an AI Insight. User information is not stored during this process. The EBSCO prompt is used to direct the AI to summarize 2-5 Insights from that specific article. The AI response is grounded on the full text during Retrieval Augmented Generation (RAG) to improve quality and reduce hallucinations. No AI training is done on the full text article. The user query is not used in AI Insights.*
 
-***Model Selection:** Based on internal testing, Anthropic’s Claude Sonnet was selected as providing the most accurate scholarly prose, detailed response, highest quality, lowest latency, best security guardrail options, and cost. We have built the AI Insights feature using Bedrock, an AWS platform for developing AI features, because Bedrock has robust quality, security, privacy, and environmental safeguards.*
+**\*Model Selection:** Based on internal testing, Anthropic’s Claude Sonnet was selected as providing the most accurate scholarly prose, detailed response, highest quality, lowest latency, best security guardrail options, and cost. We have built the AI Insights feature using Bedrock, an AWS platform for developing AI features, because Bedrock has robust quality, security, privacy, and environmental safeguards.*
 
-***Quality Assessments:** AI Insights uses a three-step quality assessment process where first internal Subject Matter Expert (SME) librarians and clinicians review a sample of AI Insights. We also have beta and customer reviews, as well as end-user feedback reviews. These are done on a rolling basis to check for model degradation and identify model improvements.*
+**\*Quality Assessments:** AI Insights uses a three-step quality assessment process where first internal Subject Matter Expert (SME) librarians and clinicians review a sample of AI Insights. We also have beta and customer reviews, as well as end-user feedback reviews. These are done on a rolling basis to check for model degradation and identify model improvements.*
 
 *EBSCO uses RAG-based AI to increase quality and reduce hallucinations. As well as also implementing guardrails to limit profanity, slander, and unprofessional language in AI generated text.*
 
@@ -237,3 +237,5 @@ Also known as an artificial neural network, this is a type of machine learning l
 A more recent variation of neural networks, which uses many layers of artificial neurons to solve more difficult problems. Its popularity as a technique increased significantly from the mid-2000s onwards, as it is behind much of the wider interest in AI today. It is often used to classify information from images, text or sound
 
 See the useful resources section for further information on AI from a range of authoritative sources.
+
+**This section was updated in February 2025**

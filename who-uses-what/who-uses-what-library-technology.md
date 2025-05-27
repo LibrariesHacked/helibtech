@@ -44,7 +44,6 @@ Here you can access data on which UK institution uses which library technology p
 
 ### Missing data
 
-
 This data is continually updated. You can see the date last updated by going into the source data in the Google sheet.
 
 If your institution's information is incorrect or missing please complete our [updates form](https://docs.google.com/forms/d/e/1FAIpQLSfIjk1ECrL4IMTzSUGQ8C6QSCE79j9RQmQsuIiEE04yN-MHgQ/viewform) and we will amend the data in the table.
@@ -61,6 +60,9 @@ Use the Google Sheet for queries such as:
 
 * Which institutions use a particular library management system
 * Which institutions use particular product combinations e.g. **x** LMS with **y** discovery solution
+
+
+**Our datasets are regularly updated. You can see the date of last update on the Google Sheet.**
 
 You can also export the data in Excel by clicking the button at the top of the table to make a local copy for analysis.
 

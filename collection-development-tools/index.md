@@ -61,4 +61,5 @@ Through uploading catalogue and circulation data from the ILS, cHQacademic offer
 
 Mirroring the functionality of the main collectionHQ product, cHQacademic is a practical workload tool scheduling task lists for regular stock maintenance tasks such as weeding.
 
-**This section was updated in October 2024**
+
+**Section updated October 2024**

@@ -3,11 +3,11 @@ title: British Library
 tags:
   - Resource sharing
   - Interlending
+published: true
 layout: enhanced
 nav_order: 2
 parent: Resource sharing and interlending
 ---
-
 # British Library and document supply
 
 The traditional model of UK interlending in HE (and other sectors) has been based on significant, or in many cases exclusive use, of the British Library Document Supply Centre (BLDSC). Many UK focused library management systems have offered integrated interlibrary loans module to allow automated ordering via BLDSC and management of requests via the ILS.
@@ -35,3 +35,6 @@ The exception to this is copyright fee paid copies. British Library also offers 
 British Library offers discounted rates for satisfaction of copy requests from their born digital collections.
 
 In the case of loans of printed material, in addition to loan fees BL will also charge additional renewal fees.
+
+
+**Section updated October 2024**

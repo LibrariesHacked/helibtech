@@ -23,4 +23,7 @@ In an environment where there is a general expectation for users to communicate 
 
 Similarly, as HE libraries have purchased more and more online resources, online user guides have become a base expectation. As the online resource environment has grown (and arguably the functionality of online platforms has become more straight forward less distinct over time), many libraries will now provide topic related online guides in addition to resource specific ones.
 
-**This section was updated in October 2024**[](https://www.helibtech.org)
+
+**Section updated October 2024**
+
+[](https://www.helibtech.org)

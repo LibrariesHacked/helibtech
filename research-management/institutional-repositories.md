@@ -11,7 +11,6 @@ parent: Research management
 ---
 # Institutional repositories
 
-
 (See also the page on **[who uses what research system)](<>)**
 
 An institutional repository is an online publications archive for collating and disseminating the academic output of a higher education institution.
@@ -47,3 +46,6 @@ As more UK institutions have adopted research information management systems, it
 ### Single research data / publications repositories
 
 As the need to archive and disseminate research data has grown in recent years across the UK HE community, some institutions have moved away from traditional publications repositories to utilising a single repository for both research data and publications. Given the limitations of traditional IR products for hosting large datasets and the duplication of effort involved in managing separate repositories for RDM and publications, some institutions are now using products such as [Figshare](https://figshare.com/) for both publications and research data outputs.
+
+
+**Section updated October 2024**

@@ -50,3 +50,5 @@ The major cross publisher E-textbook providers in the UK are:
 * [Perlego](https://www.perlego.com/)
 
 In addition, major academic publishers such as Elsevier, Sage, Taylor & Francis make etextbooks available on a variety of licensing models direct from their publisher platforms.
+
+**Section updated October 2024**

@@ -31,3 +31,5 @@ According to Jisc there are a range of benefits to libraries using open systems 
 * **A richer library systems ecosystem:** A less direct impact of open source is a richer library systems ecosystem. This is both in terms of the library solutions available (a healthier marketplace with both proprietary and open solutions) and in terms of collaboration and engagement between libraries themselves. Libraries are able to collaborate and share code on the functionality and fixes they require. Indeed, there are open systems such as Evergreen, which were developed as an open source library system for a consortial approach
 
 For more information on fully open source library management systems visit the [open source systems page](https://www.helibtech.com/core-library-systems/open-source-systems)
+
+**Section updated February 2025**[](https://www.helibtech.com/core-library-systems/open-source-systems)

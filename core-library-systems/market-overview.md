@@ -86,6 +86,8 @@ By Marshall Breeding American Libraries 1st May 2020
 
 See also [Marshall Breeding's Library Technology Guides dashboard ](https://librarytechnology.org/products/)which brings together data, trends, news, and other resources.
 
+**Section updated May 2025**
+
 ![]()
 
 ![]()

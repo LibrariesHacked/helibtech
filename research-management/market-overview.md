@@ -40,3 +40,6 @@ Of the institutions surveyed using institutional repositories, just over half ar
 The market for CRIS / RIMS systems is dominated in the UK by Elsevier's Pure and Symplectic Elements, with the proportion of the market taken by Elsevier growing.
 
 ![CRIS market share](/assets/images/cris-market-share.jpg 'CRIS market share')
+
+
+**Section updated October 2024**

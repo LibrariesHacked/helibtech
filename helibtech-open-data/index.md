@@ -73,4 +73,7 @@ Charts and graphs illustrating:
 
 <https://www.helibtech.com/research-management/market-overview>
 
-**Page updated March 2025**[](https://www.helibtech.com/research-management/market-overview)
+
+**Section updated March 2025**
+
+[](https://www.helibtech.com/research-management/market-overview)

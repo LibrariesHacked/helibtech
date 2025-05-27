@@ -32,4 +32,6 @@ While most library system vendors offer the option of hosting ‘in the cloud’
 
 An increasingly integrated ecosystem As cloud computing has become the ‘new norm’, it has enabled an increasingly integrated system of services. As the different parts of the library ecosystem move to the cloud it becomes easier for them to connect with each other – and as more institutions move to the cloud, it becomes more financially viable for new services to be developed
 
-Artificial intelligence: As well as integration, the great swathes of data that are being collected and shared via the cloud also opens the opportunity for artificial intelligence and machine learning to offer new insights and improvements to the way services are used.”.
+Artificial intelligence: As well as integration, the great swathes of data that are being collected and shared via the cloud also opens the opportunity for artificial intelligence and machine learning to offer new insights and improvements to the way services are used.”
+
+**Section updated October 2024**

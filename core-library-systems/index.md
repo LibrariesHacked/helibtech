@@ -7,10 +7,10 @@ tags:
   - Library services platform
   - Library systems
   - LSP
+published: true
 nav_order: 11
 has_children: true
 ---
-
 # Core library systems
 
 This section covers the key different aspects of library resource **management** systems. It does not cover discovery solutions which are covered in more detail under the dedicated section on [discovery.](/discovery/)
@@ -21,17 +21,17 @@ Resource management solutions are known in the UK as library management systems 
 
 Typically library management systems consist of a number of core modules including:
 
-- acquisitions - ordering, receiving and invoicing materials; funds management for budget profiling. Most systems will enable automated integration with suppliers for ordering via EDI (Electronic Data Interchange)
-- cataloguing - for classifying and cataloguing materials (usually based on MARC standards)
-- borrowers / patrons - details of library users grouped into types of borrowers
-- circulation - lending materials based on loan rules linked to borrower types
-- serials - for receipt and management of journals and magazines
+* acquisitions - ordering, receiving and invoicing materials; funds management for budget profiling. Most systems will enable automated integration with suppliers for ordering via EDI (Electronic Data Interchange)
+* cataloguing - for classifying and cataloguing materials (usually based on MARC standards)
+* borrowers / patrons - details of library users grouped into types of borrowers
+* circulation - lending materials based on loan rules linked to borrower types
+* serials - for receipt and management of journals and magazines
 
 Additionally systems may also include modules for or integration with:
 
-- interlibrary loans/resource sharing - for managing document delivery / loans from external libraries. In the UK these may be enabled for automated ordering via suppliers such as the British Library Document Supply Centre (BLDSC)
-- electronic resource management - for managing subscriptions to online content packages.
-- reading/Resource list management
+* interlibrary loans/resource sharing - for managing document delivery / loans from external libraries. In the UK these may be enabled for automated ordering via suppliers such as the British Library Document Supply Centre (BLDSC)
+* electronic resource management - for managing subscriptions to online content packages.
+* reading/Resource list management
 
 Library management systems will typically also include some form of OPAC (online public access catalogue); a web based interface allowing end users to search the library catalogue (of predominantly print resources) and access their individual borrower account. These are being displaced by 'discovery services' which enable the integrated discovery of print and online resources such as journal articles and ebooks.
 
@@ -52,3 +52,6 @@ Another feature of a LSP it that it comes paired with a ‘discovery service’ 
 ### The evolution of 'legacy' library systems
 
 Rather than take the path of creating wholly new LSPs some vendors such as Innovative Interfaces (now part of Clariate), SirsiDynix and ESS (formerly Capita) maintained their legacy systems but moved to a hosted model and layered web interfaces (eg SirsiDynix BlueCloud) and additional functionality over that.
+
+
+**Section updated October 2024**

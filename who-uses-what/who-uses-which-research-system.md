@@ -50,6 +50,8 @@ Use the Google Sheet for queries such as:
 * Which institutions use a repository product
 * Which institutions use particular product combinations e.g. **x** CRIS / RIMS with **y** institutional repository
 
+**Our datasets are regularly updated. You can see the date of last update if you view the Google Sheet.**
+
 You can also export the data in Excel by clicking the button at the top of the table to make a local copy for analysis.
 
 ##### To see full details for each institution, filter by institution using the dropdown below

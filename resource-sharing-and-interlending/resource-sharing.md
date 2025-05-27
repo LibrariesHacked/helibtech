@@ -84,3 +84,6 @@ For an up-to-date list of member libraries, please see the [WHELF website](https
 For many years, ILDS functionality was either not included in library management systems (LMSs) or, in the UK, focussed on placing requests with the British Library’s document supply service (BLDSS) rather than managing peer-to-peer ILDS. This has changed in the last few years with LMS suppliers, such as SirsiDynix, OCLC and PTFS-Europe (Koha) adopting the ISO ILL 10160/10161 standard. However, the adoption of the ISO protocol for practical peer-to-peer resource sharing in the UK is limited.
 
 The only example application In December 2021) is in Wales, where a consortium of eight higher education libraries with the Ex Libris Alma LMS use the ISO standard to enable both digital and physical sharing and ensure an equitable spread of requests across participating institutions. There are future plans to extend this to the NHS libraries in Wales (which also use Alma). It should be noted that the resource sharing participants all use the same (Alma) LMS and, for practical implementation reasons, the WHELF invitation to extend the network is currently only open to other Alma customers.
+
+
+**Section updated May 2025**

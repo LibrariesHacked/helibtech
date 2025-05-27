@@ -17,4 +17,6 @@ If you would like to contribute an HELibTech viewpoint [get in touch](paulverlan
 
 ### [Open library platforms - a pragmatic approach. Can a proprietary library system/platform be more open that an open source one?](https://www.helibtech.com/helibtech-viewpoints/can-a-proprietary-library-system-platform-be-more-open-than-an-open-source-one)
 
+**Published March 2025**
+
 In the first of our HELibTech Viewpoints, library technology consultant Ken Chad argues that when it comes to choices about library systems, notions about open source versus proprietary software are outdated and unhelpful. Libraries increasingly deploy cloud-based Library Services Platforms (LSPs)s, which are a mix of open source and proprietary elements. Therefore the key considerations for pragmatic librarians will be sustainability and development, interoperability and community.[](paulverlander@gmail.com)

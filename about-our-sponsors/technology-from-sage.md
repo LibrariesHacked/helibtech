@@ -76,82 +76,28 @@ relationships in the digital age, and the ever-changing role of the academic lib
 
 ![](/assets/images/newletter-header-2024-05-23-4x.png)
 
-Register your interest now to receive the upcoming fourth Librarian Futures report, on how academic libraries can be frontiers in the use of AI in Higher Education. The report will share findings from a mass survey of over 1,200 global librarians and students on AI and the library.
+Register your interest now to receive the new fourth Librarian Futures report, on how academic libraries can be frontiers in the use of AI in Higher Education. The report will share findings from a mass survey of over 1,200 global librarians and students on AI and the library.
 
-Complete the form below to receive the report when it is published in May
+Complete the form below to receive the report.
 
 [Sign up for the report](https://forms.office.com/r/YnuScFWfVe)
 
 [](https://forms.office.com/r/YnuScFWfVe)
 
-### Webinars & Events
-
-**Introducing Lean Library Workspace: Putting Your Library at the Heart of Every Research Journey**
-
-Date: May 13, 2025
-
-Time: 3-4pm (BST)
-
-Location: Zoom
-
-![](/assets/images/llw-banner-blank.png)
-
-Join the introductory webinar on Lean Library Workspace: An upcoming new offering from Lean Library that goes beyond the content discovery and access parts of research workflows to reference management, collaboration and authoring with ease – while bringing actionable insights back to the library.
-
-[Register here](https://us06web.zoom.us/webinar/register/3717429133830/WN_A1Pq4-FNRJWRTh51NY0O0Q#/registration)
-
-**[](https://us06web.zoom.us/webinar/register/3717429133830/WN_A1Pq4-FNRJWRTh51NY0O0Q#/registration)
-Librarian Leadership on the AI Frontier: Register for Technology from Sage’s free Librarian Futures Virtual Summit event on 21st May**
-
-Join Technology from Sage on **Wednesday 21st May 2025** for a free live event: **Librarian Leadership on the AI Frontier: Librarian Futures Virtual Summit**. 
-
-We’ll be joined by librarians, partners and the team at Technology from Sage to celebrate the launch of the upcoming fourth white paper in the [Librarian Futures ](https://www.technologyfromsage.com/whitepapers/)series.
-
-The free virtual event consists of talks, presentations, roundtable discussions and workshops exploring the key themes and findings in the upcoming report, and actionable strategies for librarians. The event will be split into two sessions across the day – please join the one which best suits your schedule and time-zone. 
-
-**What you can expect**:
-
-**Session One: Academic Libraries in the AI Age**
-
-![](/assets/images/summit-1.png)
-
-Time: 10:00am–13:30pm BST
-
-Focus: AI in the academic library, the role of libraries in addressing AI issues and librarian skills for dealing with AI. 
-
-Sessions include:
-
-* Librarian keynote on AI and the library
-* A session highlighting the key findings from the soon-to-be-published Librarian Futures white paper
-* Librarian discussion groups for sharing ideas and conversations.
-
-[Register for Session One.](https://us06web.zoom.us/webinar/register/9117453235854/WN_I6qMiUlLQQeblyMGuueqWQ)
 
 
-**Session Two: Amplifying Your Library’s AI Impact**
+![]()
 
 
-![](/assets/images/summit-2.png)
 
-Time: 15:00pm–17:45pm BST
+[](https://us06web.zoom.us/webinar/register/3717429133830/WN_A1Pq4-FNRJWRTh51NY0O0Q#/registration)
 
-Focus: How librarians can contribute to institutional conversations and initiatives on AI and the complementary skills librarians can develop in order to ensure that the library is seen as an authoritative voice on AI. 
-
-Sessions include:
-
-* Roundtable discussion titled *Addressing AI and Being Seen Doing It: Raising the Profile of the Academic Library* with Ken Chad, Director at Ken Chad Consulting Ltd, Sean Rife, Head of Academic Relations, scite, Thomas Shaw, Deputy Director, Libraries and Collections, Kings College London and Matthew Weldon, Library Patron Consultant, Technology from Sage.
-* *Dipping Your Toes into the AI Waters* session with PJ Purchase, University Librarian & Director of University Library and Alexis Soard, Associate University Librarian, Systems & Operations, University of Phoenix.
-* Librarian discussion groups for sharing ideas and conversations.
-
-[Register for Session Two](https://us06web.zoom.us/webinar/register/5817453240405/WN_NPQEcpHIR4uxn4LEh6gXVw).
-
-We hope to see you at the event in May! If you have any questions about the event, please email [info@technologyfromsage.com](mailto:info@technologyfromsage.com) and we’d be happy to help.
+![]()
 
 
 
 
 
-
-
+![]()
 
 [](https://us06web.zoom.us/webinar/register/3717429133830/WN_A1Pq4-FNRJWRTh51NY0O0Q#/registration)

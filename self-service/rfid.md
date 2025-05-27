@@ -2,11 +2,11 @@
 title: RFID
 tags:
   - RFID
+published: true
 layout: enhanced
 nav_order: 2
 parent: Self service
 ---
-
 # RFID and Libraries
 
 The advantage of radio frequency identification (RFID) over other self service technologies used in libraries is usually seen to be its ability to combine the functions of the barcode (as a unique item identifier) and the security tag (able to indicate that an item is being removed from the library without permission), but with the added advantage of not needing line of sight. The customer-friendly self service that this combination of features makes possible is at the heart of the attraction of RFID for most libraries. Indeed the term ‘RFID’ has become a shorthand for self-service.
@@ -45,8 +45,8 @@ Tagging plate for programming RFID tags by syncing with item barcodes. Also to f
 
 In addition suppliers now offer a range of additional RFID products to enhance the library offering. These include:
 
-- RFID reservation self-service - to allow end users to self-issue reservations
-- RFID book vending - self-service access to book "vending" machines for limited collections.
+* RFID reservation self-service - to allow end users to self-issue reservations
+* RFID book vending - self-service access to book "vending" machines for limited collections.
 
 ## Implementation, lifecycle and costs
 
@@ -62,10 +62,10 @@ In 2018, Ken Chad Consulting gathered case studies of self-service usage rates f
 
 Averages fairly consistent usage rates of 80%. Still offer staffed desks and a proportion of customers will always:
 
-- prefer to transact with a human being
-- have a problem with their account
-- struggle with the technology
-- be picking up some sort of enclosure item where usage is supervised or an inter-library loan
+* prefer to transact with a human being
+* have a problem with their account
+* struggle with the technology
+* be picking up some sort of enclosure item where usage is supervised or an inter-library loan
 
 "I don’t feel that people should HAVE to use it if they prefer not to. Obviously at times (for example overnight opening when there are only security-type staff available) they have to if they want to borrow/return. I’d rather offer them a choice.”
 
@@ -77,11 +77,11 @@ Average in the region of 84% of issues and about 70% of returns via self-service
 
 Loans and discharges since April 2017, when new system went live: 75.6% of total loans, which include the exceptions below.
 
-- Item-based exceptions due to items that cannot be processed through the self-issue terminals
-- Items belonging to other branches that do not have RFID capability
-- Interlibrary loans from other libraries
-- Multimedia items not RFID tagged
-- Postal loans
+* Item-based exceptions due to items that cannot be processed through the self-issue terminals
+* Items belonging to other branches that do not have RFID capability
+* Interlibrary loans from other libraries
+* Multimedia items not RFID tagged
+* Postal loans
 
 #### Library 4 (Academic)
 
@@ -94,3 +94,6 @@ Target of 90% of all issues for self service kiosks. 87% satisfaction during yea
 #### Library 6 (Academic)
 
 The library is 24/7/365 access and institution is a single faculty, independent university. Apart from the occasional item that needs to be issued manually in order to override the prescribed loan periods, near 100% RFID issues and returns as RFID self-service is the only method on offer due to lack of staffed desk. This is a small institution of circa 250 students.
+
+
+**Section updated October 2024**

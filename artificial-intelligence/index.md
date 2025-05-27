@@ -238,4 +238,5 @@ A more recent variation of neural networks, which uses many layers of artificial
 
 See the useful resources section for further information on AI from a range of authoritative sources.
 
-**This section was updated in February 2025**
+
+**Section updated February 2025**

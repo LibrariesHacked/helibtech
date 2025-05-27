@@ -11,8 +11,8 @@ tags:
   - Reading lists
   - Resource lists
   - Digitisation
+published: true
 ---
-
 # Learning & teaching tech - market overview
 
 ## Reading / resource list market share
@@ -32,3 +32,6 @@ The below market overview refers specifically to solutions for managing the work
 Many of the institutions not using such software will be using manual workflows for managing licence compliance and will be adding digitised content direct to virtual learning environments.
 
 ![Digitisation market share 2024](/assets/images/digitisation-market-share-pie-chart.jpg 'Digitisation market share 2024')
+
+
+**Section updated October 2024**

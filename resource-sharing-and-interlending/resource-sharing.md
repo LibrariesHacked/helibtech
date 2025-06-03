@@ -23,7 +23,7 @@ To see who uses what resource sharing solution you can  can access our [Google 
 
 [RapidILL](https://exlibrisgroup.com/products/rapidill-interlibrary-loan/) was developed by inter-library loan staff at Colorado State University and subsequently acquired by Ex Libris. It facilitates quick, reciprocal resource requesting for ‘pods’ of libraries and interfaces with software solutions from a variety of vendors. It is optimised for ‘non-returnables’ (i.e. electronic copies such as journal articles, rather than print resources such as books) and offers the following features:
 
-RapidILL ‘pods’ are groups of libraries (a pod could be all NHS libraries in England) that have agreed to freely share journal article and e-chapters and commit to supplying these within 24 hours. Their holdings are loaded into RapidILL via automatic, monthly OAI-PMH harvesting.
+RapidILL ‘pods’ are groups of libraries that have agreed to freely share journal article and e-chapters and commit to supplying these within 24 hours. Their holdings are loaded into RapidILL via automatic, monthly OAI-PMH harvesting.
 
 RapidILL provides load balancing to ensure that each library receives as many copies as they supply. When sourcing items, it selects the holding library with the lowest net number of requests. RapidILL can also manage requests made to fee-based services such as Research Solutions (Reprints Desk, inc), as an optional add-on, billed separately.
 
@@ -84,6 +84,5 @@ For an up-to-date list of member libraries, please see the [WHELF website](https
 For many years, ILDS functionality was either not included in library management systems (LMSs) or, in the UK, focussed on placing requests with the British Library’s document supply service (BLDSS) rather than managing peer-to-peer ILDS. This has changed in the last few years with LMS suppliers, such as SirsiDynix, OCLC and PTFS-Europe (Koha) adopting the ISO ILL 10160/10161 standard. However, the adoption of the ISO protocol for practical peer-to-peer resource sharing in the UK is limited.
 
 The only example application In December 2021) is in Wales, where a consortium of eight higher education libraries with the Ex Libris Alma LMS use the ISO standard to enable both digital and physical sharing and ensure an equitable spread of requests across participating institutions. There are future plans to extend this to the NHS libraries in Wales (which also use Alma). It should be noted that the resource sharing participants all use the same (Alma) LMS and, for practical implementation reasons, the WHELF invitation to extend the network is currently only open to other Alma customers.
-
 
 **Section updated May 2025**

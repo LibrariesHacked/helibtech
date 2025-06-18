@@ -16,6 +16,16 @@ published: true
 ---
 # Market overview
 
+[The Library Technology Landscape](https://www.sconul.ac.uk/SCONULDownloadController/Download?iType=1&iID=2417&cGUID=7fe2af48-cb66-46d8-adb1-bd6028163de6&cTempLocation=) : **Results of the SCONUL Technology Survey 2024**
+
+The SCONUL Library Technology Survey provides an in-depth analysis of the technology landscape in UK and Ireland academic libraries, covering 26 functional areas.  It serves as a reference for libraries to understand market offerings and improve their technology systems. 
+
+* Comprehensive analysis of library technology in the UK and Ireland. 
+* Covers 26 functional areas with detailed product profiles and assessments. 
+* Market Complexity and Competition Insight
+
+The survey reveals a complex market with limited competition in certain areas, particularly in Library Management Systems (LMS).  This lack of competition raises concerns about value for money and performance. The Library Management System market shows dissatisfaction with value for money and limited competition. 
+
 ### Library systems -UK vendors
 
 See our product directory for a full list of systems suppliers and their full range of systems offered. Listed below are the predominant suppliers to UK HE:

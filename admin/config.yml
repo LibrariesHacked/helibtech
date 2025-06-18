@@ -635,7 +635,7 @@ collections:
 
   - name: "news_posts"
     label: "News posts"
-    folder: "News"
+    folder: "news"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     filter:

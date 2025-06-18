@@ -6,11 +6,19 @@ parent: Discovery
 has_children: false
 tags:
   - Discovery
+published: true
 ---
-
 # Discovery: useful resources
 
 Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of discovery:
+
+
+[Simplifying and Enhancing Access to Full-Text Articles with LibKey Discovery]((https://ital.corejournals.org/index.php/ital/article/view/17264))
+[](https://ital.corejournals.org/index.php/ital/article/view/17264) Jessie London, Barbara McArthur, Kimberly Vardeman, and Cynthia L. Henry discusses the implementation of LibKey in a discovery environment and how users responded.  Information Technology and Libraries (ITAL) June 2025
+
+[Irrelevant Discovery Layers? An Evidence-based Evaluation of Three Common Library Search Tools](https://ital.corejournals.org/index.php/ital/article/view/17266)
+Ruth Szpunar, Eric Bradley, Erin Gabrielson, and Catherine Pellegrino compares search results from a discovery layer with a central index, a subscription interdisciplinary index and abstract database, and a freely accessible academic web search engine. Information Technology and Libraries (ITAL) June 2025
+
 
 [A Very Small Pond: Discovery Systems That Can Be Used with FOLIO in Academic Libraries ](https://journal.code4lib.org/articles/17433)
 
@@ -38,10 +46,10 @@ Recommended practice published June 2020.
 
 The Open Discovery Initiative (ODI) is
 
-- A technical recommendation for data exchange including data formats, method of delivery, usage reporting, frequency of updates and rights of use
-- A way for libraries to assess content providers’ participation in discovery services
-- A model by which content providers work with discovery service vendors via fair and unbiased indexing and linking
-- A way to disclose and assess open discovery conformance for content providers, discovery providers, and libraries
+* A technical recommendation for data exchange including data formats, method of delivery, usage reporting, frequency of updates and rights of use
+* A way for libraries to assess content providers’ participation in discovery services
+* A model by which content providers work with discovery service vendors via fair and unbiased indexing and linking
+* A way to disclose and assess open discovery conformance for content providers, discovery providers, and libraries
 
 It aims at defining standards and/or best practices for the new generation of library discovery services that are based on indexed search. These discovery services are primarily based upon indexes derived from journals, ebooks and other electronic information of a scholarly nature. The content comes from a range of information providers and products–commercial, open access, institutional, etc.The group is establishing a more standard set of practices for the ways that content is represented in discovery services and for the interactions between the creators of these services and the information providers whose resources they represent.
 
@@ -75,11 +83,11 @@ Council of Chief Librarians Electronic Access & Resources Committee. (CCL­EAR )
 
 In Spring 2016, selected members of the Council of Chief Librarians, Electronic Access and Resources Committee (CCL­EAR) undertook a comparative study of five discovery tools:
 
-- Ebsco Discovery Service (EDS)
-- Encore Synergy
-- Primo
-- Summon
-- Worldcat Local and Discovery
+* Ebsco Discovery Service (EDS)
+* Encore Synergy
+* Primo
+* Summon
+* Worldcat Local and Discovery
 
 The review focused on the coverage, search interface, cost, availability/accessibility of service, and customer service as well as customization, and mobile options for each product.During Fall 2015 and Spring 2016 CCL­EAR conducted a comparison review of Discovery Services for the California Community Colleges. To inform the comparison a survey was sent to the 113 colleges to learn if institutions were using Discovery Services, if so, what they were and what were their experiences with different aspects of the Discovery Services. If institutions did not have a Discovery Service they were asked why and if they were interested in having one. In February 2016 CCL­EAR hosted a Discovery Services meeting and panel where all 113 colleges were invited. The survey results were reported and a panel discussion followed. Open discussion after the panel revealed a number of concerns and CCL­EAR realized a comparison review would be challenging. Each interface was highly customizable. Content was based on the subscription databases the college had and the visibility and results ranking was based on the Discovery Service. Some products were integrated with Integrated Library Systems (ILS) and other were stand alone products. Reviewers were granted guest access to products across the state, CCL­EAR conducted this comparison review.
 
@@ -87,7 +95,7 @@ The review focused on the coverage, search interface, cost, availability/accessi
 
 Joseph Deodato Information Technology and Libraries. Vol 34, No 2 (2015)
 
-_Abstract:_
+*Abstract:*
 
 Selecting a web-scale discovery service is a large and important undertaking that involves a significant investment of time, staff, and resources. Finding the right match begins with a thorough and carefully planned evaluation process. In order to be successful, this process should be inclusive, goal-oriented, data-driven, user-centered, and transparent. The following article offers a step-by-step guide for developing a web-scale discovery evaluation plan rooted in these five key principles based on best practices synthesized from the literature as well as the author’s own experiences coordinating the evaluation process at Rutgers University. The goal is to offer academic libraries that are considering acquiring a web-scale discovery service a blueprint for planning a structured and comprehensive evaluation process.
 

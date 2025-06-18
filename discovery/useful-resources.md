@@ -10,7 +10,7 @@ published: true
 ---
 # Discovery: useful resources
 
-Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of discovery:
+**Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of discovery:**
 
 
 [Simplifying and Enhancing Access to Full-Text Articles with LibKey Discovery](<https://ital.corejournals.org/index.php/ital/article/view/17264)>)[](https://ital.corejournals.org/index.php/ital/article/view/17264) Jessie London, Barbara McArthur, Kimberly Vardeman, and Cynthia L. Henry discusses the implementation of LibKey in a discovery environment and how users responded.  Information Technology and Libraries (ITAL) June 2025

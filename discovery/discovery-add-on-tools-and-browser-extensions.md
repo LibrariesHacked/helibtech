@@ -32,6 +32,9 @@ Libraries can create a customised linking label from Scholar search results e.g.
 
 A number of university libraries subscribe to LibKey Nomad allowing the browser extension to be downloaded across their network appearing by default on the university's computer image.
 
+See: [Simplifying and Enhancing Access to Full-Text Articles with LibKey Discovery](<>)[](https://ital.corejournals.org/index.php/ital/article/view/17264) discusses the implementation of LibKey in a discovery environment and how users responded.  Information Technology and Libraries (ITAL) June 2025
+
+
 [Lean Library](https://www.technologyfromsage.com/products/lean-library-extension/)
 
 [](https://www.technologyfromsage.com/products/lean-library-extension/)Lean Library from Technology from Sage is a broadly similar product again available both freely to individuals and to libraries on a subscription basis. Lean Library offers libraries the opportunity to also provide custom branding and messages that will appear next to users' search results. 
@@ -54,6 +57,6 @@ The above products work in tandem with library subscriptions in order to better 
 
 [](https://unpaywall.org/)Unpaywall is a similar product, available as a free browser extension to users to find free to access versions of scholarly articles by automatically scanning university and government sites, open-access repositories, and databases like PubMed Central, the DOAJ, Crossref, and DataCite.
 
-**Section updated March 2025[](https://unpaywall.org/)[](https://openaccessbutton.org/)[](https://openaccessbutton.org/)**
+**Section updated March 2025**[](https://unpaywall.org/)[](https://openaccessbutton.org/)[](https://openaccessbutton.org/)
 
 [](https://scholar.google.com/intl/en/scholar/libraries.html)

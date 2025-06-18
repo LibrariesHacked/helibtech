@@ -10,11 +10,21 @@ tags:
   - Library systems
   - LMS
   - Library services platform
+published: true
 ---
-
 # Core library systems: useful resources
 
 Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of core library systems:
+
+[The Library Technology Landscape](https://www.sconul.ac.uk/SCONULDownloadController/Download?iType=1&iID=2417&cGUID=7fe2af48-cb66-46d8-adb1-bd6028163de6&cTempLocation=) : **Results of the SCONUL Technology Survey 2024**
+
+The SCONUL Library Technology Survey provides an in-depth analysis of the technology landscape in UK and Ireland academic libraries, covering 26 functional areas. It serves as a reference for libraries to understand market offerings and improve their technology systems.
+
+* Comprehensive analysis of library technology in the UK and Ireland.
+* Covers 26 functional areas with detailed product profiles and assessments.
+* Market Complexity and Competition Insight
+
+The survey reveals a complex market with limited competition in certain areas, particularly in Library Management Systems (LMS). This lack of competition raises concerns about value for money and performance. The Library Management System market shows dissatisfaction with value for money and limited competition
 
 [The academic library app. ](https://wp.sol.us/the-academic-library-app/#libraryevents)
 
@@ -24,16 +34,16 @@ From the article:
 
 “At SOLUS we are well known for our mobile app in public libraries and our newly introduced events and room booking platform. We are now entering the US academic market with our debut at the Association of College and Research Libraries (ACRL) conference in Pittsburgh in 15th – 17th March. SOLUS currently has approximately 20 academic customers with our mobile app in Australia, UK and USA and are now more than ready for expansion.The academic library app features include:
 
-- Integration with 15 ILS/LSP platforms
-- Authentication options include Shibboleth, CAS, SAML and Azure Active Directory
-- Format roll-up, FRBR-ized display of available resources
-- Push, emergency and event notifications to students, faculty and admin
-- RFID and barcode self-check out/in
-- Consortia support
-- 30 languages with new support for right to left languages (Arabic, Hebrew & Urdu)
-- Reading and wish list functionality
-- Virtual and on-campus events
-- Events integration directly into the app (register/cancel reminder notifications, history, etc.)”[](https://www.rluk.ac.uk/library-lending-fit-for-the-21st-century-controlled-digital-lending-in-the-uk/)
+* Integration with 15 ILS/LSP platforms
+* Authentication options include Shibboleth, CAS, SAML and Azure Active Directory
+* Format roll-up, FRBR-ized display of available resources
+* Push, emergency and event notifications to students, faculty and admin
+* RFID and barcode self-check out/in
+* Consortia support
+* 30 languages with new support for right to left languages (Arabic, Hebrew & Urdu)
+* Reading and wish list functionality
+* Virtual and on-campus events
+* Events integration directly into the app (register/cancel reminder notifications, history, etc.)”[](https://www.rluk.ac.uk/library-lending-fit-for-the-21st-century-controlled-digital-lending-in-the-uk/)
 
 [](https://www.rluk.ac.uk/library-lending-fit-for-the-21st-century-controlled-digital-lending-in-the-uk/)[I Set Out to Build the Next Library of Alexandria. Now I Wonder: Will There Be Libraries in 25 Years? ](https://time.com/6108581/internet-archive-future-books/)
 
@@ -41,7 +51,7 @@ From the article:
 
 “Global media corporations—emboldened by the expansive copyright laws they helped craft and the emerging technology that reaches right into our reading devices—are exerting absolute control over digital information. These two conflicting forces—towards unfettered availability and completely walled access to information—have defined the last 25 years of the Internet. How we handle this ongoing clash will define our civic discourse in the next 25 years. If we fail to forge the right path, publishers’ business models could eliminate one of the great tools for democratizing society: our independent libraries.”[](https://page.exlibrisgroup.com/hubfs/HQ_General/Ex%20Libris%20Controlled%20Digital%20Lending%20White%20Paper.pdf?hsLang=en)
 
-[](https://page.exlibrisgroup.com/hubfs/HQ_General/Ex%20Libris%20Controlled%20Digital%20Lending%20White%20Paper.pdf?hsLang=en)[The FOLIO Open Source Library Services Platform.](<https://www.researchinformation.info/sites/default/files/content/white-paper/pdfs/The%20FOLIO%20Open%20Source%20Library%20Services%20Platform%20(2).pdf>)
+[](https://page.exlibrisgroup.com/hubfs/HQ_General/Ex%20Libris%20Controlled%20Digital%20Lending%20White%20Paper.pdf?hsLang=en)[The FOLIO Open Source Library Services Platform.](https://www.researchinformation.info/sites/default/files/content/white-paper/pdfs/The%20FOLIO%20Open%20Source%20Library%20Services%20Platform%20(2).pdf)
 
 Tamir Borensztajn. EBSCO 2021.
 

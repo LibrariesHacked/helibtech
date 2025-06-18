@@ -13,8 +13,7 @@ published: true
 Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of discovery:
 
 
-[Simplifying and Enhancing Access to Full-Text Articles with LibKey Discovery]((https://ital.corejournals.org/index.php/ital/article/view/17264))
-[](https://ital.corejournals.org/index.php/ital/article/view/17264) Jessie London, Barbara McArthur, Kimberly Vardeman, and Cynthia L. Henry discusses the implementation of LibKey in a discovery environment and how users responded.  Information Technology and Libraries (ITAL) June 2025
+[Simplifying and Enhancing Access to Full-Text Articles with LibKey Discovery](<https://ital.corejournals.org/index.php/ital/article/view/17264)>)[](https://ital.corejournals.org/index.php/ital/article/view/17264) Jessie London, Barbara McArthur, Kimberly Vardeman, and Cynthia L. Henry discusses the implementation of LibKey in a discovery environment and how users responded.  Information Technology and Libraries (ITAL) June 2025
 
 [Irrelevant Discovery Layers? An Evidence-based Evaluation of Three Common Library Search Tools](https://ital.corejournals.org/index.php/ital/article/view/17266)
 Ruth Szpunar, Eric Bradley, Erin Gabrielson, and Catherine Pellegrino compares search results from a discovery layer with a central index, a subscription interdisciplinary index and abstract database, and a freely accessible academic web search engine. Information Technology and Libraries (ITAL) June 2025

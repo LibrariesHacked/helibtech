@@ -12,11 +12,13 @@ published: true
 
 **Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of discovery:**
 
+[Simplifying and Enhancing Access to Full-Text Articles with LibKey Discovery](https://ital.corejournals.org/index.php/ital/article/view/17264)[](https://ital.corejournals.org/index.php/ital/article/view/17264) Jessie London, Barbara McArthur, Kimberly Vardeman, and Cynthia L. Henry discusses the implementation of LibKey in a discovery environment and how users responded.  Information Technology and Libraries (ITAL) June 2025. From the abstract: "*Content delivery mechanisms in web-scale discovery services can often fall short of patron expectations. The Texas Tech University Libraries integrated Third Iron’s LibKey Discovery with Ex Libris Primo in response to patron feedback that accessing full-text articles from Primo required too many clicks".* 
 
-[Simplifying and Enhancing Access to Full-Text Articles with LibKey Discovery](https://ital.corejournals.org/index.php/ital/article/view/17264)[](https://ital.corejournals.org/index.php/ital/article/view/17264) Jessie London, Barbara McArthur, Kimberly Vardeman, and Cynthia L. Henry discusses the implementation of LibKey in a discovery environment and how users responded.  Information Technology and Libraries (ITAL) June 2025
 
 [Irrelevant Discovery Layers? An Evidence-based Evaluation of Three Common Library Search Tools](https://ital.corejournals.org/index.php/ital/article/view/17266)
 Ruth Szpunar, Eric Bradley, Erin Gabrielson, and Catherine Pellegrino compares search results from a discovery layer with a central index, a subscription interdisciplinary index and abstract database, and a freely accessible academic web search engine. Information Technology and Libraries (ITAL) June 2025
+
+From the abstract: *Over the past fifteen years, most academic librarians have implemented one-stop search tools, commonly referred to as discovery layers, to accommodate contemporary user expectations. In more recent years these tools have come under criticism due to their limitations and shortcomings. We set out to evaluate if a discovery layer, when prompted with typical user keyword search strings, produced the most relevant search results when compared with two other widely accessible academic search tools. We compared search results from a discovery layer with a central index (WorldCat Discovery) with search results from a subscription interdisciplinary index and abstract database (Academic Search Complete) and a freely accessible academic web search engine (Google Scholar).*
 
 
 [A Very Small Pond: Discovery Systems That Can Be Used with FOLIO in Academic Libraries ](https://journal.code4lib.org/articles/17433)

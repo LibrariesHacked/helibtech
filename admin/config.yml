@@ -7,8 +7,8 @@ media_folder: "assets/images"
 aliases:
   - &TITLE { label: "Title", name: "title", widget: "string" }
   - &BODY { label: "Body", name: "body", widget: "markdown", required: false }
-  - &DATE { label: "Date", name: "date", widget: "datetime" }
-  - &DATE_ADDED { label: "Date added", name: "date_added", widget: "datetime" }
+  - &DATE { label: "Date", name: "date", widget: "datetime", default: "{{now}}" }
+  - &DATE_ADDED { label: "Date added", name: "date_added", widget: "datetime", default: "{{now}}" }
   - &SYNOPSIS {
       label: "Synopsis",
       name: "synopsis",

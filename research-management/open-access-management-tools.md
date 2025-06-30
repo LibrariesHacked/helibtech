@@ -55,3 +55,22 @@ Libraries will frequently provide advice and guidance to researchers on best pra
 * [Directory of Open Access Journals (DOAJ)](https://doaj.org/) is a unique and extensive index of diverse open access journals
    from around the world.
 * [ Think, Check, Submit](https://thinkchecksubmit.org/) can help researchers identify trusted journals for their research.
+
+
+### Metadata, Discoverability, and Compliance Tools
+
+There are a range of tools that help ensure Open Access outputs are discoverable and compliant with publisher mandates:
+
+* [OA Switchboard](https://www.oaswitchboard.org/about) allows the sharing of information between publishers, institutions and funders. This includes publication metadata and alerts to OA articles published by institutions’ authors.
+* [Open Policy Finder](https://openpolicyfinder.jisc.ac.uk/) (formerly Sherpa-Romeo) - an online resource that aggregates and analyses publisher open access policies from around the world and provides summaries of publisher copyright and open access archiving policies on a journal-by-journal basis.
+* [ROARMAP](https://roarmap.eprints.org/) is an international registry of Open Access mandates and policies (adopted by universities, research institutions and research funders) that require or request their researchers to provide Open Access to their peer-reviewed research article output by depositing it in an Open Access repository.
+* [Unpaywall](https://unpaywall.org/) – API or browser extension used to locate OA versions of papers.
+* [CORE](https://core.ac.uk/) – Aggregates Open Access research outputs from repositories and journals globally.
+
+
+### Persistent Identifiers
+
+Persistent identifiers support the tracking, attribution and identification of outputs and authors:
+
+* [ORCID](https://orcid.org/) – a free unique persistent identifier (PID) for individual researchers to use to aid discovery and attribution of their work..
+* [DOI](https://www.doi.org/)**–** Digital Object Identifiers (DOI) are a unique, persistent string of characters used to permanently identify a piece of digital content, such as a journal article or research paper. It acts as a stable, permanent link to the online resource, unlike a URL which may change or disappear over time. Typically publishers will assign a DOI on publication. However services CrossRef and DataCite offer DOI registration services which may be useful to researchers seeking to make their work Open Access via alternative publishing routes.

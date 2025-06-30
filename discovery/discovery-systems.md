@@ -20,7 +20,6 @@ In UK Higher Education the online catalogue (OPAC) of the library system has bee
   "*Over the past fifteen years, most academic librarians have implemented one-stop search tools, commonly referred to as discovery layers, to accommodate contemporary user expectations. In more recent years these tools have come under criticism due to their limitations and shortcomings. We set out to evaluate if a discovery layer, when prompted with typical user keyword search strings, produced the most relevant search results when compared with two other widely accessible academic search tools. We compared search results from a discovery layer with a central index (WorldCat Discovery) with search results from a subscription interdisciplinary index and abstract database (Academic Search Complete) and a freely accessible academic web search engine (Google Scholar)."* 
   Szpunar, R., Bradley, E., Gabrielson, E., & Pellegrino, C. (2025). Irrelevant Discovery Layers? An Evidence-Based Evaluation of Three Common Library Search Tools. *Information Technology and Libraries*, *44*(2). June 2025. https://doi.org/10.5860/ital.v44i2.17266
 
-
 ### Who uses what discovery system
 
 Details of which HEIs use which discovery systems is included in the Who Uses What section of the site under [Who Uses What Library Technology](/who-uses-what/who-uses-what-library-technology)
@@ -33,5 +32,9 @@ Whilst there are multiple discovery products available and these are listed in f
 * Summon by ProQuest (a Clarivate Company)
 * Primo by Ex Libris (a Clarivate Company)
 * WorldCat Discovery by OCLC
+
+
+Primo and WorldCat discovery are tightly integrated with their respective library management systems (Alma and WMS). EDS and Summon work across multiple library systems.
+
 
 **Section updated June 2025**

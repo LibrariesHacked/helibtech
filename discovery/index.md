@@ -12,10 +12,10 @@ has_children: true
 
 This section covers the management and administration of discovery solutions and content platforms.
 
-Inevitably in the current library technology landscape the primary focus is therefore on library discovery solutions. The overwhelming majority of UK higher education institutions are now using some form of discovery layer as the primary means of resource / content discovery. In many cases, this may also mean using a discovery solution as the principle means of discovering print resources within a library catalogue in addition to using it for discovering online journals, research databases etc.
+The overwhelming majority of UK higher education institutions are now using some form of discovery layer as the primary means of resource discovery encompassing print and electronic resources. These '[discovery services'](https://www.helibtech.com/discovery/discovery-systems) have largely replaced the library system OPAC. They may be supplemented by [additional discovery tools ](https://www.helibtech.com/discovery/discovery-add-on-tools-and-browser-extensions)including browser extensions. **AI** is beginning to be employed to enhance discovery capabilities. See the **[HELibTech AI page](<>)**
 
-Depending on the particular proprietary discovery solution used, discovery may be integrated as part of a library service platform facilitating electronic resource management solely through the library management system. Alternatively, if using a stand alone discovery solution dependent on data feed connection with an LMS, the LMS may also be used for aspects of electronic resource management such as acquisitions and subscription management.
+Depending on the particular proprietary discovery solution used, discovery may be tightly integrated as part of a library vendor own library system. Other discovery solutions can work with a variety of library systems by harvesting the print library catalogue and integrating that with access to their own central index of electronic resources 
 
 Effective discovery is also dependent on authentication architecture. In many cases libraries will now integrate their chosen authentication solution with single sign on for ease of access. Authentication systems such as OpenAthens and Shibboleth are necessary components for managing access permission sets for different cohorts of users.
 
-**Section updated October 2024**
+**Section updated June 2025**

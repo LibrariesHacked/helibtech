@@ -74,3 +74,19 @@ Persistent identifiers support the tracking, attribution and identification of o
 
 * [ORCID](https://orcid.org/) – a free unique persistent identifier (PID) for individual researchers to use to aid discovery and attribution of their work..
 * [DOI](https://www.doi.org/)**–** Digital Object Identifiers (DOI) are a unique, persistent string of characters used to permanently identify a piece of digital content, such as a journal article or research paper. It acts as a stable, permanent link to the online resource, unlike a URL which may change or disappear over time. Typically publishers will assign a DOI on publication. However services CrossRef and DataCite offer DOI registration services which may be useful to researchers seeking to make their work Open Access via alternative publishing routes.
+
+
+### Licensing
+
+Typically, Open Access research outputs will be licensed with a[ Creative Commons](https://creativecommons.org/) Licence. Creative Commons offer free, public licenses that copyright holders can use to grant permission for others to share and use their work under copyright law. Creative Commons licences are specifically designed for Open Access and are designed to make creative works as accessible as possible. A range of licences are possible from the most restrictive CC-BY-NC-ND (allowing non-commercial redistribution only) to the most liberal CC-BY (which allows distribution, adaptation and for the work to be built upon as long as attribution is given).
+
+
+### Library Publishing Services
+
+Libraries increasingly serve as publishers on behalf of their community of researchers. Some of the following services and solutions may be used as part of the management of this:
+
+* [Library Publishing Coalition (LPC)](https://librarypublishing.org/) – LPC is an independent, community-led membership association of academic and research libraries and library consortia engaged in scholarly publishing
+* [Manifold](https://manifoldapp.org/) – open source software for publication of Open Access monographs
+* [Fulcrum](https://www.fulcrum.org/partner-with-us/) – open source publishing platform used by University Presses for publishing and hosting.
+* [Open Journal Systems](https://openjournalsystems.com/) -an open source platform for editorial workflow, hosting and publishing of Open Access journals.
+* [Janeway](https://www.openlibhums.org/site/janeway/) – A newer alternative for journal editorial workflow, publishing and hosting developed by Birkbeck, University of London.

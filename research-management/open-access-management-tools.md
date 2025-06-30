@@ -6,9 +6,7 @@ published: true
 layout: enhanced
 parent: Research management
 ---
-# Open access management tools 
-
-
+# Open access management tools
 
 Academic libraries play a central role in supporting and
 managing their institution’s research outputs. As well as curating research
@@ -16,7 +14,6 @@ outputs via Institutional Repositories, libraries increasingly play a critical
 role in managing institution’s Open Access (OA). 
 
 The role of libraries in supporting Open Access has grown considerably over the past 5 years in light of the Open Access obligations of the Research Excellence Framework and major research funders such as UKRI, The Wellcome Trust and Horizon Europe.
-
 
 Libraries are therefore often responsible for the following:
 
@@ -43,3 +40,18 @@ Used to store and provide Open Access to scholarly outputs. The IR workflow will
 ### APC Management and Open Access Funds
 
 Libraries often manage Article Processing Charge (APC) funds and agreements.
+
+* [ChronosHub](https://chronoshub.io/about-us/about-us/) – Supports APC workflows, funding compliance, and publisher agreements.
+* [RightsLink for Scientific Communications](https://www.copyright.com/solutions-rightslink-scientific-communications/) – this service from the Copyright Clearance Center provides workflows for APC administration and management.
+
+In addition, individual publishers will use dashboards for managing transitional agreements which are often administered by libraries e.g. the Wiley Open Access Dashboard (WOAD) and the[ Taylor & Francis Research Dashboard](https://librarianresources.taylorandfrancis.com/open-research/choose-open-access/research-dashboard/)
+
+
+### Where to Publish
+
+Libraries will frequently provide advice and guidance to researchers on best practice for making their work available Open Access and will use tools such as:
+[](https://doaj.org/)
+
+* [Directory of Open Access Journals (DOAJ)](https://doaj.org/) is a unique and extensive index of diverse open access journals
+   from around the world.
+* [ Think, Check, Submit](https://thinkchecksubmit.org/) can help researchers identify trusted journals for their research.

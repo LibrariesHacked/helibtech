@@ -44,4 +44,11 @@ The market for CRIS / RIMS systems is dominated in the UK by Elsevier's Pure and
 You can also find more information on the UK research systems market in the 
 SCONUL report: [The Library Technology Landscape: Results of the SCONUL Technology Survey 2024](<>)
 
+
+
+
+### HELibTech Who Uses What Library Technology
+
+You can also find out more detailed information about which institutions are using which products by visiting the [Who Uses What section of the site](<>)
+
 **Section updated July 2025**

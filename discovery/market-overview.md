@@ -33,7 +33,6 @@ SCONUL report: [The Library Technology Landscape: Results of the SCONUL Technolo
 
 ### [](https://www.sconul.ac.uk/knowledge-hub/library-technologies/the-library-technology-landscape/)HELibTech Who Uses What Library Technology
 
-You can also find out more detailed information about which institutions are using which products by visiting the [Who Uses What section of the site](<>)
-
+You can also find out more detailed information about which institutions are using which products by visiting the [Who Uses What section of the site](https://www.helibtech.com/who-uses-what/)
 
 **Section updated July 2025**

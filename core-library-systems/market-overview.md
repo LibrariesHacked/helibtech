@@ -96,6 +96,10 @@ By Marshall Breeding American Libraries 1st May 2020
 
 See also [Marshall Breeding's Library Technology Guides dashboard ](https://librarytechnology.org/products/)which brings together data, trends, news, and other resources.
 
+### HELibTech Who Uses What Library Technology
+
+You can also find out more detailed information about which institutions are using which products by visiting the [Who Uses What section of the site](https://www.helibtech.com/who-uses-what/who-uses-what-library-technology)
+
 **Section updated July 2025**
 
 ![](<>)

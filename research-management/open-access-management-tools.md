@@ -46,7 +46,6 @@ Libraries often manage Article Processing Charge (APC) funds and agreements.
 
 In addition, individual publishers will use dashboards for managing transitional agreements which are often administered by libraries e.g. the Wiley Open Access Dashboard (WOAD) and the[ Taylor & Francis Research Dashboard](https://librarianresources.taylorandfrancis.com/open-research/choose-open-access/research-dashboard/)
 
-
 ### Where to Publish
 
 Libraries will frequently provide advice and guidance to researchers on best practice for making their work available Open Access and will use tools such as:
@@ -55,7 +54,6 @@ Libraries will frequently provide advice and guidance to researchers on best pra
 * [Directory of Open Access Journals (DOAJ)](https://doaj.org/) is a unique and extensive index of diverse open access journals
    from around the world.
 * [ Think, Check, Submit](https://thinkchecksubmit.org/) can help researchers identify trusted journals for their research.
-
 
 ### Metadata, Discoverability, and Compliance Tools
 
@@ -67,7 +65,6 @@ There are a range of tools that help ensure Open Access outputs are discoverable
 * [Unpaywall](https://unpaywall.org/) – API or browser extension used to locate OA versions of papers.
 * [CORE](https://core.ac.uk/) – Aggregates Open Access research outputs from repositories and journals globally.
 
-
 ### Persistent Identifiers
 
 Persistent identifiers support the tracking, attribution and identification of outputs and authors:
@@ -75,11 +72,9 @@ Persistent identifiers support the tracking, attribution and identification of o
 * [ORCID](https://orcid.org/) – a free unique persistent identifier (PID) for individual researchers to use to aid discovery and attribution of their work..
 * [DOI](https://www.doi.org/)**–** Digital Object Identifiers (DOI) are a unique, persistent string of characters used to permanently identify a piece of digital content, such as a journal article or research paper. It acts as a stable, permanent link to the online resource, unlike a URL which may change or disappear over time. Typically publishers will assign a DOI on publication. However services CrossRef and DataCite offer DOI registration services which may be useful to researchers seeking to make their work Open Access via alternative publishing routes.
 
-
 ### Licensing
 
 Typically, Open Access research outputs will be licensed with a[ Creative Commons](https://creativecommons.org/) Licence. Creative Commons offer free, public licenses that copyright holders can use to grant permission for others to share and use their work under copyright law. Creative Commons licences are specifically designed for Open Access and are designed to make creative works as accessible as possible. A range of licences are possible from the most restrictive CC-BY-NC-ND (allowing non-commercial redistribution only) to the most liberal CC-BY (which allows distribution, adaptation and for the work to be built upon as long as attribution is given).
-
 
 ### Library Publishing Services
 
@@ -90,3 +85,6 @@ Libraries increasingly serve as publishers on behalf of their community of resea
 * [Fulcrum](https://www.fulcrum.org/partner-with-us/) – open source publishing platform used by University Presses for publishing and hosting.
 * [Open Journal Systems](https://openjournalsystems.com/) -an open source platform for editorial workflow, hosting and publishing of Open Access journals.
 * [Janeway](https://www.openlibhums.org/site/janeway/) – A newer alternative for journal editorial workflow, publishing and hosting developed by Birkbeck, University of London.
+
+
+**Section updated July 2025**

@@ -35,6 +35,10 @@ Many of the institutions not using such software will be using manual workflows 
 
 You can also find more information on the market for learning and teaching solutions in the SCONUL report: [The Library Technology Landscape: Results of the SCONUL Technology Survey 2024](<>)
 
+### HELibTech Who Uses What Library Technology
+
+You can also find out more detailed information about which institutions are using which products by visiting the [Who Uses What section of the site](<>)
+
 **Section updated July 2025**
 
 [](<>)

@@ -33,7 +33,8 @@ Many of the institutions not using such software will be using manual workflows 
 
 ![Digitisation market share 2024](/assets/images/digitisation-market-share-pie-chart.jpg "Digitisation market share 2024")
 
-**Section updated October 2024**
-
-
 You can also find more information on the market for learning and teaching solutions in the SCONUL report: [The Library Technology Landscape: Results of the SCONUL Technology Survey 2024](<>)
+
+**Section updated July 2025**
+
+[](<>)

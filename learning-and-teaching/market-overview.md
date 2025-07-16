@@ -37,7 +37,7 @@ You can also find more information on the market for learning and teaching solut
 
 ### HELibTech Who Uses What Library Technology
 
-You can also find out more detailed information about which institutions are using which products by visiting the [Who Uses What section of the site](<>)
+You can also find out more detailed information about which institutions are using which products by visiting the [Who Uses What section of the site](https://www.helibtech.com/who-uses-what/)
 
 **Section updated July 2025**
 

@@ -26,9 +26,14 @@ Primo and WorldCat discovery are tightly integrated with their respective librar
 
 Note that of the 28 institutions indicating using other discovery solutions, the majority are not using "true" discovery solutions but rather OPAC (public catalogue) software with some additional discovery functionality for finding additional web content e.g. SirsiDynix Enterprise.
 
-**Section updated October 2024**
+
 
 ![Discovery Solution market share](/assets/images/discovery-solution-market-share-pie-chart.jpg "Discovery Solution market share")
 
 You can also find more information on the UK Discovery Solution market in the 
 SCONUL report: [The Library Technology Landscape: Results of the SCONUL Technology Survey 2024](https://www.sconul.ac.uk/knowledge-hub/library-technologies/the-library-technology-landscape/)
+
+[](https://www.sconul.ac.uk/knowledge-hub/library-technologies/the-library-technology-landscape/)
+
+[](https://www.sconul.ac.uk/knowledge-hub/library-technologies/the-library-technology-landscape/)
+**Section updated July 2025**

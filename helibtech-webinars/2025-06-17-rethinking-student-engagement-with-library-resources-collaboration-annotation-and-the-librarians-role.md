@@ -3,7 +3,7 @@ title: "Rethinking Student Engagement with Library Resources: Collaboration,
   Annotation, and the Librarian's Role"
 date: 2025-07-03T15:00:00.000Z
 synopsis: >-
-  ###### The most recent HELibTech webinar tookplace on 3rd July
+  ###### The most recent HELibTech webinar took place on 3rd July
 
 
   Data from Librarian Futures Part II found that just 25% of students
@@ -24,7 +24,8 @@ synopsis: >-
 
   bring reading, annotation, and collaboration directly into course
 
-  reading lists.
+  reading lists. A Technology from Sage blog post provides [Key takeaways from the webinar.](https://www.technologyfromsage.com/key-takeaways-on-rethinking-student-engagement-with-reading-lists/)
+
 
 
   You can watch a recording of the webinar on [YouTube](https://youtu.be/NtqWSaukRLI)

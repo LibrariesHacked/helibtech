@@ -11,7 +11,19 @@ published: true
 
 Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of artificial intelligence:
 
-### **[Generative Artificial Intelligence and Web-Scale Discovery](https://niso.org/publications/odi-ai-survey-report)**. 
+### [An Evaluative Framework for assessing AI tools](https://intranet.birmingham.ac.uk/student/libraries/copyright/researchers/responsible-ai-tool-selection.aspx) 
+
+\- to help a researcher critically assess a tool before using it. Created by University of Birmingham. 2025. 
+"*The Evaluative Framework for AI tools has been developed to help you make informed decisions when selecting a new AI tool to use. It provides you with a series of questions to ask yourself, ranging from the relevance of using an AI Tool for the task at hand to whether the use of a tool is compliant with stakeholder policies relevant to you as a researcher."*
+
+### [AI tools licensing review guidance ](https://intranet.birmingham.ac.uk/student/libraries/copyright/researchers/ai-tools-licensing-review-guidance.aspx)
+
+[](https://intranet.birmingham.ac.uk/student/libraries/copyright/researchers/ai-tools-licensing-review-guidance.aspx)a quick review checklist (aimed at researchers evaluating the terms and conditions of a tool), and a full review aimed at supporting anyone formally purchasing an AI tool for a group of users (this could be researchers or eResources/Licencing librarians). Created by University of Birmingham. 2025
+
+*"The Quick Review Checklist is aimed at helping you to quickly review the terms and conditions (licence) of an AI tool that you are considering on registering to use. It takes you through ten key points to consider before registering with an AI tool and is aimed at keeping you and your organisation safe from problematic licence terms."*
+
+
+### **[Generative Artificial Intelligence and Web-Scale Discovery](https://niso.org/publications/odi-ai-survey-report)**.
 
 A report from the NISO Open Discovery Initiative Standing Committee. Ken Varnum, University of Michigan; Rachel Kessler, Clarivate, Judy Zhu, IEEE; Teresa Hazen, University of Arizona; Bobbi Patham, Springer Nature; Jay Holloway, OCLC. NISO August 2025. 
 
@@ -25,15 +37,15 @@ There was less uniformity among fears, with each cohort responding in ways that 
 
 Library respondents’ top three fears were: 
 
-1.  Misrepresentation or fabrication of content; 
+1. Misrepresentation or fabrication of content; 
 2. Lack of transparency about inputs
-3.  Quality of AI-generated summaries
+3. Quality of AI-generated summaries
 
 Content Provider respondents’ top three fears were: 
 
 1. Copyright infringement
 2. Misrepresentation or fabrication of content 
-3.  Lack of transparency about inputs.
+3. Lack of transparency about inputs.
 
  Library respondents generally felt that Generative AI tools would enhance the value of web scale discovery for users and staff, though not overwhelmingly so.
 

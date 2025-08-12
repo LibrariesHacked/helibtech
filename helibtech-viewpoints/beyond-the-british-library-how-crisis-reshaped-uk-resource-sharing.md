@@ -3,6 +3,10 @@ title: "Beyond the British Library: How Crisis Reshaped UK Resource Sharing"
 tags:
   - Resource sharing
   - Interlending
+  - CDL
+  - RapidILL
+  - BL
+  - WHELF
 published: true
 layout: viewpoint
 parent: HELibTech viewpoints

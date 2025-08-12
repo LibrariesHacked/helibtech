@@ -7,7 +7,7 @@ published: true
 layout: viewpoint
 parent: HELibTech viewpoints
 ---
-![](/assets/images/logo-viewpoints.svg)
+
 
 ### Beyond the British Library: How Crisis Reshaped UK Resource Sharing
 

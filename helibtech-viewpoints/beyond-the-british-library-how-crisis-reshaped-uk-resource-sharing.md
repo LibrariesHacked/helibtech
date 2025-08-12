@@ -7,11 +7,9 @@ published: true
 layout: viewpoint
 parent: HELibTech viewpoints
 ---
-
-
 ### Beyond the British Library: How Crisis Reshaped UK Resource Sharing
 
-*By Kip A. Darling, Birmingham City University and Helen Hall, University of Liverpool*
+By Kip A. Darling, Birmingham City University and Helen Hall, University of Liverpool. Published August 2025
 
 It's been over five years since the pandemic hit, and frankly, the mad scramble to recreate remote ILL solutions for our institutions—or just capitulate and provide nothing for our patrons—feels like a lifetime ago. What we've witnessed since then is nothing short of remarkable: two major disruptions that could have destroyed UK resource sharing have instead forced us to become more innovative, more resilient, and arguably more effective than we were before.
 

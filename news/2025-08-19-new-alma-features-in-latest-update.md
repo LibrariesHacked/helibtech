@@ -6,6 +6,12 @@ synopsis: Ex Libris have released the latest update of the Alma ILS. The new
   and enhanced analytics through a new e-resources dashboard. Find out more on
   the [Ex Libris
   website](https://exlibrisgroup.com/announcement/alma-customers-gain-smarter-tools-and-greater-flexibility-in-august-2025-feature-release/)
+tags:
+  - Alma
+  - Library management systems
+  - Library services platform
+  - Library systems
+  - ILS
 published: true
 layout: news
 parent: News

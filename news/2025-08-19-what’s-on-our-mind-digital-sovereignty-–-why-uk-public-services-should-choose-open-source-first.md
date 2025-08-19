@@ -7,11 +7,10 @@ synopsis: In this blog post by Jonathan Field of Open Fifth, the benefits of
   on the [Open Fifth
   website](https://openfifth.co.uk/whats-on-our-mind-digital-sovereignty-open-source-public-services/)
 tags:
-  - ILS
-  - LMS
-  - Library management systems
+  - Koha
+  - open source
   - Library systems
-  - Library services platform
+  - Library management systems
 published: true
 layout: news
 parent: News

@@ -13,16 +13,13 @@ has_children: true
 
 HELibTech Viewpoints  offer thought pieces on issues pertinent to the use of technology within Higher Education libraries. These are not intended to be authoritative sources of information or academic papers. Rather these opinion pieces are there to encourage debate and discussion from within and across the community - both librarians / information professionals and suppliers.
 
-If you would like to contribute an HELibTech viewpoint [get in touch](paulverlander@gmail.com)
-
-
+If you would like to contribute an HELibTech viewpoint [get in touch](https://docs.google.com/forms/d/e/1FAIpQLSfRe6YkRcu0wJV9wdWeWuPubLz3ZSp5yGGXmYH9p3nLYYPLPw/viewform)
 
 ### [Beyond the British Library: How Crisis Reshaped UK Resource Sharing](https://www.helibtech.com/helibtech-viewpoints/beyond-the-british-library-how-crisis-reshaped-uk-resource-sharing)
 
 **Published August 2025**
 
 In the second of our HELibTech Viewpoints Kip Darling from Birmingham City University and Helen Hall from the University of Liverpool reflect on the transformation of resource sharing and interlending in the UK post-Covid. Kip and Helen take us through the rapid expansion of RapidILL, commercial document delivery solutions, the transformation of the British Library following the cyber attack and the growth of the WHELF+ consortium.
-
 
 ### [Open library platforms - a pragmatic approach. Can a proprietary library system/platform be more open that an open source one?](https://www.helibtech.com/helibtech-viewpoints/can-a-proprietary-library-system-platform-be-more-open-than-an-open-source-one)
 

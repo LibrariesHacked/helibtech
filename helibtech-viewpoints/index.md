@@ -19,7 +19,7 @@ If you would like to contribute an HELibTech viewpoint [get in touch](https://do
 
 **Published September 2025**
 
-In the third of our HELibTech Viewpoints, Matthew Weldon, Library Patron Consultant at Technology from Sage, reflects on the findings of their latest Librarian Futures report which surveyed over 300 librarians and 1000 students on their views of AI. Matthew argues that librarians have a key role to play in educating students about acceptable use of AI in their academic studies but many do not currently feel confident in doing so. By building their skills in this area there is an opportunity for academic librarians to be the trusted go to resource for students in this area. 
+In the third of our HELibTech Viewpoints, Matthew Weldon, Library Patron Consultant at Technology from Sage, reflects on the findings of their latest Librarian Futures report which surveyed over 300 librarians and 1000 students on their views of AI. Matthew argues that librarians have a key role to play in educating students about acceptable use of AI in their academic studies but many do not currently feel confident in doing so. By building their skills in this area there is an opportunity for academic librarians to be the trusted go to resource for students on AI.
 
 ### [Beyond the British Library: How Crisis Reshaped UK Resource Sharing](https://www.helibtech.com/helibtech-viewpoints/beyond-the-british-library-how-crisis-reshaped-uk-resource-sharing)
 

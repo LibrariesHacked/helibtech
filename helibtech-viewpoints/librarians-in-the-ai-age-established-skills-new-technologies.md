@@ -35,9 +35,7 @@ The second consideration is outreach. In Part III of the Librarian Futures serie
 
 Although the details above might be dispiriting, librarians should be encouraged by this: almost two thirds of students reported that they would feel more confident using an AI tool if it were recommended by their librarian. It’s not that students don’t want to hear from their librarians on AI – it’s that they don’t recognise that support is there. But when students hear their librarians speak, they **trust** them. That trust is hard-earned and well-deserved. With a louder voice, the academic library can establish itself as the go-to resource for AI support and guidance – and ensure the continued relevance of the library in the AI age.
 
-*This Viewpoint is based on findings from the Librarian Futures series of reports. For more information, visit the [Technology from Sage website ](technologyfromsage.com/whitepapers)**[](https://www.technologyfromsage.com/whitepapers/)
-to download each of the reports for free.*
-
-
+*This Viewpoint is based on findings from the Librarian Futures series of reports. For more information, visit the [Technology from Sage website ](technologyfromsage.com/whitepapers)*[](https://www.technologyfromsage.com/whitepapers/)
+*to download each of the reports for free.*
 
 Matthew is Library Patron Consultant at Technology from Sage and author of Librarian Futures Parts II, III, and IV. His writing has been featured in publications such as Against the Grain, and he is a frequent speaker at webinars attended by global audiences. He has also worked as a learning technologist, contributing to online distance learning courses, MOOCs, and microcredentials.

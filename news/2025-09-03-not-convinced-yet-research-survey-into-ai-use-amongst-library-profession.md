@@ -13,6 +13,9 @@ synopsis: >-
 
 
   The report can be downloaded in full from the [CILIP website](https://www.cilip.org.uk/page/AISurveyReport2025)
+tags:
+  - AI
+  - Artificial Intelligence
 published: true
 layout: news
 parent: News

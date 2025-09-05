@@ -15,7 +15,6 @@ The market for archive and museum systems is not as well developed as that for l
 
 The overall (inc. beyond HE) UK market for archive solutions is fragmented and served by a number of mostly small vendors that have developed solutions to serve small organisations rather than national, state or major HE institutions.  The weakness of the commercial market means that open-source systems have been developed which are supported by archive (often membership) communities with commercial companies providing implementation, development and support services. 
 
-
 The Jisc **Archives Hub service** aggregates archives collections in the UK . It "brings together descriptions of thousands of the UK’s archive collections. Representing [over 350 institutions](https://archiveshub.jisc.ac.uk/search/list/location) across the country, the Archives Hub is an effective way to discover unique and often little-known sources to support  research"
 
 The main archive systems used in UK HE are Axiell **Calm** (migrating to Axiell Collections) and open source **ArchiveSpace** and **AtoM**. 
@@ -26,7 +25,9 @@ The main archive systems used in UK HE are Axiell **Calm** (migrating to Axiell 
 
 ### AtoM
 
-[AtoM](https://www.accesstomemory.org/en/) (Access to Memory) was initially developed by Artefactual along with the digital preservation system [Archivematica ](https://www.archivematica.org/en/)and provides hosting support and development services. The [AtoM Foundation](https://accesstomemoryfoundation.org/)  is a non-profit organisation established in 2018 to oversee and support the development, sustainability and adoption of AtoM. In August 2025 OpenFith (formerly PTFS-Europe) -a UK provider of open source library solutions-  announced it will provide support services for AtoM. 
+[AtoM](https://www.accesstomemory.org/en/) (Access to Memory) was initially developed by Artefactual along with the digital preservation system [Archivematica ](https://www.archivematica.org/en/)and provides hosting support and development services. The [AtoM Foundation](https://accesstomemoryfoundation.org/)  is a non-profit organisation established in 2018 to oversee and support the development, sustainability and adoption of AtoM. 
+In August 2025 Open Fifth (formerly PTFS Europe), a UK provider of open source library solutions, announced it will provide support services for AtoM.
+
 
 ### Axiell
 

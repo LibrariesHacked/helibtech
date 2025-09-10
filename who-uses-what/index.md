@@ -25,6 +25,8 @@ tags:
   - Research metrics
   - RDM
   - RIMS
+  - Archives
+published: true
 layout: enhanced
 nav_order: 5
 has_children: true

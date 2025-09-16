@@ -1,5 +1,6 @@
 ---
 title: Market overview
+published: true
 layout: enhanced
 nav_order: 1
 parent: Discovery
@@ -9,7 +10,6 @@ tags:
   - Products
   - Procurement
   - Who uses what
-published: true
 ---
 # Discovery solutions - market overview
 
@@ -35,4 +35,4 @@ SCONUL report: [The Library Technology Landscape: Results of the SCONUL Technolo
 
 You can also find out more detailed information about which institutions are using which products by visiting the [Who Uses What section of the site](https://www.helibtech.com/who-uses-what/)
 
-**Section updated July 2025**
+**Section updated September 2025**

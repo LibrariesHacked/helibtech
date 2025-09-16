@@ -1,5 +1,9 @@
 ---
 title: Access control systems
+tags:
+  - RFID
+  - Self service
+  - Access control
 published: true
 layout: enhanced
 parent: Self service

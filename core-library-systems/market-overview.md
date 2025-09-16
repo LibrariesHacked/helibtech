@@ -1,5 +1,6 @@
 ---
 title: Market overview
+published: true
 layout: enhanced
 nav_order: 1
 parent: Core library systems
@@ -12,7 +13,6 @@ tags:
   - Procurement
   - Technology market
   - LMS
-published: true
 ---
 # Market overview
 
@@ -100,7 +100,7 @@ See also [Marshall Breeding's Library Technology Guides dashboard ](https://libr
 
 You can also find out more detailed information about which institutions are using which products by visiting the [Who Uses What section of the site](https://www.helibtech.com/who-uses-what/)
 
-**Section updated July 2025**
+**Section updated September 2025**
 
 ![](<>)
 

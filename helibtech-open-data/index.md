@@ -8,7 +8,9 @@ has_children: false
 ---
 # HELibTech open data
 
-HELibTech is committed to open data. All datasets on HELibTech can be can be freely used, re-used and redistributed by anyone under the most open Creative Commons Licence CC-BY. Any of our datasets can be re-used, adapted and re-published elsewhere as long as credit is given to Higher Education Library Technology (HELibTech) as the original data source. 
+HELibTech is committed to open data. All datasets on HELibTech can be can be freely used, re-used and redistributed by anyone under the most open Creative Commons Licence [CC0.](<>)
+
+Any of our datasets can be re-used, adapted and re-published elsewhere as long as credit is given to Higher Education Library Technology (HELibTech) as the original data source. 
 
  This does not apply to any third party datasets that may be referenced on HELibTech the attribution of which is clearly stated where appropriate.
 
@@ -73,7 +75,6 @@ Charts and graphs illustrating:
 
 <https://www.helibtech.com/research-management/market-overview>
 
-
-**Section updated March 2025**
+**Section updated September 2025**
 
 [](https://www.helibtech.com/research-management/market-overview)

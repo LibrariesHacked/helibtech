@@ -1,5 +1,6 @@
 ---
 title: Reading and resource lists
+published: true
 layout: enhanced
 nav_order: 4
 parent: Learning and teaching
@@ -8,7 +9,6 @@ tags:
   - Reading lists
   - Resource lists
   - RFID
-published: true
 ---
 # Reading and resource lists
 
@@ -30,7 +30,8 @@ In the UK and other countries such as Australia and New Zealand older 'course re
 
 Reading list / resource list systems in the UK
 
-* [Talis Aspire (Talis-Part of Technology from Sage)](https://talis.com/talis-aspire/)
+* [Talis Aspire (Talis-Part of Technology from Sage ](https://talis.com/talis-aspire/)[](https://talis.com/talis-aspire/)
+  - Acquired by Kortext 8 October 2025 -[Press Release](https://kortext.com/blog/news/kortext-acquires-talis-from-sage-advancing-library-workflow-solutions/) )
 * [BLUECloud Course Lists (SirsiDynix)](https://www.sirsidynix.com/bluecloud-course-lists/)
 * [eReserve Plus (eReserve Pty Ltd)](https://www.ereserve.com.au/)
 * [KeyLinks (Kortext)](https://www.kortext.com/keylinks/)

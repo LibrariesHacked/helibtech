@@ -37,9 +37,15 @@ Reading list / resource list systems in the UK
 * [KeyLinks (Kortext)](https://www.kortext.com/keylinks/)
 * [Leganto (ExLibris,Part of Clarivate)](https://exlibrisgroup.com/products/leganto-reading-list-management-system/)
 
+[](https://exlibrisgroup.com/products/leganto-reading-list-management-system/)
+
 In addition Blackwell offer a service that enables lecturers and others to submit reading list details and as a result enable ordering of books on the list from Blackwell - [Readinglists.co.uk](https://blackwells.co.uk/rsl/index.dfp)
 
 However, this is not a reading list solution as per the others listed above, rather a reading list specific acquisitions workflow.
+
+## 
+[](https://www.helibtech.com/learning-and-teaching/market-overview)[Market shares of reading list solutions](https://www.helibtech.com/learning-and-teaching/market-overview)
+
 
 ### Resource engagement software
 
@@ -100,4 +106,4 @@ An open source solution developed by the Open University. No longer used by OU o
 
 This was a cloud hosted reading list solution. No longer available or in business.
 
-**Section updated October 2024**[](https://talis.com/talis-elevate/)
+**Section updated October 2025**[](https://talis.com/talis-elevate/)

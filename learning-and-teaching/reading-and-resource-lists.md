@@ -31,13 +31,11 @@ In the UK and other countries such as Australia and New Zealand older 'course re
 Reading list / resource list systems in the UK
 
 * [Talis Aspire (Talis-Part of Technology from Sage ](https://talis.com/talis-aspire/)[](https://talis.com/talis-aspire/)
-  - Acquired by Kortext 8 October 2025 -[Press Release](https://kortext.com/blog/news/kortext-acquires-talis-from-sage-advancing-library-workflow-solutions/) )
+  - Acquired by Kortext 8 October 2025 -[Press Release](https://kortext.com/blog/news/kortext-acquires-talis-from-sage-advancing-library-workflow-solutions/)  "Talis’s resource list management system will join our own KeyLinks, with both products continuing to operate as normal."
 * [BLUECloud Course Lists (SirsiDynix)](https://www.sirsidynix.com/bluecloud-course-lists/)
 * [eReserve Plus (eReserve Pty Ltd)](https://www.ereserve.com.au/)
 * [KeyLinks (Kortext)](https://www.kortext.com/keylinks/)
-* [Leganto (ExLibris,Part of Clarivate)](https://exlibrisgroup.com/products/leganto-reading-list-management-system/)
-
-[](https://exlibrisgroup.com/products/leganto-reading-list-management-system/)
+* [Leganto (ExLibris,Part of Clarivate)](https://exlibrisgroup.com/products/leganto-reading-list-management-system/)[](https://exlibrisgroup.com/products/leganto-reading-list-management-system/)
 
 In addition Blackwell offer a service that enables lecturers and others to submit reading list details and as a result enable ordering of books on the list from Blackwell - [Readinglists.co.uk](https://blackwells.co.uk/rsl/index.dfp)
 

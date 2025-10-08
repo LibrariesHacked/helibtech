@@ -12,6 +12,10 @@ tags:
 ---
 # Reading and resource lists
 
+## Market shares of resource list solutions
+
+[Table of UK HE market shares](https://www.helibtech.com/learning-and-teaching/market-overview)[](<>)[](<>)
+
 ## What are reading List/resource List solutions?
 
 These are essentially 'curation' tools. Academics (with the help of librarians) create online resource lists - commonly by module or course. There is usually flexibility to create lists in a number of different formats e.g. by topic or by week of study. Resources may be further categorized by priority such as 'essential' or background' reading.
@@ -31,7 +35,8 @@ In the UK and other countries such as Australia and New Zealand older 'course re
 Reading list / resource list systems in the UK
 
 * [Talis Aspire (Talis-Part of Technology from Sage ](https://talis.com/talis-aspire/)[](https://talis.com/talis-aspire/)
-  - Acquired by Kortext 8 October 2025 -[Press Release](https://kortext.com/blog/news/kortext-acquires-talis-from-sage-advancing-library-workflow-solutions/)  "Talis’s resource list management system will join our own KeyLinks, with both products continuing to operate as normal."
+
+  * Acquired by Kortext 8 October 2025 -[Press Release](https://kortext.com/blog/news/kortext-acquires-talis-from-sage-advancing-library-workflow-solutions/)  "Talis’s resource list management system will join our own KeyLinks, with both products continuing to operate as normal."
 * [BLUECloud Course Lists (SirsiDynix)](https://www.sirsidynix.com/bluecloud-course-lists/)
 * [eReserve Plus (eReserve Pty Ltd)](https://www.ereserve.com.au/)
 * [KeyLinks (Kortext)](https://www.kortext.com/keylinks/)
@@ -39,11 +44,7 @@ Reading list / resource list systems in the UK
 
 In addition Blackwell offer a service that enables lecturers and others to submit reading list details and as a result enable ordering of books on the list from Blackwell - [Readinglists.co.uk](https://blackwells.co.uk/rsl/index.dfp)
 
-However, this is not a reading list solution as per the others listed above, rather a reading list specific acquisitions workflow.
-
-## 
-[](https://www.helibtech.com/learning-and-teaching/market-overview)[Market shares of reading list solutions](https://www.helibtech.com/learning-and-teaching/market-overview)
-
+However, this is not a reading list solution as per the others listed above, rather a reading list specific acquisitions workflow.[](https://www.helibtech.com/learning-and-teaching/market-overview)
 
 ### Resource engagement software
 

@@ -12,7 +12,7 @@ synopsis: >-
   Built on the principles of collaboration, transparency and shared innovation, open source software is backed by government guidance, and yet still often misunderstood or overlooked in the UK academic library context. Why is this? and what benefits could your institutions be missing out on because of it?
 
 
-  In this free webinar, Ken Chad and Paul Verlander from HELibTech will be joined by **Open Fifth,** a UK-based company who provide support and development services for open source library software. We’ll discuss the opportunities and hesitations of adopting open source within higher education institutions. The session will explore themes including flexibility, interoperability, and community-driven development, alongside practical considerations such as sustainability, governance, and integration with existing systems.
+  In this free webinar, Ken Chad from HELibTech was joined by **Open Fifth,** a UK-based company who provide support and development services for open source library software. We discussed the opportunities and hesitations of adopting open source within higher education institutions. The session will explore themes including flexibility, interoperability, and community-driven development, alongside practical considerations such as sustainability, governance, and integration with existing systems.
 
 
   [](https://us02web.zoom.us/webinar/register/WN_qTXFkQ8YQ2GFhFGilC69-A)

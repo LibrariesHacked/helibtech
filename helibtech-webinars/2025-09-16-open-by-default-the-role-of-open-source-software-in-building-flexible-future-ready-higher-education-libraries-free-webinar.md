@@ -15,7 +15,7 @@ synopsis: >-
   In this free webinar, Ken Chad and Paul Verlander from HELibTech will be joined by **Open Fifth,** a UK-based company who provide support and development services for open source library software. We’ll discuss the opportunities and hesitations of adopting open source within higher education institutions. The session will explore themes including flexibility, interoperability, and community-driven development, alongside practical considerations such as sustainability, governance, and integration with existing systems.
 
 
-  [Register for the free webinar](https://us02web.zoom.us/webinar/register/WN_qTXFkQ8YQ2GFhFGilC69-A)
+  [](https://us02web.zoom.us/webinar/register/WN_qTXFkQ8YQ2GFhFGilC69-A)
 tags:
   - Open source
   - Koha

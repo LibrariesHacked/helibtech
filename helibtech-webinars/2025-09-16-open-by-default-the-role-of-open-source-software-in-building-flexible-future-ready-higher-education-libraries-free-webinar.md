@@ -3,10 +3,9 @@ title: "Open by default: The role of open source software in building flexible,
   future-ready higher education libraries. FREE webinar"
 date: 2025-10-13T14:00:00.000+01:00
 synopsis: >-
-  **Monday 13th October 14:00 (BST)**
-
-
-  As higher education libraries adapt to rapidly changing technological and economic contexts, new approaches are needed for meeting user needs whilst delivering value and achieving institutional goals.
+  As higher education libraries adapt to rapidly changing technological and
+  economic contexts, new approaches are needed for meeting user needs whilst
+  delivering value and achieving institutional goals.
 
 
   Built on the principles of collaboration, transparency and shared innovation, open source software is backed by government guidance, and yet still often misunderstood or overlooked in the UK academic library context. Why is this? and what benefits could your institutions be missing out on because of it?

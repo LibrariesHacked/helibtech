@@ -3,7 +3,7 @@ title: "Librarians in the AI Age: Established Skills, New Technologies"
 tags:
   - AI
   - Artificial Intelligence
-published: false
+published: true
 layout: viewpoint
 parent: HELibTech viewpoints
 ---

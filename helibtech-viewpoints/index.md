@@ -4,6 +4,7 @@ tags:
   - LSP
   - Library management systems
   - Library services platform
+  - Collection management
 published: true
 layout: enhanced
 nav_order: 5

@@ -72,7 +72,7 @@ If you want to reduce friction quickly and make progress visible to leadership, 
 * Let COUNTER, authentication, and peer data guide iterative improvements.
 
 **NOTES and further information**
-**(1) The report:** For more information download the report: **"[Unlocking the future of e-resource management](<.  https://connect.oclc.org/helibtech-eresources-metadata>)"**. OCLC 2026. 
+**(1) The report:** For more information download the report: **"[Unlocking the future of e-resource management](https://connect.oclc.org/helibtech-eresources-metadata)"**. OCLC 2026. 
 
 
 **(2)** Senior executives are often termed C (chief) level people.  ‘C-level’ strategic assets are resources, individuals, or initiatives that directly enhance top-tier decision-making and drive organisation-wide value

@@ -7,7 +7,7 @@ published: true
 layout: viewpoint
 parent: HELibTech viewpoints
 ---
-The Strategic Pivot: From Collection Management to Research Enablement. The Invisible Infrastructure: Why Metadata Is Now a C LevelStrategic Asset, John McCullough, Executive Director, Library Management Services, OCLC. April 2026
+**The Strategic Pivot: From Collection Management to Research Enablement**. The Invisible Infrastructure: Why Metadata Is Now a C LevelStrategic Asset, John McCullough, Executive Director, Library Management Services, OCLC. April 2026
 
 # When links break, trust breaks
 

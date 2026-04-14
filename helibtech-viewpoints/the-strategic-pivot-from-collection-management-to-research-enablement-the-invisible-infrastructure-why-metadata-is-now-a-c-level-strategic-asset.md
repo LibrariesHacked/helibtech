@@ -7,7 +7,7 @@ published: true
 layout: viewpoint
 parent: HELibTech viewpoints
 ---
-**The Strategic Pivot: From Collection Management to Research Enablement**. The Invisible Infrastructure: Why Metadata Is Now a C LevelStrategic Asset, John McCullough, Executive Director, Library Management Services, OCLC. April 2026
+**The Strategic Pivot: From Collection Management to Research Enablement**. The Invisible Infrastructure: Why Metadata Is Now a C Level Strategic Asset, John McCullough, Executive Director, Library Management Services, OCLC. April 2026
 
 # When links break, trust breaks
 
@@ -37,7 +37,7 @@ The report highlights that Persistent identifiers play a central role in prevent
 
 # One pipeline, clear signals, assisted enrichment
 
-The report proposes an What’s needed is an operating pattern that reduces day to day firefighting without adding yet another layer of tools.
+The report proposes that what’s needed is an operating pattern that reduces day to day firefighting without adding yet another layer of tools.
 
 First, anchor activation in a vendor neutral knowledge base so holdings and links move together into discovery and link resolution, and so provider updates flow through to MARC, the central index, and the resolver.
 

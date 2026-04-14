@@ -16,6 +16,14 @@ HELibTech Viewpoints  offer thought pieces on issues pertinent to the use of tec
 
 If you would like to contribute an HELibTech viewpoint [get in touch](https://docs.google.com/forms/d/e/1FAIpQLSfRe6YkRcu0wJV9wdWeWuPubLz3ZSp5yGGXmYH9p3nLYYPLPw/viewform)
 
+### [The Strategic Pivot: From Collection Management to Research Enablement.](https://www.helibtech.com/helibtech-viewpoints/the-strategic-pivot-from-collection-management-to-research-enablement-the-invisible-infrastructure-why-metadata-is-now-a-c-level-strategic-asset) 
+
+### The Invisible Infrastructure: Why Metadata Is Now a C Level Strategic Asset. 
+
+By John McCullough, Executive Director, Library Management Services, OCLC. April 2026
+
+Metadata as infrastructure is now pivotal for e resources reliability, user trust, and ROI in higher education libraries. Open Access (OA) growth, hybrid OA models, and AI generated or self published content are accelerating complexity at a time when budgets remain flat. Metadata has become essential strategic infrastructure for libraries, because failures in the supply chain undermine reliable access and the trust signals users rely on, including version clarity, stable identifiers, peer review context where available, and reuse terms. They also weaken the integrity of institutional reporting used to demonstrate value, guide investment, and support governance.
+
 ### [From Curation to Context: Why Research Guides and Delivery Need a Rethink in an AI-Driven Academic Environment](https://www.helibtech.com/helibtech-viewpoints/from-curation-to-context-why-research-guides-and-delivery-need-a-rethink-in-an-ai-driven-academic-environment)
 
 By Tamir Borensztajn, Founder, [WyderNet](https://www.wydernet.com/). 

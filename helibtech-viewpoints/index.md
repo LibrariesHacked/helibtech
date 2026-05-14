@@ -16,7 +16,7 @@ HELibTech Viewpoints  offer thought pieces on issues pertinent to the use of tec
 
 If you would like to contribute an HELibTech viewpoint [get in touch](https://docs.google.com/forms/d/e/1FAIpQLSfRe6YkRcu0wJV9wdWeWuPubLz3ZSp5yGGXmYH9p3nLYYPLPw/viewform)
 
-### [Make OA Work in the Real World: Fix Version Confusion, Rights, and Link Priority.](https://helibtech_viewpoints/make-oa-work-in-the-real-world-fix-version-confusion-rights-and-link-priority)
+### [Make OA Work in the Real World: Fix Version Confusion, Rights, and Link Priority.](https://www.helibtech.com/helibtech-viewpoints/make-oa-work-in-the-real-world-fix-version-confusion-rights-and-link-priority)
 
 By John McCullough, Executive Director, Library Management Services, OCLC. May 2026
 

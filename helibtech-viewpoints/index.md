@@ -16,9 +16,15 @@ HELibTech Viewpoints  offer thought pieces on issues pertinent to the use of tec
 
 If you would like to contribute an HELibTech viewpoint [get in touch](https://docs.google.com/forms/d/e/1FAIpQLSfRe6YkRcu0wJV9wdWeWuPubLz3ZSp5yGGXmYH9p3nLYYPLPw/viewform)
 
-### [The Strategic Pivot: From Collection Management to Research Enablement.](https://www.helibtech.com/helibtech-viewpoints/the-strategic-pivot-from-collection-management-to-research-enablement-the-invisible-infrastructure-why-metadata-is-now-a-c-level-strategic-asset) 
+### Make OA Work in the Real World: Fix Version Confusion, Rights, and Link Priority. 
 
-### The Invisible Infrastructure: Why Metadata Is Now a C Level Strategic Asset. 
+By John McCullough, Executive Director, Library Management Services, OCLC. May 2026
+
+When a student hits a paywall, the next step is often predictable. They look for an open access version. OCLC Research confirms this behaviour. Its Open Access Discovery study  found that while users actively seek scholarly, peer-reviewed OA publications, they still find it not very easy to discover or access. The problem is not motivation. It is whether OA is operationalised as part of the same end-to-end pipeline as licensed content, so links, versions, and rights information stay consistent wherever users start. The message according to OCLC’s new report, Unlocking the future of e-resource management is straightforward, if you want OA to work reliably for users, you need to treat it as part of the same end-to-end pipeline as licensed content
+
+### [The Strategic Pivot: From Collection Management to Research Enablement.](https://www.helibtech.com/helibtech-viewpoints/the-strategic-pivot-from-collection-management-to-research-enablement-the-invisible-infrastructure-why-metadata-is-now-a-c-level-strategic-asset)
+
+### The Invisible Infrastructure: Why Metadata Is Now a C Level Strategic Asset.
 
 By John McCullough, Executive Director, Library Management Services, OCLC. April 2026
 

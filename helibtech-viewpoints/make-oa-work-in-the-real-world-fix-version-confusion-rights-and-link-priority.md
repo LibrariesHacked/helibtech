@@ -9,7 +9,9 @@ published: true
 layout: viewpoint
 parent: HELibTech viewpoints
 ---
-## **Open Access Is Not Broken. Discovery Is. OA intent is high; OA success is patchy**
+## Open Access Is Not Broken. Discovery Is.
+
+**OA intent is high; OA success is patchy**
 
 When a student hits a paywall, the next step is often predictable. They look for an open access version.
 
@@ -27,7 +29,7 @@ This is the moment where OA either feels effortless or feels risky. The differen
 
 *“Users do look for open versions, but they won’t find them reliably unless identifiers and rights travel consistently across systems.” Ixchel Faniel, Senior Research Scientist, OCLC Research*
 
-## What “open access” really means in practice
+### What “open access” really means in practice
 
 Open access is scholarly content that is free to read online and often free to reuse under stated terms. OA copies can be preprints, author accepted manuscripts, or the version of record. These versions can look similar to users while carrying different signals about peer review, citation, and reuse.
 
@@ -81,7 +83,7 @@ The report recommends machine-assisted enrichment to reduce duplication and impr
 
 *“When metadata, licensing, and access operate from one backbone, you stop firefighting links and start delivering outcomes.” John McCullough, Executive Director, Library Management Services, OCLC*
 
-## Measuring what matters (beyond usage totals)
+### Measuring what matters (beyond usage totals)
 
 If you only look at usage totals, you miss the story of how users got there, or where they gave up.
 
@@ -93,13 +95,13 @@ Unlocking the future of e-resource management recommends combining multiple lens
 
 This matters for OA because OA usage can be invisible in traditional access logs when users do not need to authenticate. It also matters because version confusion and duplicate records can distort cost-per-use and misattribute demand.
 
-## Counterpoint: “If we prioritise OA, do we risk lowering quality?”
+### Counterpoint: “If we prioritise OA, do we risk lowering quality?”
 
 A common concern is that OA can surface non-peer-reviewed content, especially when preprints are in the mix. The remedy is not to deprioritise OA. It is to clarify the signals users need to evaluate what they are seeing.
 
 The OA discovery findings from OCLC  points to peer review status, version information, and identifiers as key metadata that helps users decide what is trustworthy and what is appropriate to cite. Better OA discovery is not about pushing users toward one route. It is about giving them clear choices.
 
-## Key takeaways
+### Key takeaways
 
 * OA discovery breaks when OA is treated as a side channel. Unify pipelines. 
 * Make version and rights visible at the point of decision to reduce uncertainty and support confident use. 
@@ -107,9 +109,7 @@ The OA discovery findings from OCLC  points to peer review status, version infor
 * Use automation to keep links and metadata reliable as content changes. 
 * Combine usage, authentication insight, and peer context to prioritise improvements and demonstrate value.
 
-
-
-***All of this and more will be explored in OCLC’s [forthcoming webinar](https://connect.oclc.org/helibtech-eresources-webinar-article2.): Simplifying e-resource management for the age of OA, AI, and hybrid collections, on Tuesday 2 June*** 
+***All of this and more will be explored in OCLC’s [forthcoming webinar](https://connect.oclc.org/helibtech-eresources-webinar-article2): Simplifying e-resource management for the age of OA, AI, and hybrid collections, on Tuesday 2 June*** 
 
 With Independent library technology consultant Ken Chad moderating, OCLC’s John McCullough and Ixchel Faniel will dig into real-world patterns behind OA discovery failures, how to operationalise version-aware linking, and where libraries get the largest gains from unified activation. Bring your toughest OA edge cases. We will focus on pragmatic fixes you can pilot this summer. 2 June, 14:00 BST/15.00 CEST.
 

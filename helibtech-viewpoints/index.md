@@ -24,7 +24,7 @@ When a student hits a paywall, the next step is often predictable. They look for
 
 ### [The Strategic Pivot: From Collection Management to Research Enablement.](https://www.helibtech.com/helibtech-viewpoints/the-strategic-pivot-from-collection-management-to-research-enablement-the-invisible-infrastructure-why-metadata-is-now-a-c-level-strategic-asset)
 
-### The Invisible Infrastructure: Why Metadata Is Now a C Level Strategic Asset.
+**The Invisible Infrastructure: Why Metadata Is Now a C Level Strategic Asset.**
 
 By John McCullough, Executive Director, Library Management Services, OCLC. April 2026
 

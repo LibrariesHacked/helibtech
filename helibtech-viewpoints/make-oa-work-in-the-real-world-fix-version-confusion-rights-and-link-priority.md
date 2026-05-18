@@ -27,7 +27,7 @@ An undergraduate searches for a seminar reading. They click a result and hit a p
 
 This is the moment where OA either feels effortless or feels risky. The difference is metadata that carries version and rights signals all the way through to the point of decision.
 
-*“Users do look for open versions, but they won’t find them reliably unless identifiers and rights travel consistently across systems.” Ixchel Faniel, Senior Research Scientist, OCLC Research*
+> “Users do look for open versions, but they won’t find them reliably unless identifiers and rights travel consistently across systems.” Ixchel Faniel, Senior Research Scientist, OCLC Research
 
 ### What “open access” really means in practice
 
@@ -81,7 +81,7 @@ OA coverage changes. Packages change. URLs move. Manual clean-up does not scale.
 
 The report recommends machine-assisted enrichment to reduce duplication and improve link reliability, while keeping librarians in control of policy and exceptions. This matters in hybrid environments where the “best” link can vary by entitlement, version, and user context.
 
-*“When metadata, licensing, and access operate from one backbone, you stop firefighting links and start delivering outcomes.” John McCullough, Executive Director, Library Management Services, OCLC*
+> “When metadata, licensing, and access operate from one backbone, you stop firefighting links and start delivering outcomes.” John McCullough, Executive Director, Library Management Services, OCLC
 
 ### Measuring what matters (beyond usage totals)
 
@@ -113,4 +113,4 @@ The OA discovery findings from OCLC  points to peer review status, version infor
 
 With Independent library technology consultant Ken Chad moderating, OCLC’s John McCullough and Ixchel Faniel will dig into real-world patterns behind OA discovery failures, how to operationalise version-aware linking, and where libraries get the largest gains from unified activation. Bring your toughest OA edge cases. We will focus on pragmatic fixes you can pilot this summer. 2 June, 14:00 BST/15.00 CEST.
 
-**Read more:** download the e[\-resources report](https://connect.oclc.org/helibtech-eresources-OA)
+**Read more:** download the [e-resources report](https://connect.oclc.org/helibtech-eresources-OA)

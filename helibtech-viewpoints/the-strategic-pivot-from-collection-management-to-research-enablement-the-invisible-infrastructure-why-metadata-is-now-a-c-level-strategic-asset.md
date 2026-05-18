@@ -8,9 +8,11 @@ published: true
 layout: viewpoint
 parent: HELibTech viewpoints
 ---
-**The Strategic Pivot: From Collection Management to Research Enablement**. The Invisible Infrastructure: Why Metadata Is Now a C Level Strategic Asset. John McCullough, Executive Director, Library Management Services, OCLC. April 2026
+## The Strategic Pivot: From Collection Management to Research Enablement
 
-# When links break, trust breaks
+The Invisible Infrastructure: Why Metadata Is Now a C Level Strategic Asset. John McCullough, Executive Director, Library Management Services, OCLC. April 2026
+
+### When links break, trust breaks
 
 Higher education libraries face a paradox. Digital collections dominate spend, yet students and researchers still encounter broken links, duplicate results, and version confusion. Sometimes the right version is not available through the library’s pathways. In other cases, the version is there but it is not clearly labelled at the point of discovery and access. Rights and reuse cues can also be unclear, leaving users unsure what they can do with what they find. The cause is rarely a system glitch. It is a metadata supply chain that has not kept pace with developments in OA , hybrid collections and rapidly changing platforms.
 
@@ -20,13 +22,13 @@ It also underscores a practical reality. Users often start with major search eng
 
 This is why metadata has become an executive ‘C-Level’ **(2)** concern. It directly affects measurable value and ROI, risk and compliance around entitlements, and the credibility of the evidence senior leaders use to make funding and platform decisions.
 
-# Three things libraries can fix
+### Three things libraries can fix
 
 1. Pipeline drift. Provider changes such as title swaps, coverage updates, and URL moves do not always propagate cleanly across the knowledge base, central index, resolver, and MARC delivery. The result is links and holdings that fall out of step.
 2. Identifier gaps. Missing or inconsistent DOIs, ORCIDs, and RORs make it harder for systems to match records, suppress duplicates, connect versions, and produce reliable reporting.
 3. Entitlements that are hard to act on. In hybrid and transformative environments, title level terms and reuse conditions can differ within mixed packages. When that context is not connected to what users see, people struggle to choose the right route and staff spend time answering avoidable questions.
 
-# Metadata as infrastructure
+### Metadata as infrastructure
 
 Rather than being a background detail, metadata now functions as the connective system that underpins every stage of e-resource management. It brings together persistent identifiers, a shared knowledge base of holdings, license information, and enrichment workflows that allow discovery, access, and analytics to operate consistently across platforms. This shared layer is what enables libraries to keep pace with rising complexity and ensure that users, systems, and leadership dashboards all work from the same reliable signals.
 
@@ -36,7 +38,7 @@ The report highlights that Persistent identifiers play a central role in prevent
 
 ***“Users do look for open versions, but they will not find them reliably unless identifiers and rights travel consistently across systems.”*** Ixchel Faniel, Senior Research Scientist, OCLC Research.
 
-# One pipeline, clear signals, assisted enrichment
+### One pipeline, clear signals, assisted enrichment
 
 The report proposes that what’s needed is an operating pattern that reduces day to day firefighting without adding yet another layer of tools.
 
@@ -48,13 +50,13 @@ Third, use machine assisted enrichment to reduce duplication and improve link re
 
 Fourth, let evidence drive small, regular course corrections by combining COUNTER usage via SUSHI with authentication-based insight and peer context. This helps teams see not only what is used, but where access fails, who is affected, and whether collections align with programmes and comparable institutions.
 
-# Reframing user trust
+### Reframing user trust
 
 Here, “user trust” is practical. It is confidence that library discovery pathways will reliably lead to the right item and the right copy, clearly identified, without dead ends, duplicates, or misleading signals. Based on the recommendations in the report, that means people can recognise which version they are viewing, understand how they may use it, and reach full text that works on the first attempt.
 
 Trust also depends on users being able to recognise credibility cues, such as peer review context where it is available, stable identifiers such as a DOI, and clear relationships between versions, so they can cite and share with confidence. The remedy is to surface version, identifier, and reuse signals at the point of decision and to prioritise the best lawful copy, including legitimate OA, within link resolution. Interface refinements can help. However, without complete, current, and connected metadata, improved UX only reveals upstream inconsistencies more quickly.
 
-# What this means for libraries
+### What this means for libraries
 
 If you want to reduce friction quickly and make progress visible to leadership, focus on a short, practical sequence.
 
@@ -64,7 +66,7 @@ If you want to reduce friction quickly and make progress visible to leadership, 
 * Turn on assisted enrichment, then review exceptions. Use automated deduplication and link improvement to reduce noise, and schedule lightweight reviews so local overrides do not become technical debt.
 * Use evidence to prioritise the next fix. Combine COUNTER with authentication signals and peer context to identify the next bottleneck, then measure whether the change holds.
 
-# Key takeaways
+### Key takeaways
 
 * Treat metadata as infrastructure to stabilise discovery, access, and analytics.
 * Operate a single pipeline so OA and licensed links and holdings stay in sync.
@@ -72,9 +74,9 @@ If you want to reduce friction quickly and make progress visible to leadership, 
 * Use identifiers and assisted enrichment to suppress duplicates and improve routing.
 * Let COUNTER, authentication, and peer data guide iterative improvements.
 
-**NOTES and further information**
-**(1) The report:** For more information download the report: **"[Unlocking the future of e-resource management](https://connect.oclc.org/helibtech-eresources-metadata)"**. OCLC 2026. 
+### NOTES and further information
 
+**(1) The report:** For more information download the report: **"[Unlocking the future of e-resource management](https://connect.oclc.org/helibtech-eresources-metadata)"**. OCLC 2026. 
 
 **(2)** Senior executives are often termed C (chief) level people.  ‘C-level’ strategic assets are resources, individuals, or initiatives that directly enhance top-tier decision-making and drive organisation-wide value
 

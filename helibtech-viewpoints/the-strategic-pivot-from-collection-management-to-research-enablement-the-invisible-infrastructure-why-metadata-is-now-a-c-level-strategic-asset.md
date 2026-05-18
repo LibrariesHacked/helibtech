@@ -10,7 +10,9 @@ parent: HELibTech viewpoints
 ---
 ## The Strategic Pivot: From Collection Management to Research Enablement
 
-The Invisible Infrastructure: Why Metadata Is Now a C Level Strategic Asset. John McCullough, Executive Director, Library Management Services, OCLC. April 2026
+**The Invisible Infrastructure: Why Metadata Is Now a C Level Strategic Asset.** 
+
+John McCullough, Executive Director, Library Management Services, OCLC. April 2026
 
 ### When links break, trust breaks
 
@@ -36,7 +38,7 @@ When that chain is incomplete or inconsistent, users experience friction in the 
 
 The report highlights that Persistent identifiers play a central role in preventing these failures. In particular, DOI for works, ORCID for authors, and ROR for institutions support consistent deduplication, accurate version linking, and more credible analytics across systems.
 
-***“Users do look for open versions, but they will not find them reliably unless identifiers and rights travel consistently across systems.”*** Ixchel Faniel, Senior Research Scientist, OCLC Research.
+> *“Users do look for open versions, but they will not find them reliably unless identifiers and rights travel consistently across systems.”* Ixchel Faniel, Senior Research Scientist, OCLC Research.
 
 ### One pipeline, clear signals, assisted enrichment
 

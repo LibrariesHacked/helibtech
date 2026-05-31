@@ -8,7 +8,7 @@ published: true
 layout: viewpoint
 parent: HELibTech viewpoints
 ---
-**Scaling e Resource Management: Where Automation Helps and Where Judgement Still Matters.** 
+# **Scaling e Resource Management: Where Automation Helps and Where Judgement Still Matters.** 
 
 John McCullough, Executive Director, Library Management Services, OCLC. May 2026
 

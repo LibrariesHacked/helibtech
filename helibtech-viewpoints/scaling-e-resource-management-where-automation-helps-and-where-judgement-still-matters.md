@@ -8,7 +8,7 @@ published: true
 layout: viewpoint
 parent: HELibTech viewpoints
 ---
-# **Scaling e Resource Management: Where Automation Helps and Where Judgement Still Matters.** 
+# **Scaling e Resource Management: Where Automation Helps and Where Judgement Still Matters.**
 
 John McCullough, Executive Director, Library Management Services, OCLC. May 2026
 
@@ -44,7 +44,7 @@ As OA and licensed content increasingly coexist at article level, duplication be
 
 Manual record maintenance does not scale in environments where collections are in constant flux. Automated distribution of record updates ensures that discovery reflects current holdings without repeated manual intervention, while still allowing libraries to apply local policies and exceptions where they matter.
 
-###  Where human judgement remains essential
+### Where human judgement remains essential
 
 As automation brings greater consistency to metadata and access workflows, its real value shows up in the quality of the evidence it produces. Reliable data, gathered at scale, creates a stronger foundation for decisions that shape collections, investment priorities, and longer term institutional direction.
 
@@ -87,6 +87,6 @@ Automation alone does not create capacity. Capacity emerges when libraries pair 
 
 **(2)** Unlocking the future of e-resource management. OCLC 2026. https://connect.oclc.org/unlock_e_resources
 
-**Webinar**: Simplifying e-resource management for the age of open access, AI, and hybrid collections. Tuesday, June 2, 2026 - 2.00pm BST / 3.00pm CEST / 09.00am EDT, A practical conversation focused on what to do next, what to automate with confidence, and how to ensure human judgement remains central as systems scale.
+***All of this and more was explored in OCLC’s  webinar: (recording): Simplifying e-resource management for the age of OA, AI, and hybrid collections, held on Tuesday 2 June 2026*** .With Independent library technology consultant Ken Chad moderating, OCLC’s John McCullough and Ixchel Faniel. This was a practical conversation focused on what to do next, what to automate with confidence, and how to ensure human judgement remains central as systems scale.
 
 **Register:**  https://connect.oclc.org/simplify_e_resources

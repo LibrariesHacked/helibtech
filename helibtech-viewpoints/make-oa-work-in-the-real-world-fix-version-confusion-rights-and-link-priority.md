@@ -109,8 +109,6 @@ The OA discovery findings from OCLC  points to peer review status, version infor
 * Use automation to keep links and metadata reliable as content changes. 
 * Combine usage, authentication insight, and peer context to prioritise improvements and demonstrate value.
 
-***All of this and more will be explored in OCLC’s [forthcoming webinar](https://connect.oclc.org/helibtech-eresources-webinar-article2): Simplifying e-resource management for the age of OA, AI, and hybrid collections, on Tuesday 2 June*** 
-
-With Independent library technology consultant Ken Chad moderating, OCLC’s John McCullough and Ixchel Faniel will dig into real-world patterns behind OA discovery failures, how to operationalise version-aware linking, and where libraries get the largest gains from unified activation. Bring your toughest OA edge cases. We will focus on pragmatic fixes you can pilot this summer. 2 June, 14:00 BST/15.00 CEST.
+***All of this and more was explored in OCLC’s [ webinar](https://event.webcasts.com/viewer/event.jsp?ei=1758322&tp_key=f5036c6800): (recording): Simplifying e-resource management for the age of OA, AI, and hybrid collections, held on Tuesday 2 June 2026*** .With Independent library technology consultant Ken Chad moderating, OCLC’s John McCullough and Ixchel Faniel  dug into real-world patterns behind OA discovery failures, how to operationalise version-aware linking, and where libraries get the largest gains from unified activation.
 
 **Read more:** download the [e-resources report](https://connect.oclc.org/helibtech-eresources-OA)

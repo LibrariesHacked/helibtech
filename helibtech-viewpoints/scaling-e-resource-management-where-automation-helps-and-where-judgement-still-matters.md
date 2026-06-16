@@ -87,6 +87,6 @@ Automation alone does not create capacity. Capacity emerges when libraries pair 
 
 **(2)** Unlocking the future of e-resource management. OCLC 2026. https://connect.oclc.org/unlock_e_resources
 
-***All of this and more was explored in OCLC’s  webinar: (recording): Simplifying e-resource management for the age of OA, AI, and hybrid collections, held on Tuesday 2 June 2026*** .With Independent library technology consultant Ken Chad moderating, OCLC’s John McCullough and Ixchel Faniel. This was a practical conversation focused on what to do next, what to automate with confidence, and how to ensure human judgement remains central as systems scale.
+***All of this and more was explored in OCLC’s  [webinar: (recording](https://event.webcasts.com/viewer/event.jsp?ei=1758322&tp_key=f5036c6800)): Simplifying e-resource management for the age of OA, AI, and hybrid collections, held on Tuesday 2 June 2026*** .With Independent library technology consultant Ken Chad moderating, OCLC’s John McCullough and Ixchel Faniel. This was a practical conversation focused on what to do next, what to automate with confidence, and how to ensure human judgement remains central as systems scale.
 
 **Register:**  https://connect.oclc.org/simplify_e_resources

@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: "** Style Guide"
 published: true
 layout: viewpoint
 parent: HELibTech viewpoints

@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Student Engagement with Library Resources: Collaboration,
   Annotation, and the Librarian's Role"
-date: 1902-01-11T18:18:00.000+00:00
+date: 2025-07-03
 synopsis: >-
   Data from Librarian Futures Part II found that just 25% of students reported
   that librarians supported them in key areas. While many students trust

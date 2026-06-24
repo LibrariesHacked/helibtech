@@ -1,7 +1,7 @@
 ---
 title: "Open by default: The role of open source software in building flexible,
   future-ready higher education libraries"
-date: 1905-10-11T14:00:00.000+00:00
+date: 2025-10-13T14:00:00.000
 synopsis: >-
   As higher education libraries adapt to rapidly changing technological and
   economic contexts, new approaches are needed for meeting user needs whilst

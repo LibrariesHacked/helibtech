@@ -12,10 +12,17 @@ has_children: true
 ---
 # Artificial intelligence and library technology
 
-NOTE: Product descriptions are not necessarily unbiased. They are taken from a mixture of vendor, library and other websites 
-If you would like to **contribute to HELibTech please send us your content** via our [content submission form](https://forms.gle/UmtXM59GMVpq1uMr5). Alternatively feel free to contact [Paul Verlander (](https://www.helibtech.com/paulverlander@gmail.com)HELibTech Community Editor) to discuss further.
+AI in libraries - **MATURITY LEVEL SURVEY**   July 2026
+Survey link:
+<https://www.surveymonkey.com/r/NC79RHV>
+Maturity level assessments are structured diagnostic tools used to evaluate an organization's current capabilities. As part of Higher Education Library Technology  Ken Chad Consulting has developed a draft AI 'maturity model' for UK HE and FE libraries. It measures library capability, not simply the number of AI tools deployed. It is informed by work with libraries, published literature and the work by Jisc on institutional maturity models to support their Digital Transformation work. Many libraries are experimenting with AI, but maturity depends on governance, workforce capability, integration with services, and alignment with changing student expectations. We now wish to validate our draft model to improve it and make it more useful to libraries to help them characterise/understand where they are and how they might progress in terms of their maturity level.
+You can optionally enter for the prize draw (£50 Amazon gift voucher)
+
+
 
 # AI capabilities that are part of library technology products such as library systems.
+
+NOTE: Product descriptions are not necessarily unbiased. They are taken from a mixture of vendor, library and other websites If you would like to **contribute to HELibTech please send us your content** via our content submission form. Alternatively feel free to contact Paul Verlander (HELibTech Community Editor) to discuss further.
 
 ## Discovery
 
@@ -55,7 +62,7 @@ If you would like to **contribute to HELibTech please send us your content** via
 
 *"The Alma AI Metadata Assistant streamlines cataloging by suggesting metadata for bibliographic records, which catalogers can review, refine, or dismiss. Using AI-driven insights from Large Language Models (LLMs) and vision-based tools, it makes cataloging faster and more accurate, allowing experts to focus on higher-level tasks. The AI Metadata Generator enriches bibliographic records in the Alma Community Zone. Currently enriching ProQuest™ Ebook Central titles, it aims to improve 100,000 records by the end of 2024, saving time and reducing costs for content providers while ensuring high-quality metadata for libraries."* [Harnessing Academic AI – Insights from Clarivate](https://exlibrisgroup.com/announcement/latest-news-harnessing-academic-ai-insights-from-clarivate/)
 
-[The AI Metadata Assistant in the Metadata Editor ](https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)/Metadata_Management/005Introduction_to_Metadata_Management/The_AI_Metadata_Assistant_in_the_Metadata_Editor)[](https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)/Metadata_Management/005Introduction_to_Metadata_Management/The_AI_Metadata_Assistant_in_the_Metadata_Editor)
+[The AI Metadata Assistant in the Metadata Editor ](https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)/Metadata_Management/005Introduction_to_Metadata_Management/The_AI_Metadata_Assistant_in_the_Metadata_Editor)
 
 *"What is the AI Metadata Assistant? The AI Metadata Assistant uses a Large Language Model generative AI to process information about a library resource and suggest relevant metadata to the cataloger to help make the cataloging process quicker and more efficient. The cataloger can then review the suggested data and accept, correct or dismiss it, as well as add more complex, expert metadata and library-specific metadata. The AI Metadata Assistant can process images of a library resource along with other provided information, extract the text and meaning, and return it structured according to cataloging standards. It can be used for creating new bibliographic records, as well as enriching existing brief records. Phase Iof Alma’s AI Metadata Assistant supports creating and enriching MARC 21records in the English language – more cataloging and resource languages and formats will be added in future phases, as we work with the community to evaluate the AI’s capabilities and quality of metadata. The subjects provided are validated against Library of Congress vocabularies, with plans to increase the selection of authority vocabularies in future phases.*
 
@@ -84,7 +91,7 @@ From: Implementing AI to further scale and accelerate WorldCat de-duplication. O
 *"Consensus is an AI / LLM-powered search scientific academic search engine. It sources data from the Semantic Scholar dataset (which includes 200 million peer-reviewed documents across all domains of science). It analyses
 the most relevant papers and generates a summary of key findings.  It also includes an integrated ChatGPT-style assistant, Consensus Copilot, which will answer questions, draft content, create lists, and more."* 
 
-### [Elicit](https://elicit.com/welcome)[](https://elicit.com/welcome)
+### [Elicit](https://elicit.com/welcome)
 
 *"Analyze research papers at superhuman speed. Automate time-consuming research tasks like summarizing papers, extracting data, and synthesizing your findings."* 
 
@@ -141,9 +148,9 @@ https://www.brookes.ac.uk/library/how-to/use-ai-tools-for-research?utm_source=ch
 
 From [Oxford Brookes University](Oxford%20Brookes%20University) <https://www.brookes.ac.uk/library/how-to/use-ai-tools-for-research?utm_source=chatgpt.com>
 *"Combining literature search capabilities with summarization features, SciSpace helps researchers quickly
-assess the relevance of academic papers. "*[](https://www.brookes.ac.uk/library/how-to/use-ai-tools-for-research?utm_source=chatgpt.com)
+assess the relevance of academic papers. "*
 
-### [Semantic Scholar ](https://www.semanticscholar.org/)[](https://www.semanticscholar.org/)
+### [Semantic Scholar ](https://www.semanticscholar.org/)
 
 *"Semantic Scholar provides free, AI-driven search and discovery tools, and open resources
 for the global research community. We index over 200 million academic papers sourced from [publisher partnerships](https://www.semanticscholar.org/about/publishers), data providers, and web crawls. With Semantic Scholar, researchers can understand a paper at a glance. Our system extracts meaning and identifies connections from within papers, then surfaces these insights to help Scholars discover and understand research."*
@@ -204,7 +211,7 @@ Smith, A. (2016). Big Data Technology, Evolving Knowledge Skills and Emerging Ro
 
 [Retrieval-Augmented Generation](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) 
 
-(RAG) is a technique that grants [generative artificial intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) models [information retrieval](https://en.wikipedia.org/wiki/Information_retrieval) capabilities. It modifies interactions with a [large language model](https://en.wikipedia.org/wiki/Large_language_model) (LLM) so that the model responds to user queries with reference to a specified set of documents, using this information to augment information drawn from its own vast, static [training data](https://en.wikipedia.org/wiki/Training_data). This allows LLMs to use domain-specific and/or updated information.[](https://en.wikipedia.org/wiki/Retrieval-augmented_generation#cite_note-Survey-1) Use cases include providing chatbot access to internal company data or giving factual information only from an authoritative source. (Wikipedia)[](https://en.wikipedia.org/wiki/Retrieval-augmented_generation#cite_note-AWS-2)
+(RAG) is a technique that grants [generative artificial intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) models [information retrieval](https://en.wikipedia.org/wiki/Information_retrieval) capabilities. It modifies interactions with a [large language model](https://en.wikipedia.org/wiki/Large_language_model) (LLM) so that the model responds to user queries with reference to a specified set of documents, using this information to augment information drawn from its own vast, static [training data](https://en.wikipedia.org/wiki/Training_data). This allows LLMs to use domain-specific and/or updated information. Use cases include providing chatbot access to internal company data or giving factual information only from an authoritative source. (Wikipedia)
 
 #### Natural language processing
 
@@ -237,6 +244,5 @@ Also known as an artificial neural network, this is a type of machine learning l
 A more recent variation of neural networks, which uses many layers of artificial neurons to solve more difficult problems. Its popularity as a technique increased significantly from the mid-2000s onwards, as it is behind much of the wider interest in AI today. It is often used to classify information from images, text or sound
 
 See the useful resources section for further information on AI from a range of authoritative sources.
-
 
 **Section updated February 2025**

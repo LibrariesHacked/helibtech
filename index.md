@@ -2,11 +2,11 @@
 title: About HELibTech
 tags:
   - Library systems
+published: true
 layout: enhanced
 nav_order: 0
 has_children: false
 nav_exclude: true
-published: true
 ---
 ![A text logo for Higher Education Library Technology](/assets/images/logo-no-background.svg)
 
@@ -38,7 +38,7 @@ If you would like to contribute to HELibTech please send us your content via our
 
 ## Our community editors
 
-Paul Verlander is an information professional with over 15 years’ experience in Higher Education managing systems, collections and research support. Paul currently works in public libraries during a carer's career break.
+Paul Verlander is an information professional with over 15 years’ experience in Higher Education managing systems, collections and research support. 
 
 Dave Rowe is an experienced software developer and creator of the award winning Libraries Hacked site.
 

@@ -38,7 +38,7 @@ If you would like to contribute to HELibTech please send us your content via our
 
 ## Our community editors
 
-Paul Verlander is an information professional with over 15 years’ experience in Higher Education managing systems, collections and research support. 
+Ken Chad in Director of Ken Chad Consulting Ltd and has worked in the fields of library, archive and research systems  for over 15 years 
 
 Dave Rowe is an experienced software developer and creator of the award winning Libraries Hacked site.
 

@@ -14,8 +14,9 @@ has_children: true
 
 ## Maturity level outline for AI adoption in UK HE and FE libraries
 
-
 Maturity level assessments are structured diagnostic tools used to evaluate an organization's current capabilities. As part of Higher Education Library Technology  Ken Chad Consulting has developed a draft AI 'maturity model' for UK HE and FE libraries. It measures library capability, not simply the number of AI tools deployed. It is informed by work with libraries, published literature and the work by Jisc on institutional maturity models to support their Digital Transformation work. Many libraries are experimenting with AI, but maturity depends on governance, workforce capability, integration with services, and alignment with changing student expectations. 
+
+**[View the Maturity Level document](https://www.kenchadconsulting.com/wp-content/uploads/2026/07/Maturity-level-schema-for-AI-adoptiion-in-UK-HE-and-FE-July-2026.pdf) (PDF)** 
 
 We now wish to v**alidate our draft model to improve it and make it more useful to libraries** to help them characterise/understand where they are and how they might progress in terms of their maturity level.
 You can optionally enter for the prize draw (£50 Amazon gift voucher)

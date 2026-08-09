@@ -20,6 +20,10 @@ Established by [Ken Chad Consulting](http://www.kenchadconsulting.com/) HELibTec
 
 Please note that although content on the site can be viewed and downloaded, any third party content might be subject to its own restrictions on use / re-use. Note also that HELibTech is not responsible for the accuracy of third party content.
 
+#### We need a new community editor
+
+Ken Chad Consulting is seeking a new community editor for Higher Education Library Technology. They will take the place of Paul Verlander who retired from the role in July 2026. This is a great opportunity for someone with enthusiasm, content writing skills and technical aptitude, to contribute to this valuable community resource and enhance their professional standing. More information is in the**[ job description](https://www.kenchadconsulting.com/wp-content/uploads/2026/08/HELibTech-Community-Editor-job-description-August-2026.pdf)**
+
 ## Contribute to HELibTech
 
 HELibTech is a **community resource.** The strength of our site is in drawing together resources and expertise from across the library community. We actively encourage contributions for new content from all those with an interest in library technology.

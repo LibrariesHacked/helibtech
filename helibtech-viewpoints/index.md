@@ -14,7 +14,7 @@ has_children: true
 
 HELibTech Viewpoints  offer thought pieces on issues pertinent to the use of technology within Higher Education libraries. These are not intended to be authoritative sources of information or academic papers. Rather these opinion pieces are there to encourage debate and discussion from within and across the community - both librarians / information professionals and suppliers.
 
-If you would like to contribute an HELibTech viewpoint [get in touch](https://docs.google.com/forms/d/e/1FAIpQLSfRe6YkRcu0wJV9wdWeWuPubLz3ZSp5yGGXmYH9p3nLYYPLPw/viewform)
+**If you would like to contribute** an HELibTech viewpoint **contact Ken Chad** (ken@kenchadconsultng.com)
 
 ### [Scaling e‑Resource Management: Where Automation Helps and Where Judgement Still Matters](https://www.helibtech.com/helibtech-viewpoints/scaling-e-resource-management-where-automation-helps-and-where-judgement-still-matters)
 

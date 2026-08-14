@@ -18,9 +18,30 @@ Maturity level assessments are structured diagnostic tools used to evaluate an o
 
 **[View the Maturity Level document](https://www.kenchadconsulting.com/wp-content/uploads/2026/07/Maturity-level-schema-for-AI-adoptiion-in-UK-HE-and-FE-July-2026.pdf) (PDF)** 
 
-We now wish to v**alidate our draft model to improve it and make it more useful to libraries** to help them characterise/understand where they are and how they might progress in terms of their maturity level.
+This  schema analyses maturity levels across the following four 'dimensions'
 
-Take part in the survey -AI in libraries - **MATURITY LEVEL SURVEY**  July 2026 **[Survey link  ](https://www.surveymonkey.com/r/NC79RHV)**You can optionally enter for the prize draw (£50 Amazon gift voucher)
+1. Student behaviour
+2. Library staff
+3. Policy
+4. Services
+
+There are 6  AI maturity levels 
+
+0 Unaware
+
+1 Aware
+
+2 Experimenting
+
+3 Operational
+
+4 Integrated
+
+5 Transformational
+
+.We now wish to v**alidate our draft model to improve it and make it more useful to libraries** to help them characterise/understand where they are and how they might progress in terms of their maturity level.
+
+**TAKE THE SURVEY** to asses your library.  AI in libraries - **MATURITY LEVEL SURVEY**  July 2026 **[Survey link  ](https://www.surveymonkey.com/r/NC79RHV)**You can optionally enter for the prize draw (£50 Amazon gift voucher)
 
 # AI capabilities that are part of library technology products such as library systems.
 

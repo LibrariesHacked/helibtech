@@ -43,6 +43,21 @@ There are 6  AI maturity levels
 
 **TAKE THE SURVEY** to asses your library.  AI in libraries - **MATURITY LEVEL SURVEY**  July 2026 **[Survey link  ](https://www.surveymonkey.com/r/NC79RHV)**You can optionally enter for the prize draw (£50 Amazon gift voucher)
 
+You may also be interested in **another approach by US consultants *Attain.***
+
+**[Human-Centered AI Maturity for Academic Libraries](https://attainpartners.com/blog/human-centered-ai-maturity-for-academic-libraries/)**. Attain Partners. Blog 14 April 2026
+
+This model uses different dimensions:
+
+* Collections
+* Discovery
+* Research Support
+* Metadata & Cataloging
+* Instruction
+* Facilities & Space
+* Preservation
+* Governance
+
 # AI capabilities that are part of library technology products such as library systems.
 
 NOTE: Product descriptions are not necessarily unbiased. They are taken from a mixture of vendor, library and other websites If you would like to **contribute to HELibTech please send us your content** via our content submission form. Alternatively feel free to contact Paul Verlander (HELibTech Community Editor) to discuss further.

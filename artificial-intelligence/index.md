@@ -64,6 +64,21 @@ NOTE: Product descriptions are not necessarily unbiased. They are taken from a m
 
 ## Discovery
 
+For for information on the integration of AI into academic search tools and other library products see:
+
+**[A Librarian’s Guide to AI in Academic Search Tools](https://katinamagazine.org/content/article/reviews/2025/a-librarians-guide-to-ai-in-academic-search-tools)**. By Aaron Tay Chee Hsien.  Katina Magazine. 20 May 2025 
+
+the guide provides an overview of
+
+* Large Language Models (LLMS)
+* Constructing an Answer with Retrieval Augmented Generation (RAG)
+* Understanding (Vector) Embedding Search
+* Why the Use of Embeddings in Retrieval Reduces Interpretability
+* Embedding Search in Practice
+* Why Embedding Search Leads to Less Reproducible Results
+* Reranking with Embedding Search
+* Hybrid Search and Rerankers
+
 ### Clarivate/Ex Libris  
 
 #### [Primo Research Assistant](https://exlibrisgroup.com/announcement/ex-libris-primo-research-assistant-is-now-available-for-primo-institutions/)

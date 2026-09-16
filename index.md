@@ -48,7 +48,7 @@ Dave Rowe is an experienced software developer and creator of the award winning 
 
 ## Our sponsors
 
-HELibTech is generously sponsored by Technology from Sage, PTFS Europe and Ken Chad Consulting. It is through our sponsors on-going support that bursaries are provided for our Community Editors and that our site is hosted and maintained.
+HELibTech is generously sponsored by Technology from Sage, Open Fifth and Ken Chad Consulting. It is through our sponsors on-going support that bursaries are provided for our Community Editors and that our site is hosted and maintained.
 
 ![](/assets/images/tehcnology-from-sage.jpg)
 

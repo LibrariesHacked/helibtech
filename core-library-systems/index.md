@@ -51,7 +51,6 @@ Another feature of a LSP it that it comes paired with a ‘discovery service’ 
 
 ### The evolution of 'legacy' library systems
 
-Rather than take the path of creating wholly new LSPs some vendors such as Innovative Interfaces (now part of Clariate), SirsiDynix and ESS (formerly Capita) maintained their legacy systems but moved to a hosted model and layered web interfaces (eg SirsiDynix BlueCloud) and additional functionality over that.
-
+Rather than take the path of creating wholly new LSPs some vendors such as Innovative Interfaces (now part of Clariate), SirsiDynix and ESS (formerly Capita) maintained their legacy systems but moved to a hosted model and layered web interfaces (eg SirsiDynix BlueCloud) and additional functionality over that
 
 **Section updated October 2024**

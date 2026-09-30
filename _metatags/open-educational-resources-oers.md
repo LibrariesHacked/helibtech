@@ -1,6 +1,6 @@
 ---
-title: Open Educational Resources (OERs)
-hint: Open Educational Resources (OERs)
+title: Open Educational Resources (OER)
+hint: Open Educational Resources (OER)
 layout: metatag
 nav_exclude: true
 ---

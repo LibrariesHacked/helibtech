@@ -1,17 +1,33 @@
 ---
 title: Useful resources
+published: true
 layout: enhanced
 nav_order: 3
 parent: Artificial intelligence
 has_children: false
-tags: []
-published: true
+tags:
+  - Artificial Intelligence
+  - AI
 ---
 # Artificial intelligence: useful resources
 
 Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of artificial intelligence:
 
-### [An Evaluative Framework for assessing AI tools](https://intranet.birmingham.ac.uk/student/libraries/copyright/researchers/responsible-ai-tool-selection.aspx) 
+### [NISO Open Discovery Initiative Transparency in AI Panel Series: Panel 1 – The Effect of GenAI on Library Discovery](https://www.niso.org/events/niso-odi-webinar-series-genai)
+
+The NISO Open Discovery Initiative is a group that was born out of the emergence of web-scale discovery. In 2024 they published a white paper called [Generative Artificial Intelligence and Web-Scale Discovery](https://www.niso.org/publications/odi-ai-survey-report) which examined the results of a survey conducted by ODI to assess the information community's perception of the impact of AI on library discovery services.
+
+As part of the outcome of that report ODI is hosting a series of webinars exploring AI and discovery and the future of library discovery, and this is the first of those webinars.
+
+In the webinar, Sarah Barbrow from the University of Michigan talks about the challenge for library instructors to cope with the explosion in GenAI tools. Her library has formed a committee which evaluates AI tools and creates resources for library instructors to understand the technology and the issues at stake so they can respond to their patron needs. See examples of the resources that have been created [here](https://guides.lib.umich.edu/genai-library-instruction).
+
+Sima Bloch-Winkler from Clarivate is responsible for Primo and library discovery and talks about how GenAI is already changing how students and researchers interact with information. She describes the balance that libraries have to strike between continuing to offer traditional discovery while also recognizing that users want to use GenAI tools and run natural language rather than Boolean searches.
+
+Robert Hilliker from Springer Nature talks about how to use AI responsibly and examines how researchers are using AI tools to gather information, particularly early-career researchers who face the challenge of having to publish frequently. 
+
+Alfred Wallace from Iowa State University talks about the role of the library in helping patrons to adapt to the growing use of agentic AI and demonstrates how GenAI tools such as ChatGPT, Claude and others can be connected to library services such as Primo and Zotero – a development that is further changing how users discover and utilise library resources.
+
+### [An Evaluative Framework for assessing AI tools](https://intranet.birmingham.ac.uk/student/libraries/copyright/researchers/responsible-ai-tool-selection.aspx)
 
 \- to help a researcher critically assess a tool before using it. Created by University of Birmingham. 2025. 
 "*The Evaluative Framework for AI tools has been developed to help you make informed decisions when selecting a new AI tool to use. It provides you with a series of questions to ask yourself, ranging from the relevance of using an AI Tool for the task at hand to whether the use of a tool is compliant with stakeholder policies relevant to you as a researcher."*
@@ -21,7 +37,6 @@ Below is a collection of useful reports, websites, blogposts etc. relevant to di
 [](https://intranet.birmingham.ac.uk/student/libraries/copyright/researchers/ai-tools-licensing-review-guidance.aspx)a quick review checklist (aimed at researchers evaluating the terms and conditions of a tool), and a full review aimed at supporting anyone formally purchasing an AI tool for a group of users (this could be researchers or eResources/Licencing librarians). Created by University of Birmingham. 2025
 
 *"The Quick Review Checklist is aimed at helping you to quickly review the terms and conditions (licence) of an AI tool that you are considering on registering to use. It takes you through ten key points to consider before registering with an AI tool and is aimed at keeping you and your organisation safe from problematic licence terms."*
-
 
 ### **[Generative Artificial Intelligence and Web-Scale Discovery](https://niso.org/publications/odi-ai-survey-report)**.
 

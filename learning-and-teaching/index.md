@@ -26,9 +26,12 @@ In this section you will find information about:
 * Digitisation software
 * Integration / interoperability between library systems and Virtual Learning Environments
 * Etextbooks
+* Open Educational Resources (OER)
 
 In the case of digitisation, this specifically refers to software / workflow management solutions for digitisation of published content for distribution to students to support learning and teaching. Digitisation in the context of supporting special collections is not covered here.
 
 Although etextbooks are "content", you will find them in this section as the etextbook delivery model is fundamentally different to the traditional premise of library collections and provision of textbooks on a universal access model can be seen as intrinsic to delivery of learning and teaching.
+
+Open Educational Resources (OER) are teaching and learning materials that are freely available online for everyone to use. 
 
 **Section updated October 2024**

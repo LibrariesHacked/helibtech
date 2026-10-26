@@ -8,6 +8,9 @@ tags:
   - ILS
   - Discovery
   - Archives
+  - Open source
+  - Data & analytics
+  - Institutional repository
 published: true
 layout: enhanced
 parent: About our sponsors

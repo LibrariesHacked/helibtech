@@ -1,5 +1,6 @@
 ---
 title: Market overview
+published: true
 layout: enhanced
 nav_order: 1
 parent: Research management
@@ -15,7 +16,6 @@ tags:
   - Procurement
   - Products
   - RDM
-published: true
 ---
 # Research management systems - market overview
 
@@ -43,9 +43,6 @@ The market for CRIS / RIMS systems is dominated in the UK by Elsevier's Pure and
 
 You can also find more information on the UK research systems market in the 
 SCONUL report: [The Library Technology Landscape: Results of the SCONUL Technology Survey 2024](<>)
-
-
-
 
 ### HELibTech Who Uses What Library Technology
 

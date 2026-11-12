@@ -39,7 +39,7 @@ This data is continually updated. You can see the date last updated by going int
 
 ### Missing data
 
-If your institution's information is incorrect or missing [](https://docs.google.com/forms/d/e/1FAIpQLSfIjk1ECrL4IMTzSUGQ8C6QSCE79j9RQmQsuIiEE04yN-MHgQ/viewform)please complete our [updates form](https://docs.google.com/forms/d/e/1FAIpQLSerR7YUST6iTLUd8hN2dRkzP68JeURPWQmodOQtQrv8oYL9Hw/viewform) and we will amend the data in the table.
+If your institution's information is incorrect or missing [](https://docs.google.com/forms/d/e/1FAIpQLSfIjk1ECrL4IMTzSUGQ8C6QSCE79j9RQmQsuIiEE04yN-MHgQ/viewform)please contact Ken Chad (ken@kenchadconsulting.com) and we will amend the data .
 
 ### Comparative analysis
 

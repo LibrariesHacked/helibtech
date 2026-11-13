@@ -1,5 +1,6 @@
 ---
 title: Useful resources
+published: true
 layout: enhanced
 nav_order: 10
 parent: Core library systems
@@ -10,13 +11,12 @@ tags:
   - Library systems
   - LMS
   - Library services platform
-published: true
 ---
 # Core library systems: useful resources
 
 Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of core library systems:
 
-[The Library Technology Landscape](https://www.sconul.ac.uk/SCONULDownloadController/Download?iType=1&iID=2417&cGUID=7fe2af48-cb66-46d8-adb1-bd6028163de6&cTempLocation=) : **Results of the SCONUL Technology Survey 2024**
+[The Library Technology Landscape](https://www.sconul.ac.uk/knowledge-hub/library-technologies/the-library-technology-landscape/) : **Results of the SCONUL Technology Survey 2024**
 
 The SCONUL Library Technology Survey provides an in-depth analysis of the technology landscape in UK and Ireland academic libraries, covering 26 functional areas. It serves as a reference for libraries to understand market offerings and improve their technology systems.
 

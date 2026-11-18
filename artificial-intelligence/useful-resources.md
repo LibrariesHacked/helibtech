@@ -15,7 +15,7 @@ Below is a collection of useful reports, websites, blogposts etc. relevant to di
 
 ### [Ithaka S+R Generative AI Product Tracker](https://sr.ithaka.org/our-work/generative-ai-product-tracker/)
 
-This tracker is updated regularly and lists generative AI products that are being used by HE libraries. See also the accompanying briefing: [Generative AI in Higher Ed: The Product Landscape](https://sr.ithaka.org/publications/generative-ai-in-higher-education/).
+This tracker is updated regularly and lists generative AI products that are being used by HE libraries. It includes a basic description of each tool, as well as information about the pricing model, key features, and other relevant details such as the large language model (LLM) or datasets behind the tool or background on the vendor. See also the accompanying briefing: [Generative AI in Higher Ed: The Product Landscape](https://sr.ithaka.org/publications/generative-ai-in-higher-education/).
 
 ### [NISO Open Discovery Initiative Transparency in AI Panel Series: Panel 1 – The Effect of GenAI on Library Discovery](https://www.niso.org/events/niso-odi-webinar-series-genai)
 

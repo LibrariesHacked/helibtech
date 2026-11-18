@@ -13,6 +13,10 @@ tags:
 
 Below is a collection of useful reports, websites, blogposts etc. relevant to different aspects of artificial intelligence:
 
+### [Ithaka S+R Generative AI Product Tracker](https://sr.ithaka.org/our-work/generative-ai-product-tracker/)
+
+This tracker is updated regularly and lists generative AI products that are being used by HE libraries. See also the accompanying briefing: [Generative AI in Higher Ed: The Product Landscape](https://sr.ithaka.org/publications/generative-ai-in-higher-education/).
+
 ### [NISO Open Discovery Initiative Transparency in AI Panel Series: Panel 1 – The Effect of GenAI on Library Discovery](https://www.niso.org/events/niso-odi-webinar-series-genai)
 
 The NISO Open Discovery Initiative is a group that was born out of the emergence of web-scale discovery. In 2024 they published a white paper called [Generative Artificial Intelligence and Web-Scale Discovery](https://www.niso.org/publications/odi-ai-survey-report) which examined the results of a survey conducted by ODI to assess the information community's perception of the impact of AI on library discovery services.
